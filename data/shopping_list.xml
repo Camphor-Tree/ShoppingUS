@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ShoppingList>
+  <product category="食品">
+    <id>1</id>
+    <name>Harry Potter</name>
+    <brand>J K. Rowling</brand>
+    <year>2005</year>
+    <price>29.99</price>
+	<description></description>
+    <unit></unit>
+    <coupon></coupon>
+    <link></link>
+    <image></image>
+  </product>
+  <product category="化妆品">
+    <id>2</id>
+    <name>LHEadef=-3221</name>
+    <brand>Erik T. Ray</brand>
+    <year>2003</year>
+    <price>39.95</price>
+	<description></description>
+    <unit></unit>
+    <coupon></coupon>
+    <link></link>
+    <image></image>
+  </product>
+  <product category="保健品">
+    <id>3</id>
+    <name>鱼油</name>
+    <brand>GNC</brand>
+    <year>2003</year>
+    <price>39.95</price>
+	<description></description>
+    <unit></unit>
+    <coupon></coupon>
+    <link></link>
+    <image></image>
+  </product>  
+  <product category="食品">
+    <id>4</id>
+    <name>Hdfadfaame>
+    <brand>J K. Rowling</brand>
+    <year>2005</year>
+    <price>29.99</price>
+	<description></description>
+    <unit></unit>
+    <coupon></coupon>
+    <link></link>
+    <image></image>
+  </product>
+  <product category="化妆品">
+    <id>5</id>
+    <name>Learning XML</name>
+    <brand>Erik T. Ray</brand>
+    <year>2003</year>
+    <price>39.95</price>
+	<description></description>
+    <unit></unit>
+    <coupon></coupon>
+    <link></link>
+    <image></image>
+  </product>
+  <product category="保健品">
+    <id>6</id>
+    <name>鱼油</name>
+    <brand>GNC</brand>
+    <year>2003</year>
+    <price>39.95</price>
+	<description></description>
+    <unit></unit>
+    <coupon></coupon>
+    <link></link>
+    <image></image>
+  </product>
+  <product category="保健品">
+    <id>7</id>
+    <name>鱼油</name>
+    <brand>GNC</brand>
+    <year>2003</year>
+    <price>39.95</price>
+	<description></description>
+    <unit></unit>
+    <coupon></coupon>
+    <link></link>
+    <image></image>
+  </product>
+</ShoppingList>
