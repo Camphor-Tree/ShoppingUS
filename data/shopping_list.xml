@@ -1,94 +1,411 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ShoppingList>
   <product>
-    <id>1</id>
-	<category>食品</category>
-    <name>Harry Potter</name>
-    <brand>J K. Rowling</brand>
-    <year>2005</year>
-    <price>29.99</price>
+	<category>食品类</category>
+    <name>22粒装牛奶巧克力礼盒 - 经典款</name>
+    <brand>Godiva</brand>
+    <year>2014</year>
+    <price>36</price>
 	<description></description>
-    <unit></unit>
+    <unit>$</unit>
     <coupon></coupon>
     <link></link>
-    <image></image>
+    <image>image/godiva_milk_chocolate_gift_box.jpg</image>
   </product>
   <product>
-    <id>2</id>
-    <category>化妆品</category>
-    <name>LHEadef=-3221</name>
-    <brand>Erik T. Ray</brand>
-    <year>2003</year>
-    <price>39.95</price>
-	<description></description>
-    <unit></unit>
+    <category>食品类</category>
+    <name>夹心牛奶巧克力3套装 - 咸太妃糖，松露，甘纳许</name>
+    <brand>Godiva</brand>
+    <year>2014</year>
+    <price>36</price>
+    <description></description>
+    <unit>$</unit>
     <coupon></coupon>
     <link></link>
-    <image></image>
+    <image>image/godiva_wrapped_milk_chocolate_set.jpg</image>
   </product>
   <product>
-    <id>3</id>
-	<category>保健品</category>
-    <name>鱼油</name>
-    <brand>GNC</brand>
-    <year>2003</year>
-    <price>39.95</price>
-	<description></description>
-    <unit></unit>
+    <category>食品类</category>
+    <name>27粒装黑巧克力礼盒 - 经典款</name>
+    <brand>Godiva</brand>
+    <year>2014</year>
+    <price>36</price>
+    <description></description>
+    <unit>$</unit>
     <coupon></coupon>
     <link></link>
-    <image></image>
+    <image>image/godiva_dark_chocolate_gift_box.jpg</image>
+  </product>
+  <product>
+    <category>护肤品类</category>
+    <name>大豆洗面奶</name>
+    <brand>Fresh</brand>
+    <year>2014</year>
+    <price>38</price>
+	<description></description>
+    <unit>$</unit>
+    <coupon></coupon>
+    <link></link>
+    <image>image/fresh_soy_cleanser.png</image>
+  </product>
+  <product>
+    <category>护肤品类</category>
+    <name>黄糖面膜</name>
+    <brand>Fresh</brand>
+    <year>2014</year>
+    <price>58</price>
+    <description></description>
+    <unit>$</unit>
+    <coupon></coupon>
+    <link></link>
+    <image>image/fresh_sugar_mask.png</image>
   </product>  
   <product>
-    <id>4</id>
-	<category>食品</category>
-    <name>Hdfadfa</name>
-    <brand>J K. Rowling</brand>
-    <year>2005</year>
-    <price>29.99</price>
+    <category>护肤品类</category>
+    <name>红茶面膜</name>
+    <brand>Fresh</brand>
+    <year>2014</year>
+    <price>88</price>
+    <description></description>
+    <unit>$</unit>
+    <coupon></coupon>
+    <link></link>
+    <image>image/fresh_black_tea_mask.png</image>
+  </product>
+  <product>
+    <category>护肤品类</category>
+    <name>玫瑰面膜</name>
+    <brand>Fresh</brand>
+    <year>2014</year>
+    <price>88</price>
+    <description></description>
+    <unit>$</unit>
+    <coupon></coupon>
+    <link></link>
+    <image>image/fresh_rose_mask.png</image>
+  </product>
+  <product>
+    <category>护肤品类</category>
+    <name>经典面霜</name>
+    <brand>Kiehl's</brand>
+    <year>2014</year>
+    <price>46.5</price>
+	<description></description>
+    <unit>$</unit>
+    <coupon></coupon>
+    <link></link>
+    <image>image/kiehls_ultra_facial_cream.jpg</image>
+  </product>
+  <product>
+    <category>护肤品类</category>
+    <name>白泥清洁面膜</name>
+    <brand>Kiehl's</brand>
+    <year>2014</year>
+    <price>23</price>
+    <description></description>
+    <unit>$</unit>
+    <coupon></coupon>
+    <link></link>
+    <image>image/kiehls_rare_earth_mask.jpg</image>
+  </product>
+  <product>
+    <category>护肤品类</category>
+    <name>牛油果眼霜</name>
+    <brand>Kiehl's</brand>
+    <year>2014</year>
+    <price>47</price>
+    <description></description>
+    <unit>$</unit>
+    <coupon></coupon>
+    <link></link>
+    <image>image/kiehls_eye_treatment.jpg</image>
+  </product>
+  <product>
+    <category>护肤品类</category>
+    <name>金盏花水 - 8.4oz</name>
+    <brand>Kiehl's</brand>
+    <year>2014</year>
+    <price>35</price>
+    <description></description>
+    <unit>$</unit>
+    <coupon></coupon>
+    <link></link>
+    <image>image/kiehls_calendula_toner.jpg</image>
+  </product>
+  <product>
+    <category>护肤品类</category>
+    <name>祛斑精华 - 1oz</name>
+    <brand>Kiehl's</brand>
+    <year>2014</year>
+    <price>49.5</price>
+    <description></description>
+    <unit>$</unit>
+    <coupon></coupon>
+    <link></link>
+    <image>image/kiehls_dark_spot_serum.png</image>
+  </product>
+  <product>
+    <category>护肤品类</category>
+    <name>氨基酸洗发水 - 8.4oz</name>
+    <brand>Kiehl's</brand>
+    <year>2014</year>
+    <price>18</price>
+    <description></description>
+    <unit>$</unit>
+    <coupon></coupon>
+    <link></link>
+    <image>image/kiehls_shampoo.jpg</image>
+  </product>
+  <product>
+    <category>护肤品类</category>
+    <name>ANR脸部精华 - 1oz</name>
+    <brand>Estee Lauder</brand>
+    <year>2014</year>
+    <price>62</price>
+    <description></description>
+    <unit>$</unit>
+    <coupon></coupon>
+    <link></link>
+    <image>image/estee_lauder_serum.jpg</image>
+  </product>
+  <product>
+    <category>护肤品类</category>
+    <name>ANR眼霜 - 0.5oz</name>
+    <brand>Estee Lauder</brand>
+    <year>2014</year>
+    <price>58</price>
+    <description></description>
+    <unit>$</unit>
+    <coupon></coupon>
+    <link></link>
+    <image>image/estee_lauder_eye.jpg</image>
+  </product>
+  <product>
+    <category>护肤品类</category>
+    <name>ANR眼部精华 - 0.5oz</name>
+    <brand>Estee Lauder</brand>
+    <year>2014</year>
+    <price>65</price>
+    <description></description>
+    <unit>$</unit>
+    <coupon></coupon>
+    <link></link>
+    <image>image/estee_lauder_eye_serum.jpg</image>
+  </product>
+  <product>
+    <category>护肤品类</category>
+    <name>经典面霜 - 2oz</name>
+    <brand>La Mer</brand>
+    <year>2014</year>
+    <price>295</price>
+    <description></description>
+    <unit>$</unit>
+    <coupon></coupon>
+    <link></link>
+    <image>image/lamer_cream.jpg</image>
+  </product>
+  <product>
+    <category>护肤品类</category>
+    <name>精华乳霜 - 2oz</name>
+    <brand>La Mer</brand>
+    <year>2014</year>
+    <price>295</price>
+    <description></description>
+    <unit>$</unit>
+    <coupon></coupon>
+    <link></link>
+    <image>image/lamer_soft_cream.jpg</image>
+  </product>
+  <product>
+    <category>护肤品类</category>
+    <name>精华乳液 - 2oz</name>
+    <brand>La Mer</brand>
+    <year>2014</year>
+    <price>295</price>
+    <description></description>
+    <unit>$</unit>
+    <coupon></coupon>
+    <link></link>
+    <image>image/lamer_gel_cream.jpg</image>
+  </product>
+  <product>
+    <category>护肤品类</category>
+    <name>温和洗面奶</name>
+    <brand>Clarins</brand>
+    <year>2014</year>
+    <price>23</price>
+    <description></description>
+    <unit>$</unit>
+    <coupon></coupon>
+    <link></link>
+    <image>image/clarins_gentle_foaming_cleanser.jpg</image>
+  </product>
+  <product>
+    <category>护肤品类</category>
+    <name>温和爽肤水</name>
+    <brand>Clarins</brand>
+    <year>2014</year>
+    <price>23</price>
+    <description></description>
+    <unit>$</unit>
+    <coupon></coupon>
+    <link></link>
+    <image>image/clarins_normal_lotion.jpg</image>
+  </product>
+  <product>
+    <category>护肤品类</category>
+    <name>多元日霜</name>
+    <brand>Clarins</brand>
+    <year>2014</year>
+    <price>59</price>
+    <description></description>
+    <unit>$</unit>
+    <coupon></coupon>
+    <link></link>
+    <image>image/clarins_multi_active_day_cream.jpg</image>
+  </product>
+  <product>
+    <category>护肤品类</category>
+    <name>多元晚霜</name>
+    <brand>Clarins</brand>
+    <year>2014</year>
+    <price>62</price>
+    <description></description>
+    <unit>$</unit>
+    <coupon></coupon>
+    <link></link>
+    <image>image/clarins_multi_active_night_cream.png</image>
+  </product>
+  <product>
+    <category>护肤品类</category>
+    <name>水合日霜</name>
+    <brand>Clarins</brand>
+    <year>2014</year>
+    <price>49.5</price>
+    <description></description>
+    <unit>$</unit>
+    <coupon></coupon>
+    <link></link>
+    <image>image/clarins_hydra_cream.jpg</image>
+  </product>
+  <product>
+    <category>护肤品类</category>
+    <name>莲花面油</name>
+    <brand>Clarins</brand>
+    <year>2014</year>
+    <price>52</price>
+    <description></description>
+    <unit>$</unit>
+    <coupon></coupon>
+    <link></link>
+    <image>image/clarins_lotus_oil.jpg</image>
+  </product>
+  <product>
+    <category>护肤品类</category>
+    <name>黄油 - 无油版</name>
+    <brand>Clinique</brand>
+    <year>2014</year>
+    <price>26</price>
+    <description></description>
+    <unit>$</unit>
+    <coupon></coupon>
+    <link></link>
+    <image>image/clinique_moisturizing_lotion.jpg</image>
+  </product>
+  <product>
+    <category>护肤品类</category>
+    <name>黄油 - 有油版</name>
+    <brand>Clinique</brand>
+    <year>2014</year>
+    <price>26</price>
+    <description></description>
+    <unit>$</unit>
+    <coupon></coupon>
+    <link></link>
+    <image>image/clinique_moisturizing_lotion.jpg</image>
+  </product>
+  <product>
+    <category>护肤品类</category>
+    <name>三合一洗面奶 - 16oz</name>
+    <brand>Philosophy</brand>
+    <year>2014</year>
+    <price>35</price>
+    <description></description>
+    <unit>$</unit>
+    <coupon></coupon>
+    <link></link>
+    <image>image/philosophy_cleanser.jpg</image>
+  </product>
+  <product>
+    <category>护肤品类</category>
+    <name>希望面霜 - 2oz</name>
+    <brand>Philosophy</brand>
+    <year>2014</year>
+    <price>42</price>
+    <description></description>
+    <unit>$</unit>
+    <coupon></coupon>
+    <link></link>
+    <image>image/philosophy_hope_in_jar.jpg</image>
+  </product>
+  <product>
+    <category>护肤品类</category>
+    <name>白色发光面膜 - 去角质</name>
+    <brand>GlamGlow</brand>
+    <year>2014</year>
+    <price>69</price>
+    <description></description>
+    <unit>$</unit>
+    <coupon></coupon>
+    <link></link>
+    <image>image/glamglow_white.jpg</image>
+  </product>
+  <product>
+    <category>护肤品类</category>
+    <name>黑色发光面膜 - 清洁</name>
+    <brand>GlamGlow</brand>
+    <year>2014</year>
+    <price>69</price>
+    <description></description>
+    <unit>$</unit>
+    <coupon></coupon>
+    <link></link>
+    <image>image/glamglow_black.jpg</image>
+  </product>
+  <product>
+    <category>护肤品类</category>
+    <name>蓝色发光面膜 - 保湿</name>
+    <brand>GlamGlow</brand>
+    <year>2014</year>
+    <price>69</price>
+    <description></description>
+    <unit>$</unit>
+    <coupon></coupon>
+    <link></link>
+    <image>image/glamglow_blue.jpg</image>
+  </product>
+  <product>
+    <category>保健品类</category>
+    <name>3倍鱼油</name>
+    <brand>GNC</brand>
+    <year>2014</year>
+    <price>46.99</price>
 	<description></description>
     <unit></unit>
     <coupon></coupon>
     <link></link>
-    <image></image>
+    <image>image/gnc_triple_fish_oil.jpg</image>
   </product>
   <product>
-    <id>5</id>
-	<category>化妆品</category>
-    <name>Learning XML</name>
-    <brand>Erik T. Ray</brand>
-    <year>2003</year>
-    <price>39.95</price>
-	<description></description>
-    <unit></unit>
-    <coupon></coupon>
-    <link></link>
-    <image></image>
-  </product>
-  <product>
-    <id>6</id>
-	 <category>保健品</category>
-    <name>鱼油</name>
+    <category>保健品类</category>
+    <name>300mg葡萄籽</name>
     <brand>GNC</brand>
     <year>2003</year>
-    <price>39.95</price>
+    <price>49.99</price>
 	<description></description>
     <unit></unit>
     <coupon></coupon>
     <link></link>
-    <image></image>
-  </product>
-  <product>
-    <id>7</id>
-	<category>保健品</category>
-    <name>鱼油</name>
-    <brand>GNC</brand>
-    <year>2003</year>
-    <price>39.95</price>
-	<description></description>
-    <unit></unit>
-    <coupon></coupon>
-    <link></link>
-    <image></image>
+    <image>image/gnc_grape_seed.jpg</image>
   </product>
 </ShoppingList>
