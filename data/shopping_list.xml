@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ShoppingList>
-  <product category="食品">
+  <product>
     <id>1</id>
+	<category>食品</category>
     <name>Harry Potter</name>
     <brand>J K. Rowling</brand>
     <year>2005</year>
@@ -12,8 +13,9 @@
     <link></link>
     <image></image>
   </product>
-  <product category="化妆品">
+  <product>
     <id>2</id>
+    <category>化妆品</category>
     <name>LHEadef=-3221</name>
     <brand>Erik T. Ray</brand>
     <year>2003</year>
@@ -24,8 +26,9 @@
     <link></link>
     <image></image>
   </product>
-  <product category="保健品">
+  <product>
     <id>3</id>
+	<category>保健品</category>
     <name>鱼油</name>
     <brand>GNC</brand>
     <year>2003</year>
@@ -36,9 +39,10 @@
     <link></link>
     <image></image>
   </product>  
-  <product category="食品">
+  <product>
     <id>4</id>
-    <name>Hdfadfaame>
+	<category>食品</category>
+    <name>Hdfadfa</name>
     <brand>J K. Rowling</brand>
     <year>2005</year>
     <price>29.99</price>
@@ -48,8 +52,9 @@
     <link></link>
     <image></image>
   </product>
-  <product category="化妆品">
+  <product>
     <id>5</id>
+	<category>化妆品</category>
     <name>Learning XML</name>
     <brand>Erik T. Ray</brand>
     <year>2003</year>
@@ -60,8 +65,9 @@
     <link></link>
     <image></image>
   </product>
-  <product category="保健品">
+  <product>
     <id>6</id>
+	 <category>保健品</category>
     <name>鱼油</name>
     <brand>GNC</brand>
     <year>2003</year>
@@ -72,8 +78,9 @@
     <link></link>
     <image></image>
   </product>
-  <product category="保健品">
+  <product>
     <id>7</id>
+	<category>保健品</category>
     <name>鱼油</name>
     <brand>GNC</brand>
     <year>2003</year>
