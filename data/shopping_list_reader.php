@@ -1,4 +1,5 @@
 <?php
+
 function getProductsCategoryArray()
 {
 	header('Content-Type: text/html; charset=utf-8');
@@ -7,7 +8,6 @@ function getProductsCategoryArray()
 	$xml = simplexml_load_file($xmlPath);
 	$json = json_encode($xml);
 	$shopping_list_array = json_decode($json,TRUE);
-
 	$product_array = $shopping_list_array["product"];
 
 	//print_r($product_array);
@@ -42,4 +42,5 @@ function getProductsCategoryArray()
 
 	return $products_in_each_category_array;
 }
+
 ?>
