@@ -43,11 +43,11 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="#">欢迎来到Logpie</a>
+          <a class="navbar-brand" href="./index.php">欢迎来到Logpie</a>
         </div>
         <div id="navbar" class="collapse navbar-collapse">
           <ul class="nav navbar-nav">
-            <li class="active"><a href="#">主页</a></li>
+            <li><a href="./index.php">主页</a></li>
             <li><a href="./about.html">联系方式</a></li>
           </ul>
         </div><!-- /.nav-collapse -->
@@ -65,20 +65,14 @@
             <button type="button" class="btn btn-primary btn-xs" data-toggle="offcanvas">Toggle nav</button>
           </p>
           -->
-          <div class="jumbotron">
-            <h2>欢迎光临！</h2>
-            <p>Logpie 致力于美国诚信代购。 现初期阶段,只采用熟人介绍的方式。如有代购需求,请当面联系联络人。联络方式请点击上方联系方式。</p>
-			      <li><b>关于物流。</b>本店采用西雅图同舟华人快递。根据重量，价格在20~50刀左右。可以购买保险,价格为保额的3%。时间大约为2~3周。</li>
-			      <li><b>关于关税。</b>购买额150美元以下不收关税。 如超过，物流公司会收取10%左右的关税。</li>
-			      <li><b>关于诚信。</b>本店完全通过联络人介绍, 美国代购人员是联络人的多年朋友，信誉第一。</li>
-			      <li><b>关于付款。</b>我们有对应的淘宝店。可以支付宝付款，或者线下交易联络人，谢绝还价。</li>
-			      <li><b>关于商品。</b>本网站例举的商品不全，如有其它需要，如各品牌的化妆品、护肤品、小型电子产品、食品、保健品等，可联系代购人员。商品只限美国。</li>
-          </div>
           <?php
             include './data/brand_product_reader.php';
             $product_array = getProductsBrandArray();
             $current_brand=$_GET["brand"];
-            $brand_product_array  = $product_array[$current_brand];
+           
+			 if(array_key_exists ( $current_brand , $product_array ))
+			 {
+			  $brand_product_array  = $product_array[$current_brand];
           ?>
 		  
           <div style="color:#FF8000">
@@ -98,13 +92,17 @@
 			     </div>
 				<div style="width:180px;word-break: break-all;">
 				  价格: <?php print_r($product['price']); ?> <?php if(!is_array($product['unit']))print_r($product['unit']);?>
-         
-			     <a class="btn btn-default" href="#" role="button">查看详情 &raquo;</a>
 			     </div>
 				 
             </div>
 			<?php } ?>
           </div>
+		  <?php } else {?>
+		    <div style="color:#FF8000">
+            <br/>
+            <h2> 暂无该品牌商品</h2>  
+          </div>
+		  <?php } ?>
 
       </div>
 
