@@ -1,16 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <BrandList>
 
-	<brand>
-		<category>食品类</category>
+    <brand>
+		  <category>食品类</category>
     	<name_en>Godiva</name_en>
     	<name_cn></name_cn>
     	<description></description>
     	<image>image/Godiva.jpg</image>
   	</brand>
 
+    <brand>
+      <category>母婴类</category>
+      <name_en>Enfanmil</name_en>
+      <name_cn>美赞臣</name_cn>
+      <description></description>
+      <image>image/Enfanmil.jpg</image>
+    </brand>
+
+    <brand>
+      <category>母婴类</category>
+      <name_en>Similac</name_en>
+      <name_cn>雅培</name_cn>
+      <description></description>
+      <image>image/Similac.jpg</image>
+    </brand>
+
+    <brand>
+      <category>母婴类</category>
+      <name_en>Gerber</name_en>
+      <name_cn>嘉宝</name_cn>
+      <description></description>
+      <image>image/Gerber.jpg</image>
+    </brand>
+
+    <brand>
+      <category>母婴类</category>
+      <name_en>Baby’s Only</name_en>
+      <name_cn>贝欧莱</name_cn>
+      <description></description>
+      <image>image/BabysOnly.jpg</image>
+    </brand>
+
+    <brand>
+      <category>母婴类</category>
+      <name_en>L'il Critters</name_en>
+      <name_cn>小熊宝宝</name_cn>
+      <description></description>
+      <image>image/LilCritters.png</image>
+    </brand>
+    
+    <brand>
+      <category>母婴类</category>
+      <name_en>Philips Avent</name_en>
+      <name_cn>飞利浦新安怡</name_cn>
+      <description></description>
+      <image>image/PhilipsAvent.jpg</image>
+    </brand>
+
   	<brand>
-		<category>护肤类</category>
+		  <category>护肤类</category>
     	<name_en>Fresh</name_en>
     	<name_cn></name_cn>
     	<description></description>
@@ -18,7 +66,7 @@
   	</brand>
 
   	<brand>
-		<category>护肤类</category>
+		  <category>护肤类</category>
     	<name_en>Kiehl‘s</name_en>
     	<name_cn>契尔氏</name_cn>
     	<description></description>
@@ -26,7 +74,7 @@
   	</brand>
 
   	<brand>
-		<category>护肤类</category>
+		  <category>护肤类</category>
     	<name_en>Estee Lauder</name_en>
     	<name_cn>雅诗兰黛</name_cn>
     	<description></description>
@@ -34,7 +82,7 @@
   	</brand>
 
   	<brand>
-		<category>护肤类</category>
+		  <category>护肤类</category>
     	<name_en>La Mer</name_en>
     	<name_cn>海蓝之谜</name_cn>
     	<description></description>
@@ -42,7 +90,7 @@
   	</brand>
 
   	<brand>
-		<category>护肤类</category>
+		  <category>护肤类</category>
     	<name_en>Clarins</name_en>
     	<name_cn>娇韵诗</name_cn>
     	<description></description>
@@ -50,7 +98,7 @@
   	</brand>
 
   	<brand>
-		<category>护肤类</category>
+		  <category>护肤类</category>
     	<name_en>Clinique</name_en>
     	<name_cn>倩碧</name_cn>
     	<description></description>
@@ -58,7 +106,7 @@
   	</brand>
 
   	<brand>
-		<category>护肤类</category>
+		  <category>护肤类</category>
     	<name_en>Lancome</name_en>
     	<name_cn>兰蔻</name_cn>
     	<description></description>
@@ -66,7 +114,7 @@
   	</brand>
 
   	<brand>
-		<category>护肤类</category>
+		  <category>护肤类</category>
     	<name_en>Caudalie</name_en>
     	<name_cn></name_cn>
     	<description></description>
@@ -74,7 +122,7 @@
   	</brand>
 
   	<brand>
-		<category>护肤类</category>
+		  <category>护肤类</category>
     	<name_en>Philosophy</name_en>
     	<name_cn>自然哲理</name_cn>
     	<description></description>
@@ -82,7 +130,7 @@
   	</brand>
 
   	<brand>
-		<category>护肤类</category>
+		  <category>护肤类</category>
     	<name_en>GlamGlow</name_en>
     	<name_cn></name_cn>
     	<description></description>
@@ -90,7 +138,7 @@
   	</brand>
 
   	<brand>
-		<category>彩妆类</category>
+		  <category>彩妆类</category>
     	<name_en>Urban Decay</name_en>
     	<name_cn></name_cn>
     	<description></description>
@@ -98,7 +146,7 @@
   	</brand>
 
   	<brand>
-		<category>彩妆类</category>
+		  <category>彩妆类</category>
     	<name_en>Nars</name_en>
     	<name_cn></name_cn>
     	<description></description>
@@ -106,7 +154,7 @@
   	</brand>
 
   	<brand>
-		<category>彩妆类</category>
+		  <category>彩妆类</category>
     	<name_en>Hourglass</name_en>
     	<name_cn></name_cn>
     	<description></description>
@@ -114,7 +162,7 @@
   	</brand>
 
   	<brand>
-		<category>保健类</category>
+		  <category>保健类</category>
     	<name_en>GNC</name_en>
     	<name_cn>健安喜</name_cn>
     	<description></description>
