@@ -75,61 +75,38 @@
 			      <li><b>关于商品。</b>本网站例举的商品不全，如有其它需要，如各品牌的化妆品、护肤品、小型电子产品、食品、保健品等，可联系代购人员。商品只限美国。</li>
           </div>
           <?php
-            include './data/brand_list_reader.php';
-            $brand_array = getBrandArray();
+            include './data/brand_product_reader.php';
+            $product_array = getProductsBrandArray();
+            $current_brand=$_GET["brand"];
+            $brand_product_array  = $product_array[$current_brand];
           ?>
 		  
-		  <?php
-			foreach($brand_array as $key => $category_brand_array)
-			{
-			?>
           <div style="color:#FF8000">
             <br/>
-            <h2> <?php print_r($key); ?></h2>  
+            <h2> <?php print_r($current_brand); ?></h2>  
           </div>
           <div class="row">
-		     <?php foreach($category_brand_array as $brand) 
+		     <?php foreach($brand_product_array as $product) 
 			 {
 			 ?>
             <div class="col-xs-6 col-lg-3">
-              <h3><?php print_r($brand['name_en']); ?></h3>
-              <img src="<?php print_r($brand['image'])?>" alt="<?php print_r($brand['name_en'])?>" style="width:180px;height:180px;padding-bottom:10px;">
+              <h3><?php print_r($product['name'])?></h3>
+              <img src="<?php print_r($product['image'])?>" alt="<?php print_r($product['name'])?>" style="width:180px;height:180px;padding-bottom:10px;">
 				  <div style="width:180px;word-break: break-all;">
 				  <!--Description-->
-				  <?php if(!is_array($brand['description']))print_r($brand['description']); ?>
-			     <!--<a class="btn btn-default" href="#" role="button">查看详情 &raquo;</a>-->
+				  <?php if(!is_array($product['description']))print_r($product['description']); ?>
 			     </div>
 				<div style="width:180px;word-break: break-all;">
-				  <!--
-				  价格: <?php print_r($brand['price']); ?> <?php if(!is_array($brand['unit']))print_r($brand['unit']);?>
-          -->
-			     <a class="btn btn-default" href="./brand.php?brand=<?php print_r($brand['name_en']);?>" role="button">查看详情 &raquo;</a>
+				  价格: <?php print_r($product['price']); ?> <?php if(!is_array($product['unit']))print_r($product['unit']);?>
+         
+			     <a class="btn btn-default" href="#" role="button">查看详情 &raquo;</a>
 			     </div>
 				 
-            </div><!--/.col-xs-6.col-lg-4-->
+            </div>
 			<?php } ?>
-          </div><!--/row-->
-		  <?php 
-			}
-		  ?>
-
-<!--
-        <div class="col-xs-6 col-sm-3 sidebar-offcanvas" id="sidebar" role="navigation">
-          <div class="list-group">
-            <a href="#" class="list-group-item active">Link</a>
-            <a href="#" class="list-group-item">Link</a>
-            <a href="#" class="list-group-item">Link</a>
-            <a href="#" class="list-group-item">Link</a>
-            <a href="#" class="list-group-item">Link</a>
-            <a href="#" class="list-group-item">Link</a>
-            <a href="#" class="list-group-item">Link</a>
-            <a href="#" class="list-group-item">Link</a>
-            <a href="#" class="list-group-item">Link</a>
-            <a href="#" class="list-group-item">Link</a>
           </div>
-        </div>
--->
-      </div><!--/row-->
+
+      </div>
 
       <hr>
 	  </div>
@@ -137,7 +114,7 @@
         <p>&copy; <b>www.logpie.com 2014</b></p>
       </footer>
 
-    </div><!--/.container-->
+    </div>
 
     <!-- Bootstrap core JavaScript
     ================================================== -->
