@@ -43,12 +43,12 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="./index.php">欢迎来到Logpie</a>
+          <a class="navbar-brand" href="./">欢迎来到Logpie</a>
         </div>
         <div id="navbar" class="collapse navbar-collapse">
           <ul class="nav navbar-nav">
-            <li><a href="./index.php">主页</a></li>
-            <li><a href="./about.html">联系方式</a></li>
+            <li><a href="./">主页</a></li>
+            <li><a href="./about.php">联系方式</a></li>
           </ul>
         </div><!-- /.nav-collapse -->
       </div><!-- /.container -->
