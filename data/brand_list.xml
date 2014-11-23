@@ -2,19 +2,27 @@
 <BrandList>
 
     <brand>
-		  <category>食品类</category>
+		<category>食品类</category>
     	<name_en>Godiva</name_en>
-    	<name_cn></name_cn>
+    	<name_cn>歌帝梵</name_cn>
     	<description></description>
     	<image>image/Godiva.jpg</image>
+  	</brand>
+	
+	<brand>
+		<category>食品类</category>
+    	<name_en>Guylian</name_en>
+    	<name_cn>歌帝梵</name_cn>
+    	<description></description>
+    	<image>image/Guylian.jpg</image>
   	</brand>
 
     <brand>
       <category>母婴类</category>
-      <name_en>Enfanmil</name_en>
+      <name_en>Enfamil</name_en>
       <name_cn>美赞臣</name_cn>
       <description></description>
-      <image>image/Enfanmil.jpg</image>
+      <image>image/Enfamil.jpg</image>
     </brand>
 
     <brand>
@@ -52,21 +60,21 @@
     <brand>
       <category>母婴类</category>
       <name_en>Philips Avent</name_en>
-      <name_cn>飞利浦新安怡</name_cn>
+      <name_cn>新安怡</name_cn>
       <description></description>
       <image>image/PhilipsAvent.jpg</image>
     </brand>
 
   	<brand>
-		  <category>护肤类</category>
+		<category>护肤类</category>
     	<name_en>Fresh</name_en>
-    	<name_cn></name_cn>
+    	<name_cn>馥蕾诗</name_cn>
     	<description></description>
     	<image>image/Fresh.jpg</image>
   	</brand>
 
   	<brand>
-		  <category>护肤类</category>
+		<category>护肤类</category>
     	<name_en>Kiehl's</name_en>
     	<name_cn>契尔氏</name_cn>
     	<description></description>
@@ -74,7 +82,7 @@
   	</brand>
 
   	<brand>
-		  <category>护肤类</category>
+		<category>护肤类</category>
     	<name_en>Estee Lauder</name_en>
     	<name_cn>雅诗兰黛</name_cn>
     	<description></description>
@@ -82,7 +90,7 @@
   	</brand>
 
   	<brand>
-		  <category>护肤类</category>
+		<category>护肤类</category>
     	<name_en>La Mer</name_en>
     	<name_cn>海蓝之谜</name_cn>
     	<description></description>
@@ -90,7 +98,7 @@
   	</brand>
 
   	<brand>
-		  <category>护肤类</category>
+		<category>护肤类</category>
     	<name_en>Clarins</name_en>
     	<name_cn>娇韵诗</name_cn>
     	<description></description>
@@ -98,7 +106,7 @@
   	</brand>
 
   	<brand>
-		  <category>护肤类</category>
+		<category>护肤类</category>
     	<name_en>Clinique</name_en>
     	<name_cn>倩碧</name_cn>
     	<description></description>
@@ -106,7 +114,7 @@
   	</brand>
 
   	<brand>
-		  <category>护肤类</category>
+		<category>护肤类</category>
     	<name_en>Lancome</name_en>
     	<name_cn>兰蔻</name_cn>
     	<description></description>
@@ -114,15 +122,15 @@
   	</brand>
 
   	<brand>
-		  <category>护肤类</category>
+		<category>护肤类</category>
     	<name_en>Caudalie</name_en>
-    	<name_cn></name_cn>
+    	<name_cn>欧缇丽</name_cn>
     	<description></description>
-    	<image>image/Caudalie.gif</image>
+    	<image>image/Caudalie.jpg</image>
   	</brand>
 
   	<brand>
-		  <category>护肤类</category>
+		<category>护肤类</category>
     	<name_en>Philosophy</name_en>
     	<name_cn>自然哲理</name_cn>
     	<description></description>
@@ -130,15 +138,15 @@
   	</brand>
 
   	<brand>
-		  <category>护肤类</category>
+		<category>护肤类</category>
     	<name_en>GlamGlow</name_en>
-    	<name_cn></name_cn>
+    	<name_cn>格莱魅</name_cn>
     	<description></description>
     	<image>image/GlamGlow.jpg</image>
   	</brand>
 
   	<brand>
-		  <category>彩妆类</category>
+		<category>彩妆类</category>
     	<name_en>Urban Decay</name_en>
     	<name_cn></name_cn>
     	<description></description>
@@ -146,27 +154,51 @@
   	</brand>
 
   	<brand>
-		  <category>彩妆类</category>
+		<category>彩妆类</category>
     	<name_en>Nars</name_en>
-    	<name_cn></name_cn>
+    	<name_cn>纳斯</name_cn>
     	<description></description>
     	<image>image/Nars.jpg</image>
   	</brand>
 
   	<brand>
-		  <category>彩妆类</category>
+		<category>彩妆类</category>
     	<name_en>Hourglass</name_en>
-    	<name_cn></name_cn>
+    	<name_cn>沙漏</name_cn>
     	<description></description>
     	<image>image/Hourglass.png</image>
   	</brand>
+	
+	<brand>
+		<category>彩妆类</category>
+    	<name_en>Lorac</name_en>
+    	<name_cn></name_cn>
+    	<description></description>
+    	<image>image/Lorac.jpg</image>
+  	</brand>
 
   	<brand>
-		  <category>保健类</category>
+		<category>保健类</category>
     	<name_en>GNC</name_en>
     	<name_cn>健安喜</name_cn>
     	<description></description>
     	<image>image/GNC.jpg</image>
+  	</brand>
+	
+	<brand>
+		<category>电子类</category>
+    	<name_en>Philips</name_en>
+    	<name_cn>飞利浦</name_cn>
+    	<description></description>
+    	<image>image/Philips.jpg</image>
+  	</brand>
+	
+	<brand>
+		<category>电子类</category>
+    	<name_en>Tissot</name_en>
+    	<name_cn>天梭</name_cn>
+    	<description></description>
+    	<image>image/Tissot.jpg</image>
   	</brand>
 
 

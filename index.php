@@ -92,8 +92,8 @@
 			 {
 			 ?>
             <div class="col-xs-6 col-lg-3">
-              <h3><?php print_r($brand['name_en']); ?></h3>
-              <img src="<?php print_r($brand['image'])?>" alt="<?php print_r($brand['name_en'])?>" style="width:180px;height:180px;padding-bottom:10px;">
+              <h3><?php if(!is_array($brand['name_cn'])) {print_r($brand['name_cn']);?>/<?php } print_r($brand['name_en'])?></h3>
+              <img src="<?php print_r($brand['image'])?>" alt="<?php print_r($brand['name_cn']);?><?php print_r($brand['name_en'])?>" style="width:250px;height:200px;padding-bottom:15px;">
 				  <div style="width:180px;word-break: break-all;">
 				  <!--Description-->
 				  <?php if(!is_array($brand['description']))print_r($brand['description']); ?>

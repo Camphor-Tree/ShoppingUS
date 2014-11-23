@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <ShoppingList>
 
 <!-- 食品类 -->
@@ -18,7 +18,7 @@
   	</product>
   	<product>
     	<category>食品类</category>
-    	<name>夹心牛奶巧克力3套装 - 咸太妃糖，松露，甘纳许</name>
+    	<name>夹心牛奶巧克力 - 咸太妃糖，松露，甘纳许</name>
     	<brand>Godiva</brand>
     	<year>2014</year>
     	<price>36</price>
@@ -41,8 +41,132 @@
     	<image>image/godiva_dark_chocolate_gift_box.jpg</image>
   	</product>
 
-  	<!-- Brand -->
-
+<!-- 母婴类 -->、
+	<!-- Enfamil -->
+	<product>
+    	<category>母婴类</category>
+    	<name>0-3月婴儿奶粉 - 22.2oz</name>
+    	<brand>Enfamil</brand>
+    	<year>2014</year>
+    	<price>26</price>
+    	<description></description>
+    	<unit>美元</unit>
+    	<coupon></coupon>
+    	<link></link>
+    	<image>image/enfamil_newborn.png</image>
+  	</product>
+	<product>
+    	<category>母婴类</category>
+    	<name>0-6月婴儿奶粉 - 12.5oz</name>
+    	<brand>Enfamil</brand>
+    	<year>2014</year>
+    	<price>16</price>
+    	<description></description>
+    	<unit>美元</unit>
+    	<coupon></coupon>
+    	<link></link>
+    	<image>image/enfamil_infant.png</image>
+  	</product>
+	<product>
+    	<category>母婴类</category>
+    	<name>6-12月婴儿奶粉 - 21oz</name>
+    	<brand>Enfamil</brand>
+    	<year>2014</year>
+    	<price>20</price>
+    	<description></description>
+    	<unit>美元</unit>
+    	<coupon></coupon>
+    	<link></link>
+    	<image>image/enfagrow_transitions.png</image>
+  	</product>
+	<product>
+    	<category>母婴类</category>
+    	<name>1-3岁婴儿奶粉 - 24oz</name>
+    	<brand>Enfamil</brand>
+    	<year>2014</year>
+    	<price>20</price>
+    	<description></description>
+    	<unit>美元</unit>
+    	<coupon></coupon>
+    	<link></link>
+    	<image>image/enfagrow_next_step.png</image>
+  	</product>
+	
+	<!-- Similac -->
+	<product>
+    	<category>母婴类</category>
+    	<name>0-12月婴儿奶粉</name>
+    	<brand>Similac</brand>
+    	<year>2014</year>
+    	<price>25</price>
+    	<description></description>
+    	<unit>美元</unit>
+    	<coupon></coupon>
+    	<link></link>
+    	<image>image/similac_advance_1.png</image>
+  	</product>
+	<product>
+    	<category>母婴类</category>
+    	<name>6-12月婴儿奶粉</name>
+    	<brand>Similac</brand>
+    	<year>2014</year>
+    	<price>32</price>
+    	<description></description>
+    	<unit>美元</unit>
+    	<coupon></coupon>
+    	<link></link>
+    	<image>image/similac_advance_2.png</image>
+  	</product>	
+	<product>
+    	<category>母婴类</category>
+    	<name>1-2岁婴儿奶粉</name>
+    	<brand>Similac</brand>
+    	<year>2014</year>
+    	<price>23</price>
+    	<description></description>
+    	<unit>美元</unit>
+    	<coupon></coupon>
+    	<link></link>
+    	<image>image/similac_gogrow_3.png</image>
+  	</product>
+	
+	<!-- L'il Critters -->
+	<product>
+    	<category>母婴类</category>
+    	<name>复合维生素D+钙软糖</name>
+    	<brand>L'il Critters</brand>
+    	<year>2014</year>
+    	<price>16</price>
+    	<description></description>
+    	<unit>美元</unit>
+    	<coupon></coupon>
+    	<link></link>
+    	<image>image/lc_calcium.jpg</image>
+  	</product>
+	<product>
+    	<category>母婴类</category>
+    	<name>Omega3+DHA软糖</name>
+    	<brand>L'il Critters</brand>
+    	<year>2014</year>
+    	<price>16</price>
+    	<description></description>
+    	<unit>美元</unit>
+    	<coupon></coupon>
+    	<link></link>
+    	<image>image/lc_omega_3.jpg</image>
+  	</product>
+	<product>
+    	<category>母婴类</category>
+    	<name>天然果蔬软糖</name>
+    	<brand>L'il Critters</brand>
+    	<year>2014</year>
+    	<price>15</price>
+    	<description></description>
+    	<unit>美元</unit>
+    	<coupon></coupon>
+    	<link></link>
+    	<image>image/lc_fruit_veggie.jpg</image>
+  	</product>
 
 <!-- 护肤类 -->
 	<!-- Fresh -->
@@ -80,7 +204,7 @@
     	<unit>美元</unit>
     	<coupon></coupon>
     	<link></link>
-    	<image>image/fresh_black_tea_mask.png</image>
+    	<image>image/fresh_black_tea_mask.jpg</image>
   	</product>
   	<product>
     	<category>护肤类</category>
@@ -358,6 +482,45 @@
     	<link></link>
     	<image>image/lancome_youth_activating_concentrate.jpg</image>
   	</product>
+	
+	<product>
+    	<category>护肤类</category>
+    	<name>清莹柔肤水 - 6.7oz</name>
+    	<brand>Lancome</brand>
+    	<year>2014</year>
+    	<price>25</price>
+    	<description></description>
+    	<unit>美元</unit>
+    	<coupon></coupon>
+    	<link></link>
+    	<image>image/lancome_toner.jpg</image>
+  	</product>
+	
+	<product>
+    	<category>护肤类</category>
+    	<name>眼部卸妆液 - 4.2oz</name>
+    	<brand>Lancome</brand>
+    	<year>2014</year>
+    	<price>28</price>
+    	<description></description>
+    	<unit>美元</unit>
+    	<coupon></coupon>
+    	<link></link>
+    	<image>image/lancome_eye_remover.jpg</image>
+  	</product>
+	
+	<product>
+    	<category>护肤类</category>
+    	<name>清莹柔肤洁面乳 - 4.2oz</name>
+    	<brand>Lancome</brand>
+    	<year>2014</year>
+    	<price>25</price>
+    	<description></description>
+    	<unit>美元</unit>
+    	<coupon></coupon>
+    	<link></link>
+    	<image>image/lancome_cleanser.jpg</image>
+  	</product>
 
 
   	<!-- Caudalie -->
@@ -372,6 +535,71 @@
     	<coupon></coupon>
     	<link></link>
     	<image>image/caudalie_beauty_elixir.jpg</image>
+  	</product>
+	
+	<product>
+    	<category>护肤类</category>
+    	<name>冰淇淋霜 - 1.3oz</name>
+    	<brand>Caudalie</brand>
+    	<year>2014</year>
+    	<price>39</price>
+    	<description></description>
+    	<unit>美元</unit>
+    	<coupon></coupon>
+    	<link></link>
+    	<image>image/caudalie_vinosource_sorbet.jpg</image>
+  	</product>
+	
+	<product>
+    	<category>护肤类</category>
+    	<name>舒缓保湿精华液 - 1oz</name>
+    	<brand>Caudalie</brand>
+    	<year>2014</year>
+    	<price>49</price>
+    	<description></description>
+    	<unit>美元</unit>
+    	<coupon></coupon>
+    	<link></link>
+    	<image>image/caudalie_vinosource_serum.jpg</image>
+  	</product>
+	
+	<product>
+    	<category>护肤类</category>
+    	<name>亮白精华液 - 1oz</name>
+    	<brand>Caudalie</brand>
+    	<year>2014</year>
+    	<price>79</price>
+    	<description></description>
+    	<unit>美元</unit>
+    	<coupon></coupon>
+    	<link></link>
+    	<image>image/caudalie_vinoperfect_serum.jpg</image>
+  	</product>
+	
+	<product>
+    	<category>护肤类</category>
+    	<name>亮白新生日霜 - 1.3oz</name>
+    	<brand>Caudalie</brand>
+    	<year>2014</year>
+    	<price>64</price>
+    	<description></description>
+    	<unit>美元</unit>
+    	<coupon></coupon>
+    	<link></link>
+    	<image>image/caudalie_vinoperfect_day_cream.jpg</image>
+  	</product>
+	
+	<product>
+    	<category>护肤类</category>
+    	<name>亮白新生晚霜 - 1.3oz</name>
+    	<brand>Caudalie</brand>
+    	<year>2014</year>
+    	<price>64</price>
+    	<description></description>
+    	<unit>美元</unit>
+    	<coupon></coupon>
+    	<link></link>
+    	<image>image/caudalie_vinoperfect_night_cream.jpg</image>
   	</product>
 
 
@@ -442,7 +670,56 @@
 
 
 	<!-- 彩妆类 -->
-
+	<!-- Urban Decay-->
+  	<product>
+    	<category>彩妆类</category>
+    	<name>Naked眼影盘1号</name>
+    	<brand>Urban Decay</brand>
+    	<year>2014</year>
+    	<price>54</price>
+    	<description></description>
+    	<unit>美元</unit>
+    	<coupon></coupon>
+    	<link></link>
+    	<image>image/naked_1.jpg</image>
+  	</product>
+  	<product>
+    	<category>彩妆类</category>
+    	<name>Naked眼影盘2号</name>
+    	<brand>Urban Decay</brand>
+    	<year>2014</year>
+    	<price>54</price>
+    	<description></description>
+    	<unit>美元</unit>
+    	<coupon></coupon>
+    	<link></link>
+    	<image>image/naked_2.jpg</image>
+  	</product>
+  	<product>
+    	<category>彩妆类</category>
+    	<name>Naked眼影盘3号</name>
+    	<brand>Urban Decay</brand>
+    	<year>2014</year>
+    	<price>54</price>
+    	<description></description>
+    	<unit>美元</unit>
+    	<coupon></coupon>
+    	<link></link>
+    	<image>image/naked_3.jpg</image>
+  	</product>
+	<product>
+    	<category>彩妆类</category>
+    	<name>UD妆前乳 - 0.37oz</name>
+    	<brand>Urban Decay</brand>
+    	<year>2014</year>
+    	<price>20</price>
+    	<description></description>
+    	<unit>美元</unit>
+    	<coupon></coupon>
+    	<link></link>
+    	<image>image/ud_prime.jpg</image>
+  	</product>
+	
 
 	<!-- 保健类 -->
   	<product>
