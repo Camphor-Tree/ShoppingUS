@@ -68,20 +68,19 @@
           <div class="jumbotron">
             <h2>欢迎光临！</h2>
             <p>Logpie 致力于美国诚信代购。 现初期阶段,只采用熟人介绍的方式。如有代购需求,请当面联系联络人。联络方式请点击上方联系方式。</p>
-			  <li><b>关于物流。</b>本店采用西雅图同舟华人快递。根据重量，价格在20~50刀左右。可以购买保险,价格为保额的3%。时间大约为2~3周。</li>
-			  <li><b>关于关税。</b>购买额150美元以下不收关税。 如超过，物流公司会收取10%左右的关税。</li>
-			  <li><b>关于诚信。</b>本店完全通过联络人介绍, 美国代购人员是联络人的多年朋友，信誉第一。</li>
-			  <li><b>关于付款。</b>我们有对应的淘宝店。可以支付宝付款，或者线下交易联络人，谢绝还价。</li>
-			  <li><b>关于商品。</b>本网站例举的商品不全，如有其它需要，如各品牌的化妆品、护肤品、小型电子产品、食品、保健品等，可联系代购人员。商品只限美国。</li>
-			  
+			      <li><b>关于物流。</b>本店采用西雅图同舟华人快递。根据重量，价格在20~50刀左右。可以购买保险,价格为保额的3%。时间大约为2~3周。</li>
+			      <li><b>关于关税。</b>购买额150美元以下不收关税。 如超过，物流公司会收取10%左右的关税。</li>
+			      <li><b>关于诚信。</b>本店完全通过联络人介绍, 美国代购人员是联络人的多年朋友，信誉第一。</li>
+			      <li><b>关于付款。</b>我们有对应的淘宝店。可以支付宝付款，或者线下交易联络人，谢绝还价。</li>
+			      <li><b>关于商品。</b>本网站例举的商品不全，如有其它需要，如各品牌的化妆品、护肤品、小型电子产品、食品、保健品等，可联系代购人员。商品只限美国。</li>
           </div>
           <?php
-            include './data/shopping_list_reader.php';
-            $product_array = getProductsCategoryArray();
+            include './data/brand_list_reader.php';
+            $brand_array = getBrandArray();
           ?>
 		  
 		  <?php
-			foreach($product_array as $key => $category_product_array)
+			foreach($brand_array as $key => $category_brand_array)
 			{
 			?>
           <div style="color:#FF8000">
@@ -89,21 +88,22 @@
             <h2> <?php print_r($key); ?></h2>  
           </div>
           <div class="row">
-		     <?php foreach($category_product_array as $product) 
+		     <?php foreach($category_brand_array as $brand) 
 			 {
 			 ?>
             <div class="col-xs-6 col-lg-3">
-              <h3><?php print_r($product['name'])?></h3>
-              <img src="<?php print_r($product['image'])?>" alt="<?php print_r($product['name'])?>" style="width:180px;height:180px;padding-bottom:10px;">
+              <h3><?php print_r($brand['name_en'])?></h3>
+              <img src="<?php print_r($brand['image'])?>" alt="<?php print_r($brand['name_en'])?>" style="width:180px;height:180px;padding-bottom:10px;">
 				  <div style="width:180px;word-break: break-all;">
 				  <!--Description-->
-				  <?php if(!is_array($product['description']))print_r($product['description']); ?>
+				  <?php if(!is_array($brand['description']))print_r($brand['description']); ?>
 			     <!--<a class="btn btn-default" href="#" role="button">查看详情 &raquo;</a>-->
 			     </div>
 				<div style="width:180px;word-break: break-all;">
-				  <!--price-->
-				  价格: <?php print_r($product['price']); ?> <?php if(!is_array($product['unit']))print_r($product['unit']);?>
-			     <!--<a class="btn btn-default" href="#" role="button">查看详情 &raquo;</a>-->
+				  <!--
+				  价格: <?php print_r($brand['price']); ?> <?php if(!is_array($brand['unit']))print_r($brand['unit']);?>
+          -->
+			     <a class="btn btn-default" href="#" role="button">查看详情 &raquo;</a>
 			     </div>
 				 
             </div><!--/.col-xs-6.col-lg-4-->
