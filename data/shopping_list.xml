@@ -9,7 +9,7 @@
     	<name>牛奶巧克力经典礼盒</name>
     	<brand>Godiva</brand>
     	<size>22粒</size>
-    	<price>36</price>
+    	<price></price>
 		<description></description>
     	<unit>美元</unit>
     	<coupon></coupon>
@@ -18,10 +18,10 @@
   	</product>
   	<product>
     	<category>食品类</category>
-    	<name>夹心牛奶巧克力(咸太妃糖，松露，甘纳许)</name>
+    	<name>夹心牛奶巧克力</name>
     	<brand>Godiva</brand>
     	<size>3*20粒</size>
-    	<price>36</price>
+    	<price></price>
     	<description></description>
     	<unit>美元</unit>
     	<coupon></coupon>
@@ -30,10 +30,10 @@
   	</product>
   	<product>
     	<category>食品类</category>
-    	<name>黑巧克力经典礼盒</name>
+    	<name>黑巧克力礼盒</name>
     	<brand>Godiva</brand>
-    	<size>27粒</size>
-    	<price>36</price>
+    	<size>12粒</size>
+    	<price></price>
     	<description></description>
     	<unit>美元</unit>
     	<coupon></coupon>
@@ -45,7 +45,7 @@
         <name>黑巧克力松露礼盒</name>
         <brand>Godiva</brand>
         <size>24粒</size>
-        <price>50</price>
+        <price></price>
         <description></description>
         <unit>美元</unit>
         <coupon></coupon>
@@ -54,22 +54,22 @@
     </product>
     <product>
         <category>食品类</category>
-        <name>夹心黑巧克力(甘纳许)</name>
+        <name>夹心黑巧克力</name>
         <brand>Godiva</brand>
         <size>3*20粒</size>
-        <price>28</price>
+        <price></price>
         <description></description>
         <unit>美元</unit>
         <coupon></coupon>
         <link></link>
-        <image>image/godiva_wrapped_drak_chocolate_assortment.jpg</image>
+        <image>image/godiva_wrapped_dark_chocolate_assortment.jpg</image>
     </product>
     <product>
         <category>食品类</category>
         <name>白巧克力经典礼盒</name>
         <brand>Godiva</brand>
         <size>24粒</size>
-        <price>36</price>
+        <price></price>
         <description></description>
         <unit>美元</unit>
         <coupon></coupon>
@@ -81,19 +81,19 @@
         <name>金装礼盒</name>
         <brand>Godiva</brand>
         <size>30粒</size>
-        <price>50</price>
+        <price></price>
         <description></description>
         <unit>美元</unit>
         <coupon></coupon>
         <link></link>
-        <image>image/godiva_golden_ballotin.jpg</image>
+        <image>image/godiva_gold_ballotin.jpg</image>
     </product>
     <product>
         <category>食品类</category>
         <name>豪华松露礼盒</name>
         <brand>Godiva</brand>
         <size>12粒</size>
-        <price>30</price>
+        <price></price>
         <description></description>
         <unit>美元</unit>
         <coupon></coupon>
@@ -105,7 +105,7 @@
         <name>纯手工松露巧克力礼盒</name>
         <brand>Godiva</brand>
         <size>24粒</size>
-        <price>50</price>
+        <price></price>
         <description></description>
         <unit>美元</unit>
         <coupon></coupon>
@@ -117,7 +117,7 @@
         <name>豪华夹心松露条形礼盒</name>
         <brand>Godiva</brand>
         <size>6粒</size>
-        <price>16</price>
+        <price></price>
         <description></description>
         <unit>美元</unit>
         <coupon></coupon>
@@ -129,7 +129,7 @@
         <name>豪华坚果松露条形礼盒</name>
         <brand>Godiva</brand>
         <size>6粒</size>
-        <price>16</price>
+        <price></price>
         <description></description>
         <unit>美元</unit>
         <coupon></coupon>
@@ -138,7 +138,7 @@
     </product>
     
 
-<!-- 母婴类 -->、
+<!-- 母婴类 -->
 	<!-- Enfamil -->
 	<product>
     	<category>母婴类</category>
@@ -169,7 +169,7 @@
     	<name>金樽二段婴儿奶粉</name>
     	<brand>Enfamil</brand>
     	<size>595g</size>
-    	<price>20</price>
+    	<price></price>
     	<description>提供成长过程中的25种营养物质，促进大脑视力的发育，含有Antioxidants抗氧化剂来支持宝宝免疫系统。</description>
     	<unit>美元</unit>
     	<coupon></coupon>
@@ -181,7 +181,7 @@
     	<name>金樽三段婴儿奶粉</name>
     	<brand>Enfamil</brand>
     	<size>680g</size>
-    	<price>20</price>
+    	<price></price>
     	<description>含DHA和铁，促进大脑发育，提升眼脑健康和免疫力，双重益生菌支持消化系统，促进宝宝快乐成长。</description>
     	<unit>美元</unit>
     	<coupon></coupon>
