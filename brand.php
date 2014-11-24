@@ -92,7 +92,7 @@
 				</div>
 				</br>
 				<div style="width:180px; word-break: break-all;">
-				规格: <b><?php print_r($product['size']); ?></b>
+				规格: <b><?php if(!is_array($product['size']))print_r($product['size']); ?></b>
 				</div>
 				<div style="width:180px; word-break: break-all;">
 				价格: <b><?php if(!is_array($product['price']))
