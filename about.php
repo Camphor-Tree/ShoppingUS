@@ -57,7 +57,7 @@
           <div class="jumbotron">
             <h2>苏州地区联系人:乔虾米</h2>
 			      <li>Email:qiaomengying03@163.com</li>
-			      <li>微信:ElenaQ222</li>
+			      <li>QQ:278489810</li>
 			      <h2>美国代购联系人：许小莫</h2>
 			      <li>Email:xujiahang11@gmail.com</li>
 			      <li>微信:313541388</li>
