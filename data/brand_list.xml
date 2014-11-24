@@ -18,51 +18,51 @@
   	</brand>
 
     <brand>
-      <category>母婴类</category>
-      <name_en>Enfamil</name_en>
-      <name_cn>美赞臣</name_cn>
-      <description></description>
-      <image>image/Enfamil.jpg</image>
+		<category>母婴类</category>
+		<name_en>Enfamil</name_en>
+		<name_cn>美赞臣</name_cn>
+		<description></description>
+		<image>image/Enfamil.jpg</image>
     </brand>
 
     <brand>
-      <category>母婴类</category>
-      <name_en>Similac</name_en>
-      <name_cn>雅培</name_cn>
-      <description></description>
-      <image>image/Similac.jpg</image>
+		<category>母婴类</category>
+		<name_en>Similac</name_en>
+		<name_cn>雅培</name_cn>
+		<description></description>
+		<image>image/Similac.jpg</image>
     </brand>
 
     <brand>
-      <category>母婴类</category>
-      <name_en>Gerber</name_en>
-      <name_cn>嘉宝</name_cn>
-      <description></description>
-      <image>image/Gerber.jpg</image>
+		<category>母婴类</category>
+		<name_en>Gerber</name_en>
+		<name_cn>嘉宝</name_cn>
+		<description></description>
+		<image>image/Gerber.jpg</image>
     </brand>
 
     <brand>
-      <category>母婴类</category>
-      <name_en>Baby's Only</name_en>
-      <name_cn>贝欧莱</name_cn>
-      <description></description>
-      <image>image/BabysOnly.jpg</image>
+		<category>母婴类</category>
+		<name_en>Baby's Only</name_en>
+		<name_cn>贝欧莱</name_cn>
+		<description></description>
+		<image>image/BabysOnly.jpg</image>
     </brand>
 
     <brand>
-      <category>母婴类</category>
-      <name_en>L'il Critters</name_en>
-      <name_cn>小熊宝宝</name_cn>
-      <description></description>
-      <image>image/LilCritters.png</image>
+		<category>母婴类</category>
+		<name_en>L'il Critters</name_en>
+		<name_cn>小熊宝宝</name_cn>
+		<description></description>
+		<image>image/LilCritters.png</image>
     </brand>
     
     <brand>
-      <category>母婴类</category>
-      <name_en>Philips Avent</name_en>
-      <name_cn>新安怡</name_cn>
-      <description></description>
-      <image>image/PhilipsAvent.jpg</image>
+		<category>母婴类</category>
+		<name_en>Philips Avent</name_en>
+		<name_cn>新安怡</name_cn>
+		<description></description>
+		<image>image/PhilipsAvent.jpg</image>
     </brand>
 
   	<brand>
@@ -99,10 +99,10 @@
 
   	<brand>
 		<category>护肤类</category>
-    	<name_en>Clarins</name_en>
-    	<name_cn>娇韵诗</name_cn>
+    	<name_en>Origins</name_en>
+    	<name_cn>悦木之源</name_cn>
     	<description></description>
-    	<image>image/Clarins.jpg</image>
+    	<image>image/Origins.jpg</image>
   	</brand>
 
   	<brand>
@@ -121,6 +121,7 @@
     	<image>image/Lancome.jpg</image>
   	</brand>
 
+	<!--
   	<brand>
 		<category>护肤类</category>
     	<name_en>Caudalie</name_en>
@@ -128,6 +129,15 @@
     	<description></description>
     	<image>image/Caudalie.jpg</image>
   	</brand>
+	
+	<brand>
+		<category>护肤类</category>
+    	<name_en>Clarins</name_en>
+    	<name_cn>娇韵诗</name_cn>
+    	<description></description>
+    	<image>image/Clarins.jpg</image>
+  	</brand>
+	-->
 
   	<brand>
 		<category>护肤类</category>
@@ -163,20 +173,21 @@
 
   	<brand>
 		<category>彩妆类</category>
-    	<name_en>Hourglass</name_en>
-    	<name_cn>沙漏</name_cn>
+    	<name_en>MAC</name_en>
+    	<name_cn>魅可</name_cn>
     	<description></description>
-    	<image>image/Hourglass.png</image>
+    	<image>image/MAC.jpg</image>
   	</brand>
 	
 	<brand>
 		<category>彩妆类</category>
-    	<name_en>Lorac</name_en>
-    	<name_cn></name_cn>
+    	<name_en>Benifit</name_en>
+    	<name_cn>贝玲妃</name_cn>
     	<description></description>
-    	<image>image/Lorac.jpg</image>
+    	<image>image/Benifit.jpg</image>
   	</brand>
 
+	<!--
   	<brand>
 		<category>保健类</category>
     	<name_en>GNC</name_en>
@@ -184,6 +195,7 @@
     	<description></description>
     	<image>image/GNC.jpg</image>
   	</brand>
+	-->
 	
 	<brand>
 		<category>电子类</category>

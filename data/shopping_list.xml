@@ -524,6 +524,7 @@
 
 
   	<!-- Caudalie -->
+	<!--
 	<product>
     	<category>护肤类</category>
     	<name>皇后水 - 3.4oz</name>
@@ -601,6 +602,7 @@
     	<link></link>
     	<image>image/caudalie_vinoperfect_night_cream.jpg</image>
   	</product>
+	-->
 
 
   	<!-- Philosophy -->
@@ -720,14 +722,13 @@
     	<image>image/ud_prime.jpg</image>
   	</product>
 	
-
-	<!-- 保健类 -->
+	<!--
   	<product>
     	<category>保健品类</category>
-    	<name>3倍鱼油</name>
+    	<name>3倍鱼油 - 60粒</name>
     	<brand>GNC</brand>
     	<year>2014</year>
-    	<price>46.99</price>
+    	<price>26.99</price>
 		<description></description>
     	<unit></unit>
     	<coupon></coupon>
@@ -746,11 +747,8 @@
     	<link></link>
     	<image>image/gnc_grape_seed.jpg</image>
   	</product>
-
+	-->
 
 <!-- 电子类 -->
 
-
-
->>>>>>> Add brand images
 </ShoppingList>
