@@ -372,7 +372,7 @@
     	<brand>Estee Lauder</brand>
     	<size>15ml</size>
     	<price></price>
-    	<description>修护多屏引起的干燥、黯沉、细纹、松弛、黑眼圈、浮肿等眼周问题。只见平滑柔嫩、明净莹亮，击褪时光之痕。</description>
+    	<description>修护多屏引起的干燥、黯沉、细纹、黑眼圈、浮肿等眼周问题。只见平滑柔嫩、明净莹亮，击褪时光之痕。</description>
     	<unit>美元</unit>
     	<coupon></coupon>
     	<link></link>
@@ -380,7 +380,7 @@
   	</product>
   	<product>
     	<category>护肤类</category>
-    	<name>肌透修护眼部密集精华露</name>
+    	<name>肌透修护眼部密集精华</name>
     	<brand>Estee Lauder</brand>
     	<size>15ml</size>
     	<price></price>
@@ -404,11 +404,11 @@
   	</product>
 	<product>
     	<category>护肤类</category>
-    	<name>鲜亮焕采精粹水(滋润/清爽)</name>
+    	<name>鲜亮焕采精粹水</name>
     	<brand>Estee Lauder</brand>
     	<size>200ml</size>
     	<price></price>
-    	<description>滋宠每一寸干渴肌肤，更倾注多重抗氧排浊能量，自内驱散干燥、疲惫、黯沉，肌肤满注水盈，迸发鲜活亮采。  </description>
+    	<description>滋宠每一寸干渴肌肤，倾注多重抗氧排浊能量，自内驱散干燥、疲惫、黯沉，肌肤满注水盈，迸发鲜活亮采。  </description>
     	<unit>美元</unit>
     	<coupon></coupon>
     	<link></link>
@@ -420,7 +420,7 @@
     	<brand>Estee Lauder</brand>
     	<size>50ml</size>
     	<price></price>
-    	<description>幼滑的凝霜质地，添加更多天然矿物质及抗氧化营养成分，日间为肌肤注入水分与光彩，远离浊质与黯沉烦恼。</description>
+    	<description>幼滑的凝霜质地，添加更多天然矿物质及抗氧化成分，日间为肌肤注入水分与光彩，远离浊质与黯沉烦恼。</description>
     	<unit>美元</unit>
     	<coupon></coupon>
     	<link></link>
@@ -432,7 +432,7 @@
         <brand>Estee Lauder</brand>
         <size>50ml</size>
         <price></price>
-        <description>"排浊圣品"红石榴，含石榴多酚和花青素抗氧化明星成分，清除污染产生的自由基，使肌肤免受外界刺激的伤害。</description>
+        <description>"排浊圣品"红石榴，含石榴多酚和花青素抗氧化成分，清除污染产生的自由基，使肌肤免受外界刺激的伤害。</description>
         <unit>美元</unit>
         <coupon></coupon>
         <link></link>
@@ -695,7 +695,7 @@
     	<brand>Origins</brand>
     	<size>100ml</size>
     	<price></price>
-    	<description>迅速灌溉缺水肌肤，打开肌肤"水离子通道"，短短数分钟即刻为肌肤注入源源水分，卓效保湿，保护肌肤弹性。   </description>
+    	<description>迅速灌溉缺水肌肤，打开肌肤"水离子通道"，短短数分钟即刻为肌肤注入源源水分，卓效保湿，保护肌肤弹性。</description>
     	<unit>美元</unit>
     	<coupon></coupon>
     	<link></link>
@@ -707,7 +707,7 @@
     	<brand>Origins</brand>
     	<size>100ml</size>
     	<price></price>
-    	<description>活性碳成分，如同吸铁石般深彻吸收毛孔深处的细微油质、污物和浊质，清透洁净毛孔，具有镇定功效负离子，让肌肤更舒缓放松，自在呼吸。</description>
+    	<description>活性碳成分，如同吸铁石般深彻吸收毛孔深处的细微油质、污物和浊质，清透洁净毛孔。</description>
     	<unit>美元</unit>
     	<coupon></coupon>
     	<link></link>
@@ -715,7 +715,7 @@
   	</product>
 	<product>
     	<category>护肤类</category>
-    	<name>水润畅饮夜间密集滋养面膜</name>
+    	<name>水润畅饮夜间滋养面膜</name>
     	<brand>Origins</brand>
     	<size>100ml</size>
     	<price></price>
