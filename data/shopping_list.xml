@@ -142,11 +142,11 @@
 	<!-- Enfamil -->
 	<product>
     	<category>母婴类</category>
-    	<name>0-3月婴儿奶粉 - 22.2oz</name>
+    	<name>初生婴儿专用奶粉</name>
     	<brand>Enfamil</brand>
-    	<size></size>
-    	<price>26</price>
-    	<description></description>
+    	<size>354g/629g</size>
+    	<price></price>
+    	<description>为0-3月的宝宝量身定制，含维生素D和双益生元，帮助宝宝形成自身防御能力，促进宝宝快速成长。</description>
     	<unit>美元</unit>
     	<coupon></coupon>
     	<link></link>
@@ -154,11 +154,11 @@
   	</product>
 	<product>
     	<category>母婴类</category>
-    	<name>0-6月婴儿奶粉 - 12.5oz</name>
+    	<name>金樽一段婴儿奶粉</name>
     	<brand>Enfamil</brand>
-    	<size></size>
-    	<price>16</price>
-    	<description></description>
+    	<size>354g/629g</size>
+    	<price></price>
+    	<description>科学配方增强宝宝大脑和视力发育，为宝宝免疫系统提供所需营养，是宝宝健康成长的强大后盾。</description>
     	<unit>美元</unit>
     	<coupon></coupon>
     	<link></link>
@@ -166,11 +166,11 @@
   	</product>
 	<product>
     	<category>母婴类</category>
-    	<name>6-12月婴儿奶粉 - 21oz</name>
+    	<name>金樽二段婴儿奶粉</name>
     	<brand>Enfamil</brand>
-    	<size></size>
+    	<size>595g</size>
     	<price>20</price>
-    	<description></description>
+    	<description>提供成长过程中的25种营养物质，促进大脑视力的发育，含有Antioxidants抗氧化剂来支持宝宝免疫系统。</description>
     	<unit>美元</unit>
     	<coupon></coupon>
     	<link></link>
@@ -178,11 +178,11 @@
   	</product>
 	<product>
     	<category>母婴类</category>
-    	<name>1-3岁婴儿奶粉 - 24oz</name>
+    	<name>金樽三段婴儿奶粉</name>
     	<brand>Enfamil</brand>
-    	<size></size>
+    	<size>680g</size>
     	<price>20</price>
-    	<description></description>
+    	<description>含DHA和铁，促进大脑发育，提升眼脑健康和免疫力，双重益生菌支持消化系统，促进宝宝快乐成长。</description>
     	<unit>美元</unit>
     	<coupon></coupon>
     	<link></link>
@@ -192,10 +192,10 @@
 	<!-- Similac -->
 	<product>
     	<category>母婴类</category>
-    	<name>0-12月婴儿奶粉</name>
+    	<name>一段婴儿奶粉</name>
     	<brand>Similac</brand>
-    	<size></size>
-    	<price>25</price>
+    	<size>658g</size>
+    	<price></price>
     	<description></description>
     	<unit>美元</unit>
     	<coupon></coupon>
@@ -204,10 +204,10 @@
   	</product>
 	<product>
     	<category>母婴类</category>
-    	<name>6-12月婴儿奶粉</name>
+    	<name>二段婴儿奶粉</name>
     	<brand>Similac</brand>
-    	<size></size>
-    	<price>32</price>
+    	<size>873g</size>
+    	<price></price>
     	<description></description>
     	<unit>美元</unit>
     	<coupon></coupon>
@@ -216,10 +216,10 @@
   	</product>	
 	<product>
     	<category>母婴类</category>
-    	<name>1-2岁婴儿奶粉</name>
+    	<name>三段婴儿奶粉</name>
     	<brand>Similac</brand>
-    	<size></size>
-    	<price>23</price>
+    	<size>654g</size>
+    	<price></price>
     	<description></description>
     	<unit>美元</unit>
     	<coupon></coupon>
@@ -232,8 +232,8 @@
     	<category>母婴类</category>
     	<name>复合维生素D+钙软糖</name>
     	<brand>L'il Critters</brand>
-    	<size></size>
-    	<price>16</price>
+    	<size>200粒</size>
+    	<price></price>
     	<description></description>
     	<unit>美元</unit>
     	<coupon></coupon>
@@ -244,8 +244,8 @@
     	<category>母婴类</category>
     	<name>Omega3+DHA软糖</name>
     	<brand>L'il Critters</brand>
-    	<size></size>
-    	<price>16</price>
+    	<size>180粒</size>
+    	<price></price>
     	<description></description>
     	<unit>美元</unit>
     	<coupon></coupon>
@@ -256,8 +256,8 @@
     	<category>母婴类</category>
     	<name>天然果蔬软糖</name>
     	<brand>L'il Critters</brand>
-    	<size></size>
-    	<price>15</price>
+    	<size>275粒</size>
+    	<price></price>
     	<description></description>
     	<unit>美元</unit>
     	<coupon></coupon>
