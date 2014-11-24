@@ -8,7 +8,7 @@
 		<category>食品类</category>
     	<name>22粒装牛奶巧克力礼盒 - 经典款</name>
     	<brand>Godiva</brand>
-    	<year>2014</year>
+    	<size></size>
     	<price>36</price>
 		<description></description>
     	<unit>美元</unit>
@@ -20,7 +20,7 @@
     	<category>食品类</category>
     	<name>夹心牛奶巧克力 - 咸太妃糖，松露，甘纳许</name>
     	<brand>Godiva</brand>
-    	<year>2014</year>
+    	<size></size>
     	<price>36</price>
     	<description></description>
     	<unit>美元</unit>
@@ -32,7 +32,7 @@
     	<category>食品类</category>
     	<name>27粒装黑巧克力礼盒 - 经典款</name>
     	<brand>Godiva</brand>
-    	<year>2014</year>
+    	<size></size>
     	<price>36</price>
     	<description></description>
     	<unit>美元</unit>
@@ -47,7 +47,7 @@
     	<category>母婴类</category>
     	<name>0-3月婴儿奶粉 - 22.2oz</name>
     	<brand>Enfamil</brand>
-    	<year>2014</year>
+    	<size></size>
     	<price>26</price>
     	<description></description>
     	<unit>美元</unit>
@@ -59,7 +59,7 @@
     	<category>母婴类</category>
     	<name>0-6月婴儿奶粉 - 12.5oz</name>
     	<brand>Enfamil</brand>
-    	<year>2014</year>
+    	<size></size>
     	<price>16</price>
     	<description></description>
     	<unit>美元</unit>
@@ -71,7 +71,7 @@
     	<category>母婴类</category>
     	<name>6-12月婴儿奶粉 - 21oz</name>
     	<brand>Enfamil</brand>
-    	<year>2014</year>
+    	<size></size>
     	<price>20</price>
     	<description></description>
     	<unit>美元</unit>
@@ -83,7 +83,7 @@
     	<category>母婴类</category>
     	<name>1-3岁婴儿奶粉 - 24oz</name>
     	<brand>Enfamil</brand>
-    	<year>2014</year>
+    	<size></size>
     	<price>20</price>
     	<description></description>
     	<unit>美元</unit>
@@ -97,7 +97,7 @@
     	<category>母婴类</category>
     	<name>0-12月婴儿奶粉</name>
     	<brand>Similac</brand>
-    	<year>2014</year>
+    	<size></size>
     	<price>25</price>
     	<description></description>
     	<unit>美元</unit>
@@ -109,7 +109,7 @@
     	<category>母婴类</category>
     	<name>6-12月婴儿奶粉</name>
     	<brand>Similac</brand>
-    	<year>2014</year>
+    	<size></size>
     	<price>32</price>
     	<description></description>
     	<unit>美元</unit>
@@ -121,7 +121,7 @@
     	<category>母婴类</category>
     	<name>1-2岁婴儿奶粉</name>
     	<brand>Similac</brand>
-    	<year>2014</year>
+    	<size></size>
     	<price>23</price>
     	<description></description>
     	<unit>美元</unit>
@@ -135,7 +135,7 @@
     	<category>母婴类</category>
     	<name>复合维生素D+钙软糖</name>
     	<brand>L'il Critters</brand>
-    	<year>2014</year>
+    	<size></size>
     	<price>16</price>
     	<description></description>
     	<unit>美元</unit>
@@ -147,7 +147,7 @@
     	<category>母婴类</category>
     	<name>Omega3+DHA软糖</name>
     	<brand>L'il Critters</brand>
-    	<year>2014</year>
+    	<size></size>
     	<price>16</price>
     	<description></description>
     	<unit>美元</unit>
@@ -159,7 +159,7 @@
     	<category>母婴类</category>
     	<name>天然果蔬软糖</name>
     	<brand>L'il Critters</brand>
-    	<year>2014</year>
+    	<size></size>
     	<price>15</price>
     	<description></description>
     	<unit>美元</unit>
@@ -172,23 +172,59 @@
 	<!-- Fresh -->
   	<product>
     	<category>护肤类</category>
-    	<name>大豆洗面奶</name>
+    	<name>大豆精华洁面啫喱</name>
     	<brand>Fresh</brand>
-    	<year>2014</year>
-    	<price>38</price>
-		<description></description>
-    	<unit>美元</unit>
+    	<size>50ml/150ml</size>
+    	<price></price>
+		<description>大豆和氨基酸、玫瑰花水及青瓜水等为主要成分，彻底洁净肌肤之余并锁住肌肤水份，保持肌肤弹性</description>
+		<unit>美元</unit>
     	<coupon></coupon>
     	<link></link>
     	<image>image/fresh_soy_cleanser.png</image>
   	</product>
+	<product>
+    	<category>护肤类</category>
+    	<name>玫瑰金盏花爽肤水</name>
+    	<brand>Fresh</brand>
+    	<size>250ml</size>
+    	<price></price>
+		<description>蕴含100％纯净玫瑰花水，能有效镇静舒缓肌肤，具有保湿功能。不含酒精，金盏花成份更能收缩毛孔。</description>
+    	<unit>美元</unit>
+    	<coupon></coupon>
+    	<link></link>
+    	<image>image/fresh_rose_toner.jpg</image>
+  	</product>
+	<product>
+    	<category>护肤类</category>
+    	<name>莲花紧致保湿面霜</name>
+    	<brand>Fresh</brand>
+    	<size>50ml</size>
+    	<price></price>
+		<description>含有每日抗衰老保湿配方专有的7个成分，抗衰老、保持水分对抗皱纹，保持骨胶原蛋白，增加透明质酸含量。</description>
+    	<unit>美元</unit>
+    	<coupon></coupon>
+    	<link></link>
+    	<image>image/fresh_lotus_youth_cream.jpg</image>
+  	</product>
+	<product>
+    	<category>护肤类</category>
+    	<name>红茶精华抗皱紧致眼霜</name>
+    	<brand>Fresh</brand>
+    	<size>15ml</size>
+    	<price></price>
+		<description>蕴含黑茶萃取，专门针对脆弱的衰老部位，从底层抚平皱纹，淡化幼纹及细纹，有效紧致眼部肌肤。</description>
+    	<unit>美元</unit>
+    	<coupon></coupon>
+    	<link></link>
+    	<image>image/fresh_black_tea_eye_concentrate.jpg</image>
+  	</product>
   	<product>
     	<category>护肤类</category>
-    	<name>黄糖面膜</name>
+    	<name>黄糖亮采磨砂面膜</name>
     	<brand>Fresh</brand>
-    	<year>2014</year>
-    	<price>58</price>
-    	<description></description>
+    	<size>125g</size>
+    	<price></price>
+    	<description>含有香甜滋润的黄糖，野生草莓及白芒花籽修护油,具有深层滋润，去角质及抗氧化的功能。</description>
     	<unit>美元</unit>
     	<coupon></coupon>
     	<link></link>
@@ -196,11 +232,11 @@
   	</product>  
   	<product>
     	<category>护肤类</category>
-    	<name>红茶面膜</name>
+    	<name>红茶抗皱紧致修护面膜</name>
     	<brand>Fresh</brand>
-    	<year>2014</year>
-    	<price>88</price>
-    	<description></description>
+    	<size>100ml</size>
+    	<price></price>
+    	<description>蕴含精选俄罗斯及亚洲极品黑茶，配合荔枝仔精华，抗氧化，紧致肌肤，抚平细纹，肌肤会变得柔软光滑。</description>
     	<unit>美元</unit>
     	<coupon></coupon>
     	<link></link>
@@ -208,11 +244,11 @@
   	</product>
   	<product>
     	<category>护肤类</category>
-    	<name>玫瑰面膜</name>
+    	<name>玫瑰润泽保湿面膜</name>
     	<brand>Fresh</brand>
-    	<year>2014</year>
-    	<price>88</price>
-    	<description></description>
+    	<size>100ml</size>
+    	<price></price>
+    	<description>采用极品的保加利亚玫瑰，及顶级大马士革玫瑰精萃而成，集高效保湿及修护功效一体，使肌肤水嫩透亮。</description>
     	<unit>美元</unit>
     	<coupon></coupon>
     	<link></link>
@@ -222,10 +258,10 @@
   	<!-- Kiehl's -->
   	<product>
     	<category>护肤类</category>
-    	<name>经典面霜</name>
+    	<name>高保湿面霜</name>
     	<brand>Kiehl's</brand>
-    	<year>2014</year>
-    	<price>46.5</price>
+    	<size>50ml/125ml</size>
+    	<price></price>
 		<description></description>
     	<unit>美元</unit>
     	<coupon></coupon>
@@ -236,8 +272,8 @@
     	<category>护肤类</category>
     	<name>白泥清洁面膜</name>
     	<brand>Kiehl's</brand>
-    	<year>2014</year>
-    	<price>23</price>
+    	<size>150ml</size>
+    	<price></price>
     	<description></description>
     	<unit>美元</unit>
     	<coupon></coupon>
@@ -248,8 +284,8 @@
     	<category>护肤类</category>
     	<name>牛油果眼霜</name>
     	<brand>Kiehl's</brand>
-    	<year>2014</year>
-    	<price>47</price>
+    	<size>14/28g</size>
+    	<price></price>
     	<description></description>
     	<unit>美元</unit>
     	<coupon></coupon>
@@ -258,10 +294,10 @@
   	</product>
   	<product>
     	<category>护肤类</category>
-    	<name>金盏花水 - 8.4oz</name>
+    	<name>金盏花爽肤水</name>
     	<brand>Kiehl's</brand>
-    	<year>2014</year>
-    	<price>35</price>
+    	<size>125ml/250ml</size>
+    	<price></price>
     	<description></description>
     	<unit>美元</unit>
     	<coupon></coupon>
@@ -270,36 +306,60 @@
   	</product>
   	<product>
     	<category>护肤类</category>
-    	<name>祛斑精华 - 1oz</name>
+    	<name>祛斑精华</name>
     	<brand>Kiehl's</brand>
-    	<year>2014</year>
-    	<price>49.5</price>
+    	<size>30ml/50ml</size>
+    	<price></price>
     	<description></description>
     	<unit>美元</unit>
     	<coupon></coupon>
     	<link></link>
     	<image>image/kiehls_dark_spot_serum.png</image>
   	</product>
-  	<product>
+	<product>
     	<category>护肤类</category>
-    	<name>氨基酸洗发水 - 8.4oz</name>
+    	<name>夜精灵精华</name>
     	<brand>Kiehl's</brand>
-    	<year>2014</year>
-    	<price>18</price>
+    	<size>30ml/50ml</size>
+    	<price></price>
     	<description></description>
     	<unit>美元</unit>
     	<coupon></coupon>
     	<link></link>
-    	<image>image/kiehls_shampoo.jpg</image>
+    	<image>image/kiehls_midnight_recovery_serum.jpg</image>
+  	</product>
+  	<product>
+    	<category>护肤类</category>
+    	<name>氨基酸洗发水</name>
+    	<brand>Kiehl's</brand>
+    	<size>75ml/250ml/500ml</size>
+    	<price></price>
+    	<description></description>
+    	<unit>美元</unit>
+    	<coupon></coupon>
+    	<link></link>
+    	<image>image/kiehls_amino_acid_shampoo.jpg</image>
+  	</product>
+	<product>
+    	<category>护肤类</category>
+    	<name>氨基酸护发素</name>
+    	<brand>Kiehl's</brand>
+    	<size>75ml/200ml/250ml</size>
+    	<price></price>
+    	<description></description>
+    	<unit>美元</unit>
+    	<coupon></coupon>
+    	<link></link>
+    	<image>image/kiehls_amino_acid_conditioner.jpg</image>
   	</product>
 
   	<!-- Estee Lauder -->
   	<product>
     	<category>护肤类</category>
-    	<name>ANR脸部精华 - 1oz</name>
+    	<name>ANR特润修护精华</name>
     	<brand>Estee Lauder</brand>
-    	<year>2014</year>
-    	<price>62</price>
+    	<size>30ml/50ml</size>
+    	<price></price>
     	<description></description>
     	<unit>美元</unit>
     	<coupon></coupon>
@@ -308,10 +368,10 @@
   	</product>
   	<product>
     	<category>护肤类</category>
-    	<name>ANR眼霜 - 0.5oz</name>
+    	<name>ANR眼霜</name>
     	<brand>Estee Lauder</brand>
-    	<year>2014</year>
-    	<price>58</price>
+    	<size>15ml</size>
+    	<price></price>
     	<description></description>
     	<unit>美元</unit>
     	<coupon></coupon>
@@ -320,24 +380,60 @@
   	</product>
   	<product>
     	<category>护肤类</category>
-    	<name>ANR眼部精华 - 0.5oz</name>
+    	<name>ANR眼部精华</name>
     	<brand>Estee Lauder</brand>
-    	<year>2014</year>
-    	<price>65</price>
+    	<size>15ml</size>
+    	<price></price>
     	<description></description>
     	<unit>美元</unit>
     	<coupon></coupon>
     	<link></link>
     	<image>image/estee_lauder_eye_serum.jpg</image>
   	</product>
+	<product>
+    	<category>护肤类</category>
+    	<name>红石榴鲜亮焕采洗面奶</name>
+    	<brand>Estee Lauder</brand>
+    	<size>125ml</size>
+    	<price></price>
+    	<description></description>
+    	<unit>美元</unit>
+    	<coupon></coupon>
+    	<link></link>
+    	<image>image/estee_lauder_nutritious_cleanser.jpg</image>
+  	</product>
+	<product>
+    	<category>护肤类</category>
+    	<name>红石榴鲜亮焕采爽肤水</name>
+    	<brand>Estee Lauder</brand>
+    	<size>200ml</size>
+    	<price></price>
+    	<description></description>
+    	<unit>美元</unit>
+    	<coupon></coupon>
+    	<link></link>
+    	<image>image/estee_lauder_nutritious_toner.jpg</image>
+  	</product>
+	<product>
+    	<category>护肤类</category>
+    	<name>红石榴鲜亮焕采日霜</name>
+    	<brand>Estee Lauder</brand>
+    	<size>50ml</size>
+    	<price></price>
+    	<description></description>
+    	<unit>美元</unit>
+    	<coupon></coupon>
+    	<link></link>
+    	<image>image/estee_lauder_nutritious_cream.jpg</image>
+  	</product>
 
   	<!-- La Mer -->
   	<product>
     	<category>护肤类</category>
-    	<name>经典面霜 - 2oz</name>
+    	<name>经典面霜</name>
     	<brand>La Mer</brand>
-    	<year>2014</year>
-    	<price>295</price>
+    	<size>60ml</size>
+    	<price></price>
     	<description></description>
     	<unit>美元</unit>
     	<coupon></coupon>
@@ -346,10 +442,10 @@
   	</product>
   	<product>
     	<category>护肤类</category>
-    	<name>精华乳霜 - 2oz</name>
+    	<name>精华乳霜</name>
     	<brand>La Mer</brand>
-    	<year>2014</year>
-    	<price>295</price>
+    	<size>60ml</size>
+    	<price></price>
     	<description></description>
     	<unit>美元</unit>
     	<coupon></coupon>
@@ -358,10 +454,10 @@
   	</product>
   	<product>
     	<category>护肤类</category>
-    	<name>精华乳液 - 2oz</name>
+    	<name>精华乳液</name>
     	<brand>La Mer</brand>
-    	<year>2014</year>
-    	<price>295</price>
+    	<size>60ml</size>
+    	<price></price>
     	<description></description>
     	<unit>美元</unit>
     	<coupon></coupon>
@@ -369,87 +465,26 @@
     	<image>image/lamer_gel_cream.jpg</image>
   	</product>
 
-  	<!-- Clarins -->
-  	<product>
-    	<category>护肤类</category>
-    	<name>温和洗面奶</name>
-    	<brand>Clarins</brand>
-    	<year>2014</year>
-    	<price>23</price>
-    	<description></description>
-    	<unit>美元</unit>
-    	<coupon></coupon>
-    	<link></link>
-    	<image>image/clarins_gentle_foaming_cleanser.jpg</image>
-  	</product>
-  	<product>
-    	<category>护肤类</category>
-    	<name>温和爽肤水</name>
-    	<brand>Clarins</brand>
-    	<year>2014</year>
-    	<price>23</price>
-    	<description></description>
-    	<unit>美元</unit>
-    	<coupon></coupon>
-    	<link></link>
-    	<image>image/clarins_normal_lotion.jpg</image>
-  	</product>
-  	<product>
-    	<category>护肤类</category>
-    	<name>多元日霜</name>
-    	<brand>Clarins</brand>
-    	<year>2014</year>
-    	<price>59</price>
-    	<description></description>
-    	<unit>美元</unit>
-    	<coupon></coupon>
-    	<link></link>
-    	<image>image/clarins_multi_active_day_cream.jpg</image>
-  	</product>
-  	<product>
-    	<category>护肤类</category>
-    	<name>多元晚霜</name>
-    	<brand>Clarins</brand>
-    	<year>2014</year>
-    	<price>62</price>
-    	<description></description>
-    	<unit>美元</unit>
-    	<coupon></coupon>
-    	<link></link>
-    	<image>image/clarins_multi_active_night_cream.png</image>
-  	</product>
-  	<product>
-    	<category>护肤类</category>
-    	<name>水合日霜</name>
-    	<brand>Clarins</brand>
-    	<year>2014</year>
-    	<price>49.5</price>
-    	<description></description>
-    	<unit>美元</unit>
-    	<coupon></coupon>
-    	<link></link>
-    	<image>image/clarins_hydra_cream.jpg</image>
-  	</product>
-  	<product>
-    	<category>护肤类</category>
-    	<name>莲花面油</name>
-    	<brand>Clarins</brand>
-    	<year>2014</year>
-    	<price>52</price>
-    	<description></description>
-    	<unit>美元</unit>
-    	<coupon></coupon>
-    	<link></link>
-    	<image>image/clarins_lotus_oil.jpg</image>
-  	</product>
 
   	<!-- Clinique -->
+	<product>
+    	<category>护肤类</category>
+    	<name>洗脸皂(干性/混合/油性)</name>
+    	<brand>Clinique</brand>
+    	<size>150g</size>
+    	<price></price>
+    	<description></description>
+    	<unit>美元</unit>
+    	<coupon></coupon>
+    	<link></link>
+    	<image>image/clinique_soap.jpg</image>
+  	</product>
   	<product>
     	<category>护肤类</category>
     	<name>黄油 - 无油版</name>
     	<brand>Clinique</brand>
-    	<year>2014</year>
-    	<price>26</price>
+    	<size>50ml/125ml</size>
+    	<price></price>
     	<description></description>
     	<unit>美元</unit>
     	<coupon></coupon>
@@ -460,8 +495,8 @@
     	<category>护肤类</category>
     	<name>黄油 - 有油版</name>
     	<brand>Clinique</brand>
-    	<year>2014</year>
-    	<price>26</price>
+    	<size>50ml/125ml</size>
+    	<price></price>
     	<description></description>
     	<unit>美元</unit>
     	<coupon></coupon>
@@ -472,36 +507,58 @@
   	<!-- Lancome -->
   	<product>
     	<category>护肤类</category>
-    	<name>精华肌底液 - 1oz</name>
+    	<name>精华肌底液</name>
     	<brand>Lancome</brand>
-    	<year>2014</year>
-    	<price>84</price>
+    	<size>30/50ml</size>
+    	<price></price>
     	<description></description>
     	<unit>美元</unit>
     	<coupon></coupon>
     	<link></link>
     	<image>image/lancome_youth_activating_concentrate.jpg</image>
   	</product>
-	
 	<product>
     	<category>护肤类</category>
-    	<name>清莹柔肤水 - 6.7oz</name>
+    	<name>眼霜</name>
     	<brand>Lancome</brand>
-    	<year>2014</year>
-    	<price>25</price>
+    	<size>15ml</size>
+    	<price></price>
+    	<description></description>
+    	<unit>美元</unit>
+    	<coupon></coupon>
+    	<link></link>
+    	<image>image/lancome_youth_activating_eye_concentrate.jpg</image>
+  	</product>
+	<product>
+    	<category>护肤类</category>
+    	<name>清莹柔肤洁面乳</name>
+    	<brand>Lancome</brand>
+    	<size>125/200ml</size>
+    	<price></price>
+    	<description></description>
+    	<unit>美元</unit>
+    	<coupon></coupon>
+    	<link></link>
+    	<image>image/lancome_cleanser.jpg</image>
+  	</product>
+	<product>
+    	<category>护肤类</category>
+    	<name>清莹柔肤水</name>
+    	<brand>Lancome</brand>
+    	<size>200ml</size>
+    	<price></price>
     	<description></description>
     	<unit>美元</unit>
     	<coupon></coupon>
     	<link></link>
     	<image>image/lancome_toner.jpg</image>
   	</product>
-	
 	<product>
     	<category>护肤类</category>
-    	<name>眼部卸妆液 - 4.2oz</name>
+    	<name>眼部卸妆液</name>
     	<brand>Lancome</brand>
-    	<year>2014</year>
-    	<price>28</price>
+    	<size>125/200ml</size>
+    	<price></price>
     	<description></description>
     	<unit>美元</unit>
     	<coupon></coupon>
@@ -509,18 +566,6 @@
     	<image>image/lancome_eye_remover.jpg</image>
   	</product>
 	
-	<product>
-    	<category>护肤类</category>
-    	<name>清莹柔肤洁面乳 - 4.2oz</name>
-    	<brand>Lancome</brand>
-    	<year>2014</year>
-    	<price>25</price>
-    	<description></description>
-    	<unit>美元</unit>
-    	<coupon></coupon>
-    	<link></link>
-    	<image>image/lancome_cleanser.jpg</image>
-  	</product>
 
 
   	<!-- Caudalie -->
@@ -529,7 +574,7 @@
     	<category>护肤类</category>
     	<name>皇后水 - 3.4oz</name>
     	<brand>Caudalie</brand>
-    	<year>2014</year>
+    	<size></size>
     	<price>49</price>
     	<description></description>
     	<unit>美元</unit>
@@ -542,7 +587,7 @@
     	<category>护肤类</category>
     	<name>冰淇淋霜 - 1.3oz</name>
     	<brand>Caudalie</brand>
-    	<year>2014</year>
+    	<size></size>
     	<price>39</price>
     	<description></description>
     	<unit>美元</unit>
@@ -555,7 +600,7 @@
     	<category>护肤类</category>
     	<name>舒缓保湿精华液 - 1oz</name>
     	<brand>Caudalie</brand>
-    	<year>2014</year>
+    	<size></size>
     	<price>49</price>
     	<description></description>
     	<unit>美元</unit>
@@ -568,7 +613,7 @@
     	<category>护肤类</category>
     	<name>亮白精华液 - 1oz</name>
     	<brand>Caudalie</brand>
-    	<year>2014</year>
+    	<size></size>
     	<price>79</price>
     	<description></description>
     	<unit>美元</unit>
@@ -581,7 +626,7 @@
     	<category>护肤类</category>
     	<name>亮白新生日霜 - 1.3oz</name>
     	<brand>Caudalie</brand>
-    	<year>2014</year>
+    	<size></size>
     	<price>64</price>
     	<description></description>
     	<unit>美元</unit>
@@ -594,7 +639,7 @@
     	<category>护肤类</category>
     	<name>亮白新生晚霜 - 1.3oz</name>
     	<brand>Caudalie</brand>
-    	<year>2014</year>
+    	<size></size>
     	<price>64</price>
     	<description></description>
     	<unit>美元</unit>
@@ -610,8 +655,8 @@
     	<category>护肤类</category>
     	<name>三合一洗面奶 - 16oz</name>
     	<brand>Philosophy</brand>
-    	<year>2014</year>
-    	<price>35</price>
+    	<size>90ml/240ml/480ml</size>
+    	<price></price>
     	<description></description>
     	<unit>美元</unit>
     	<coupon></coupon>
@@ -622,13 +667,99 @@
     	<category>护肤类</category>
     	<name>希望面霜 - 2oz</name>
     	<brand>Philosophy</brand>
-    	<year>2014</year>
-    	<price>42</price>
+    	<size>30ml/60ml</size>
+    	<price></price>
     	<description></description>
     	<unit>美元</unit>
     	<coupon></coupon>
     	<link></link>
     	<image>image/philosophy_hope_in_jar.jpg</image>
+  	</product>
+	
+	<!-- Origins -->
+  	<product>
+    	<category>护肤类</category>
+    	<name>一饮而尽保湿面膜</name>
+    	<brand>Origins</brand>
+    	<size>100ml</size>
+    	<price></price>
+    	<description></description>
+    	<unit>美元</unit>
+    	<coupon></coupon>
+    	<link></link>
+    	<image>image/origins_drink_up_mask.jpg</image>
+  	</product>
+	<product>
+    	<category>护肤类</category>
+    	<name>泥娃娃去黑头面膜</name>
+    	<brand>Origins</brand>
+    	<size>100ml</size>
+    	<price></price>
+    	<description></description>
+    	<unit>美元</unit>
+    	<coupon></coupon>
+    	<link></link>
+    	<image>image/origins_clear_mask.jpg</image>
+  	</product>
+	<product>
+    	<category>护肤类</category>
+    	<name>一饮而尽夜间修护面膜</name>
+    	<brand>Origins</brand>
+    	<size>100ml</size>
+    	<price></price>
+    	<description></description>
+    	<unit>美元</unit>
+    	<coupon></coupon>
+    	<link></link>
+    	<image>image/origins_drink_up_overnight_mask.jpg</image>
+  	</product>
+	<product>
+    	<category>护肤类</category>
+    	<name>青春无敌蘑菇水</name>
+    	<brand>Origins</brand>
+    	<size>200ml</size>
+    	<price></price>
+    	<description></description>
+    	<unit>美元</unit>
+    	<coupon></coupon>
+    	<link></link>
+    	<image>image/origins_wei_toner.jpg</image>
+  	</product>
+	<product>
+    	<category>护肤类</category>
+    	<name>储水赋活凝乳</name>
+    	<brand>Origins</brand>
+    	<size>50ml</size>
+    	<price></price>
+    	<description></description>
+    	<unit>美元</unit>
+    	<coupon></coupon>
+    	<link></link>
+    	<image>image/origins_treatment.jpg</image>
+  	</product>
+	<product>
+    	<category>护肤类</category>
+    	<name>储水赋活面霜</name>
+    	<brand>Origins</brand>
+    	<size>50ml</size>
+    	<price></price>
+    	<description></description>
+    	<unit>美元</unit>
+    	<coupon></coupon>
+    	<link></link>
+    	<image>image/origins_moisturizer.jpg</image>
+  	</product>
+	<product>
+    	<category>护肤类</category>
+    	<name>活力唤亮醒肤凝乳</name>
+    	<brand>Origins</brand>
+    	<size>50ml</size>
+    	<price></price>
+    	<description></description>
+    	<unit>美元</unit>
+    	<coupon></coupon>
+    	<link></link>
+    	<image>image/origins_hydratant_moisturizer.jpg</image>
   	</product>
 
   	<!-- GlamGlow -->
@@ -636,8 +767,8 @@
     	<category>护肤类</category>
     	<name>白色发光面膜 - 去角质</name>
     	<brand>GlamGlow</brand>
-    	<year>2014</year>
-    	<price>69</price>
+    	<size>34g</size>
+    	<price></price>
     	<description></description>
     	<unit>美元</unit>
     	<coupon></coupon>
@@ -648,8 +779,8 @@
     	<category>护肤类</category>
     	<name>黑色发光面膜 - 清洁</name>
     	<brand>GlamGlow</brand>
-    	<year>2014</year>
-    	<price>69</price>
+    	<size>50g</size>
+    	<price></price>
     	<description></description>
     	<unit>美元</unit>
     	<coupon></coupon>
@@ -660,13 +791,25 @@
     	<category>护肤类</category>
     	<name>蓝色发光面膜 - 保湿</name>
     	<brand>GlamGlow</brand>
-    	<year>2014</year>
-    	<price>69</price>
+    	<size>50g</size>
+    	<price></price>
     	<description></description>
     	<unit>美元</unit>
     	<coupon></coupon>
     	<link></link>
     	<image>image/glamglow_blue.jpg</image>
+  	</product>
+	<product>
+    	<category>护肤类</category>
+    	<name>绿色发光面膜 - 保湿</name>
+    	<brand>GlamGlow</brand>
+    	<size>50g</size>
+    	<price></price>
+    	<description></description>
+    	<unit>美元</unit>
+    	<coupon></coupon>
+    	<link></link>
+    	<image>image/glamglow_green.jpg</image>
   	</product>
 
 
@@ -677,8 +820,8 @@
     	<category>彩妆类</category>
     	<name>Naked眼影盘1号</name>
     	<brand>Urban Decay</brand>
-    	<year>2014</year>
-    	<price>54</price>
+    	<size>12*1.5g</size>
+    	<price></price>
     	<description></description>
     	<unit>美元</unit>
     	<coupon></coupon>
@@ -689,8 +832,8 @@
     	<category>彩妆类</category>
     	<name>Naked眼影盘2号</name>
     	<brand>Urban Decay</brand>
-    	<year>2014</year>
-    	<price>54</price>
+    	<size>12*1.5g</size>
+    	<price></price>
     	<description></description>
     	<unit>美元</unit>
     	<coupon></coupon>
@@ -701,8 +844,8 @@
     	<category>彩妆类</category>
     	<name>Naked眼影盘3号</name>
     	<brand>Urban Decay</brand>
-    	<year>2014</year>
-    	<price>54</price>
+    	<size>12*1.5g</size>
+    	<price></price>
     	<description></description>
     	<unit>美元</unit>
     	<coupon></coupon>
@@ -711,43 +854,17 @@
   	</product>
 	<product>
     	<category>彩妆类</category>
-    	<name>UD妆前乳 - 0.37oz</name>
+    	<name>UD妆前乳</name>
     	<brand>Urban Decay</brand>
-    	<year>2014</year>
-    	<price>20</price>
+    	<size>11ml</size>
+    	<price></price>
     	<description></description>
     	<unit>美元</unit>
     	<coupon></coupon>
     	<link></link>
     	<image>image/ud_prime.jpg</image>
   	</product>
-	
-	<!--
-  	<product>
-    	<category>保健品类</category>
-    	<name>3倍鱼油 - 60粒</name>
-    	<brand>GNC</brand>
-    	<year>2014</year>
-    	<price>26.99</price>
-		<description></description>
-    	<unit></unit>
-    	<coupon></coupon>
-    	<link></link>
-    	<image>image/gnc_triple_fish_oil.jpg</image>
-  	</product>
-  	<product>
-    	<category>保健品类</category>
-    	<name>300mg葡萄籽</name>
-    	<brand>GNC</brand>
-    	<year>2003</year>
-    	<price>49.99</price>
-		<description></description>
-    	<unit></unit>
-    	<coupon></coupon>
-    	<link></link>
-    	<image>image/gnc_grape_seed.jpg</image>
-  	</product>
-	-->
+
 
 <!-- 电子类 -->
 

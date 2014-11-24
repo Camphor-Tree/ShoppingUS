@@ -86,14 +86,24 @@
             <div class="col-xs-6 col-lg-3">
               <h3><?php print_r($product['name'])?></h3>
               <img src="<?php print_r($product['image'])?>" alt="<?php print_r($product['name'])?>" style="width:180px;height:180px;padding-bottom:10px;">
-				  <div style="width:180px;word-break: break-all;">
-				  <!--Description-->
-				  <?php if(!is_array($product['description']))print_r($product['description']); ?>
-			     </div>
 				<div style="width:180px;word-break: break-all;">
-				  价格: <?php print_r($product['price']); ?> <?php if(!is_array($product['unit']))print_r($product['unit']);?>
-			     </div>
-				 
+				<!--Description-->
+				<?php if(!is_array($product['description']))print_r($product['description']); ?>
+				</div>
+				</br>
+				<div style="width:180px; word-break: break-all;">
+				规格: <b><?php print_r($product['size']); ?></b>
+				</div>
+				<div style="width:180px; word-break: break-all;">
+				价格: <b><?php if(!is_array($product['price']))
+								{
+									print_r($product['price']);
+									if(!is_array($product['unit']))
+										print_r($product['unit']);
+								} else {
+									print_r("暂无参考价格");
+								} ?></b>
+				</div>
             </div>
 			<?php } ?>
           </div>
