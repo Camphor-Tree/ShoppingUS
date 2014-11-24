@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <ShoppingList>
 
 <!-- 食品类 -->
@@ -6,9 +6,9 @@
 	<!-- Godiva -->
   	<product>
 		<category>食品类</category>
-    	<name>22粒装牛奶巧克力礼盒 - 经典款</name>
+    	<name>牛奶巧克力经典礼盒</name>
     	<brand>Godiva</brand>
-    	<size></size>
+    	<size>22粒</size>
     	<price>36</price>
 		<description></description>
     	<unit>美元</unit>
@@ -18,9 +18,9 @@
   	</product>
   	<product>
     	<category>食品类</category>
-    	<name>夹心牛奶巧克力 - 咸太妃糖，松露，甘纳许</name>
+    	<name>夹心牛奶巧克力(咸太妃糖，松露，甘纳许)</name>
     	<brand>Godiva</brand>
-    	<size></size>
+    	<size>3*20粒</size>
     	<price>36</price>
     	<description></description>
     	<unit>美元</unit>
@@ -30,9 +30,9 @@
   	</product>
   	<product>
     	<category>食品类</category>
-    	<name>27粒装黑巧克力礼盒 - 经典款</name>
+    	<name>黑巧克力经典礼盒</name>
     	<brand>Godiva</brand>
-    	<size></size>
+    	<size>27粒</size>
     	<price>36</price>
     	<description></description>
     	<unit>美元</unit>
@@ -40,6 +40,103 @@
     	<link></link>
     	<image>image/godiva_dark_chocolate_gift_box.jpg</image>
   	</product>
+    <product>
+        <category>食品类</category>
+        <name>黑巧克力松露礼盒</name>
+        <brand>Godiva</brand>
+        <size>24粒</size>
+        <price>50</price>
+        <description></description>
+        <unit>美元</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>image/godiva_dark_chocolate_truffles.jpg</image>
+    </product>
+    <product>
+        <category>食品类</category>
+        <name>夹心黑巧克力(甘纳许)</name>
+        <brand>Godiva</brand>
+        <size>3*20粒</size>
+        <price>28</price>
+        <description></description>
+        <unit>美元</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>image/godiva_wrapped_drak_chocolate_assortment.jpg</image>
+    </product>
+    <product>
+        <category>食品类</category>
+        <name>白巧克力经典礼盒</name>
+        <brand>Godiva</brand>
+        <size>24粒</size>
+        <price>36</price>
+        <description></description>
+        <unit>美元</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>image/godiva_white_chocolate_gift_box.jpg</image>
+    </product>
+    <product>
+        <category>食品类</category>
+        <name>金装礼盒</name>
+        <brand>Godiva</brand>
+        <size>30粒</size>
+        <price>50</price>
+        <description></description>
+        <unit>美元</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>image/godiva_golden_ballotin.jpg</image>
+    </product>
+    <product>
+        <category>食品类</category>
+        <name>豪华松露礼盒</name>
+        <brand>Godiva</brand>
+        <size>12粒</size>
+        <price>30</price>
+        <description></description>
+        <unit>美元</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>image/godiva_ultimate_dessert_truffles_gift_box.jpg</image>
+    </product>
+    <product>
+        <category>食品类</category>
+        <name>纯手工松露巧克力礼盒</name>
+        <brand>Godiva</brand>
+        <size>24粒</size>
+        <price>50</price>
+        <description></description>
+        <unit>美元</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>image/godiva_signature _chocolate_truffles_gift_box.jpg</image>
+    </product>
+    <product>
+        <category>食品类</category>
+        <name>豪华夹心松露条形礼盒</name>
+        <brand>Godiva</brand>
+        <size>6粒</size>
+        <price>16</price>
+        <description></description>
+        <unit>美元</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>image/godiva_ultimate_dessert_truffle_flight.jpg</image>
+    </product>
+    <product>
+        <category>食品类</category>
+        <name>豪华坚果松露条形礼盒</name>
+        <brand>Godiva</brand>
+        <size>6粒</size>
+        <price>16</price>
+        <description></description>
+        <unit>美元</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>image/godiva_nut_truffle_flight.jpg</image>
+    </product>
+    
 
 <!-- 母婴类 -->、
 	<!-- Enfamil -->
@@ -196,7 +293,7 @@
   	</product>
 	<product>
     	<category>护肤类</category>
-    	<name>莲花紧致保湿面霜</name>
+    	<name>睡莲滋润活颜面霜</name>
     	<brand>Fresh</brand>
     	<size>50ml</size>
     	<price></price>
@@ -426,6 +523,7 @@
     	<link></link>
     	<image>image/estee_lauder_nutritious_cream.jpg</image>
   	</product>
+    <!--
     <product>
         <category>护肤类</category>
         <name>红石榴晚霜</name>
@@ -438,6 +536,7 @@
         <link></link>
         <image>image/estee_lauder_nutritious_night_cream.jpg</image>
     </product>
+    -->
 
   	<!-- La Mer -->
   	<product>
@@ -483,7 +582,7 @@
     	<category>护肤类</category>
     	<name>洗脸皂(干性/混合/油性)</name>
     	<brand>Clinique</brand>
-    	<size>150g</size>
+    	<size>150g(带皂盒)</size>
     	<price></price>
     	<description>使肌肤保持清新，洁净，舒适，无干燥紧绷感。分为柔性、温和型和加强型，适合不同肌肤类型。  </description>
     	<unit>美元</unit>
@@ -491,9 +590,21 @@
     	<link></link>
     	<image>image/clinique_soap.jpg</image>
   	</product>
+    <product>
+        <category>护肤类</category>
+        <name>液体洗脸皂(干性/混合/油性)</name>
+        <brand>Clinique</brand>
+        <size>200ml</size>
+        <price></price>
+        <description>保护肌肤的天然水份平衡，无干燥紧绷感。分为柔性、温和型和加强型，适合不同肌肤类型。       </description>
+        <unit>美元</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>image/clinique_liquid_soap.jpg</image>
+    </product>
   	<product>
     	<category>护肤类</category>
-    	<name>黄油 - 无油版</name>
+    	<name>倩碧润肤乳-啫喱配方</name>
     	<brand>Clinique</brand>
     	<size>50ml/125ml</size>
     	<price></price>
@@ -505,7 +616,7 @@
   	</product>
   	<product>
     	<category>护肤类</category>
-    	<name>黄油 - 有油版</name>
+    	<name>倩碧卓越润肤乳</name>
     	<brand>Clinique</brand>
     	<size>50ml/125ml</size>
     	<price></price>
@@ -565,6 +676,7 @@
     	<link></link>
     	<image>image/lancome_toner.jpg</image>
   	</product>
+    <!--
 	<product>
     	<category>护肤类</category>
     	<name>清滢眼部卸妆水</name>
@@ -577,8 +689,8 @@
     	<link></link>
     	<image>image/lancome_eye_remover.jpg</image>
   	</product>
+    -->
 	
-
 
   	<!-- Caudalie -->
 	<!--
@@ -667,7 +779,7 @@
     	<category>护肤类</category>
     	<name>4合1草本精华洁面乳</name>
     	<brand>Philosophy</brand>
-    	<size>90ml/240ml/480ml</size>
+    	<size>90ml/240ml</size>
     	<price></price>
     	<description>配方温和，含天竺葵、花梨木、肉桂等多重植物成分，一次性清洁污垢和化妆残渍，平衡酸碱值，收敛毛孔。</description>
     	<unit>美元</unit>
@@ -677,7 +789,7 @@
   	</product>
   	<product>
     	<category>护肤类</category>
-    	<name>希望面霜</name>
+    	<name>酸乳酪希望面霜</name>
     	<brand>Philosophy</brand>
     	<size>30ml/60ml</size>
     	<price></price>
@@ -801,7 +913,7 @@
   	</product>
   	<product>
     	<category>护肤类</category>
-    	<name>补水保湿面膜</name>
+    	<name>天然补水舒缓海泥面膜</name>
     	<brand>GlamGlow</brand>
     	<size>50g</size>
     	<price></price>
