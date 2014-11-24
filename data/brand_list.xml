@@ -156,7 +156,7 @@
   	</brand>
 
   	<brand>
-		<category>彩妆类</category>
+		  <category>彩妆类</category>
     	<name_en>Urban Decay</name_en>
     	<name_cn></name_cn>
     	<description></description>
@@ -164,23 +164,31 @@
   	</brand>
 
   	<brand>
-		<category>彩妆类</category>
-    	<name_en>Nars</name_en>
-    	<name_cn>纳斯</name_cn>
+		  <category>彩妆类</category>
+    	<name_en>Giorgio Armani</name_en>
+    	<name_cn>阿玛尼</name_cn>
     	<description></description>
-    	<image>image/Nars.jpg</image>
+    	<image>image/GiorgioArmani.jpg</image>
   	</brand>
 
+    <brand>
+      <category>彩妆类</category>
+      <name_en>Yves Saint Laurent</name_en>
+      <name_cn>圣罗兰</name_cn>
+      <description></description>
+      <image>image/YSL.jpg</image>
+    </brand>
+
   	<brand>
-		<category>彩妆类</category>
+		  <category>彩妆类</category>
     	<name_en>MAC</name_en>
     	<name_cn>魅可</name_cn>
     	<description></description>
     	<image>image/MAC.jpg</image>
   	</brand>
 	
-	<brand>
-		<category>彩妆类</category>
+	 <brand>
+		  <category>彩妆类</category>
     	<name_en>Benefit</name_en>
     	<name_cn>贝玲妃</name_cn>
     	<description></description>

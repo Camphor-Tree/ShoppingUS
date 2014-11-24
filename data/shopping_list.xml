@@ -262,7 +262,7 @@
     	<brand>Kiehl's</brand>
     	<size>50ml/125ml</size>
     	<price></price>
-		<description></description>
+		<description>萃取南极的冷冻保护蛋白，具有防冻、抗干燥，强效的保湿功效。锁住肌肤表面水分达到全天的保湿效果。</description>
     	<unit>美元</unit>
     	<coupon></coupon>
     	<link></link>
@@ -270,11 +270,11 @@
   	</product>
   	<product>
     	<category>护肤类</category>
-    	<name>白泥清洁面膜</name>
+    	<name>亚马逊白泥净致面膜</name>
     	<brand>Kiehl's</brand>
     	<size>150ml</size>
     	<price></price>
-    	<description></description>
+    	<description>内含亚马逊白泥、翠叶芦荟萃取、皂土、燕麦粉等高效肌肤净致成分，帮助肌肤排毒、净化毛孔、深层清洁。</description>
     	<unit>美元</unit>
     	<coupon></coupon>
     	<link></link>
@@ -282,11 +282,11 @@
   	</product>
   	<product>
     	<category>护肤类</category>
-    	<name>牛油果眼霜</name>
+    	<name>牛油果保湿眼霜</name>
     	<brand>Kiehl's</brand>
     	<size>14/28g</size>
     	<price></price>
-    	<description></description>
+    	<description>含有牛油果油的丰润配方，能给娇嫩的眼部肌肤足够的保湿。                                      </description>
     	<unit>美元</unit>
     	<coupon></coupon>
     	<link></link>
@@ -294,11 +294,11 @@
   	</product>
   	<product>
     	<category>护肤类</category>
-    	<name>金盏花爽肤水</name>
+    	<name>金盏花植物爽肤水</name>
     	<brand>Kiehl's</brand>
     	<size>125ml/250ml</size>
     	<price></price>
-    	<description></description>
+    	<description>添加天然金盏花成分，不含酒精，能温和清洁和舒缓中偏油性肌肤、均衡调理肌肤的油脂。                 </description>
     	<unit>美元</unit>
     	<coupon></coupon>
     	<link></link>
@@ -306,11 +306,11 @@
   	</product>
   	<product>
     	<category>护肤类</category>
-    	<name>祛斑精华</name>
+    	<name>集焕白均衡亮肤淡斑精华液</name>
     	<brand>Kiehl's</brand>
     	<size>30ml/50ml</size>
     	<price></price>
-    	<description></description>
+    	<description>含活力维C、白桦、牡丹萃取精华，深层修护亮白，有效淡化班点，预防斑点生成，均匀肤色，肌肤更显无瑕润白。</description>
     	<unit>美元</unit>
     	<coupon></coupon>
     	<link></link>
@@ -318,11 +318,11 @@
   	</product>
 	<product>
     	<category>护肤类</category>
-    	<name>夜精灵精华</name>
+    	<name>夜间修护精华液</name>
     	<brand>Kiehl's</brand>
     	<size>30ml/50ml</size>
     	<price></price>
-    	<description></description>
+    	<description>100%天然萃取的植物精油，集合角鲨烷，月见草油，向日葵籽油，于夜间改善受损的肌肤，增加肌肤细胞活力。</description>
     	<unit>美元</unit>
     	<coupon></coupon>
     	<link></link>
@@ -330,11 +330,11 @@
   	</product>
   	<product>
     	<category>护肤类</category>
-    	<name>氨基酸洗发水</name>
+    	<name>氨基椰香洗发啫喱</name>
     	<brand>Kiehl's</brand>
     	<size>75ml/250ml/500ml</size>
     	<price></price>
-    	<description></description>
+    	<description>蕴含小麦氨基酸类、椰子油、水解小麦蛋白及水解小麦淀粉，帮助清洁秀发的同时，滋养、柔顺秀发。       </description>
     	<unit>美元</unit>
     	<coupon></coupon>
     	<link></link>
@@ -342,11 +342,11 @@
   	</product>
 	<product>
     	<category>护肤类</category>
-    	<name>氨基酸护发素</name>
+    	<name>氨基椰香护发乳液</name>
     	<brand>Kiehl's</brand>
     	<size>75ml/200ml/250ml</size>
     	<price></price>
-    	<description></description>
+    	<description>蕴含水解小麦蛋白、小麦氨基酸等，质地清新温和，为头发带来健康光彩。帮助呵护头发、强化发质，易于打理。</description>
     	<unit>美元</unit>
     	<coupon></coupon>
     	<link></link>
@@ -356,11 +356,11 @@
   	<!-- Estee Lauder -->
   	<product>
     	<category>护肤类</category>
-    	<name>ANR特润修护精华</name>
+    	<name>特润修护肌透精华露</name>
     	<brand>Estee Lauder</brand>
     	<size>30ml/50ml</size>
     	<price></price>
-    	<description></description>
+    	<description>*全新ChronoluxCB™ 科技，净化、清空累积损伤，激发自身修护能力，帮助肌肤在夜间抵达修护巅峰。      </description>
     	<unit>美元</unit>
     	<coupon></coupon>
     	<link></link>
@@ -368,11 +368,11 @@
   	</product>
   	<product>
     	<category>护肤类</category>
-    	<name>ANR眼霜</name>
+    	<name>肌透修护眼部精华霜</name>
     	<brand>Estee Lauder</brand>
     	<size>15ml</size>
     	<price></price>
-    	<description></description>
+    	<description>修护多屏引起的干燥、黯沉、细纹、松弛、黑眼圈、浮肿等眼周问题。只见平滑柔嫩、明净莹亮，击褪时光之痕。</description>
     	<unit>美元</unit>
     	<coupon></coupon>
     	<link></link>
@@ -380,11 +380,11 @@
   	</product>
   	<product>
     	<category>护肤类</category>
-    	<name>ANR眼部精华</name>
+    	<name>肌透修护眼部密集精华露</name>
     	<brand>Estee Lauder</brand>
     	<size>15ml</size>
     	<price></price>
-    	<description></description>
+    	<description>独蕴ChronoluxCBTM肌因生物钟同步修护科技，深透眼部肌底，抵御并防护光污染对眼周肌底的损伤。       </description>
     	<unit>美元</unit>
     	<coupon></coupon>
     	<link></link>
@@ -392,11 +392,11 @@
   	</product>
 	<product>
     	<category>护肤类</category>
-    	<name>红石榴鲜亮焕采洗面奶</name>
+    	<name>鲜亮焕采泡沫洁面乳</name>
     	<brand>Estee Lauder</brand>
     	<size>125ml</size>
     	<price></price>
-    	<description></description>
+    	<description>全新红石榴果莓复合精粹，汲4大抗氧化植物精华，含强吸附力"磁性粘土"，深入清洁肌肤，肌肤透现鲜亮光采。</description>
     	<unit>美元</unit>
     	<coupon></coupon>
     	<link></link>
@@ -404,11 +404,11 @@
   	</product>
 	<product>
     	<category>护肤类</category>
-    	<name>红石榴鲜亮焕采爽肤水</name>
+    	<name>鲜亮焕采精粹水(滋润/清爽)</name>
     	<brand>Estee Lauder</brand>
     	<size>200ml</size>
     	<price></price>
-    	<description></description>
+    	<description>滋宠每一寸干渴肌肤，更倾注多重抗氧排浊能量，自内驱散干燥、疲惫、黯沉，肌肤满注水盈，迸发鲜活亮采。  </description>
     	<unit>美元</unit>
     	<coupon></coupon>
     	<link></link>
@@ -416,16 +416,28 @@
   	</product>
 	<product>
     	<category>护肤类</category>
-    	<name>红石榴鲜亮焕采日霜</name>
+    	<name>红石榴日霜</name>
     	<brand>Estee Lauder</brand>
     	<size>50ml</size>
     	<price></price>
-    	<description></description>
+    	<description>幼滑的凝霜质地，添加更多天然矿物质及抗氧化营养成分，日间为肌肤注入水分与光彩，远离浊质与黯沉烦恼。</description>
     	<unit>美元</unit>
     	<coupon></coupon>
     	<link></link>
     	<image>image/estee_lauder_nutritious_cream.jpg</image>
   	</product>
+    <product>
+        <category>护肤类</category>
+        <name>红石榴晚霜</name>
+        <brand>Estee Lauder</brand>
+        <size>50ml</size>
+        <price></price>
+        <description>"排浊圣品"红石榴，含石榴多酚和花青素抗氧化明星成分，清除污染产生的自由基，使肌肤免受外界刺激的伤害。</description>
+        <unit>美元</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>image/estee_lauder_nutritious_night_cream.jpg</image>
+    </product>
 
   	<!-- La Mer -->
   	<product>
@@ -473,7 +485,7 @@
     	<brand>Clinique</brand>
     	<size>150g</size>
     	<price></price>
-    	<description></description>
+    	<description>使肌肤保持清新，洁净，舒适，无干燥紧绷感。分为柔性、温和型和加强型，适合不同肌肤类型。  </description>
     	<unit>美元</unit>
     	<coupon></coupon>
     	<link></link>
@@ -485,7 +497,7 @@
     	<brand>Clinique</brand>
     	<size>50ml/125ml</size>
     	<price></price>
-    	<description></description>
+    	<description>有效防止肌肤水分流失及过敏现象，让肌肤变成可导入养分的湿海绵，啫哩配方满足油性皮肤的需求。</description>
     	<unit>美元</unit>
     	<coupon></coupon>
     	<link></link>
@@ -497,7 +509,7 @@
     	<brand>Clinique</brand>
     	<size>50ml/125ml</size>
     	<price></price>
-    	<description></description>
+    	<description>修护天然肌肤保护膜，弹润膜力崭新升级：由内牢牢锁住肌底源源水润，肌肤充盈饱满。          </description>
     	<unit>美元</unit>
     	<coupon></coupon>
     	<link></link>
@@ -507,11 +519,11 @@
   	<!-- Lancome -->
   	<product>
     	<category>护肤类</category>
-    	<name>精华肌底液</name>
+    	<name>新精华肌底液</name>
     	<brand>Lancome</brand>
     	<size>30/50ml</size>
     	<price></price>
-    	<description></description>
+    	<description>全新升级配方，蕴含生物科技获取的活性成份，日夜深度修护激活10种年轻标记。              </description>
     	<unit>美元</unit>
     	<coupon></coupon>
     	<link></link>
@@ -519,11 +531,11 @@
   	</product>
 	<product>
     	<category>护肤类</category>
-    	<name>眼霜</name>
+    	<name>精华肌底眼部凝霜</name>
     	<brand>Lancome</brand>
     	<size>15ml</size>
     	<price></price>
-    	<description></description>
+    	<description>秉承“小黑瓶”家族独一无二高科技萃取物，28天让眼部肌肤拥有更多“年轻蛋白质”，柔嫩明亮。   </description>
     	<unit>美元</unit>
     	<coupon></coupon>
     	<link></link>
@@ -531,11 +543,11 @@
   	</product>
 	<product>
     	<category>护肤类</category>
-    	<name>清莹柔肤洁面乳</name>
+    	<name>清莹洁面洁沫</name>
     	<brand>Lancome</brand>
     	<size>125/200ml</size>
     	<price></price>
-    	<description></description>
+    	<description>丰富的泡沫，深层清理肌肤中的杂质。富含抗氧化成分及白莲与法国玫瑰精华，达到深层洁净的效果。</description>
     	<unit>美元</unit>
     	<coupon></coupon>
     	<link></link>
@@ -543,11 +555,11 @@
   	</product>
 	<product>
     	<category>护肤类</category>
-    	<name>清莹柔肤水</name>
+    	<name>清莹柔肤水(干性)</name>
     	<brand>Lancome</brand>
     	<size>200ml</size>
     	<price></price>
-    	<description></description>
+    	<description>乳状的化妆水徹底清洁却不刺激脆弱敏感的肌肤。同时给予肌肤滋润，帮助后续保养品的吸收。    </description>
     	<unit>美元</unit>
     	<coupon></coupon>
     	<link></link>
@@ -555,11 +567,11 @@
   	</product>
 	<product>
     	<category>护肤类</category>
-    	<name>眼部卸妆液</name>
+    	<name>清滢眼部卸妆水</name>
     	<brand>Lancome</brand>
     	<size>125/200ml</size>
     	<price></price>
-    	<description></description>
+    	<description>含有挥发性油脂（不含酒精）和温和的清洁因子。卸除眼部防水彩妆，不油腻，适合敏感的眼部肌肤。</description>
     	<unit>美元</unit>
     	<coupon></coupon>
     	<link></link>
@@ -653,11 +665,11 @@
   	<!-- Philosophy -->
   	<product>
     	<category>护肤类</category>
-    	<name>三合一洗面奶 - 16oz</name>
+    	<name>4合1草本精华洁面乳</name>
     	<brand>Philosophy</brand>
     	<size>90ml/240ml/480ml</size>
     	<price></price>
-    	<description></description>
+    	<description>配方温和，含天竺葵、花梨木、肉桂等多重植物成分，一次性清洁污垢和化妆残渍，平衡酸碱值，收敛毛孔。</description>
     	<unit>美元</unit>
     	<coupon></coupon>
     	<link></link>
@@ -665,11 +677,11 @@
   	</product>
   	<product>
     	<category>护肤类</category>
-    	<name>希望面霜 - 2oz</name>
+    	<name>希望面霜</name>
     	<brand>Philosophy</brand>
     	<size>30ml/60ml</size>
     	<price></price>
-    	<description></description>
+    	<description>有效对抗皱纹、斑点、粗糙、干燥。含提升肌肤免疫力的葡聚糖，抗氧化。温和乳酸成份可去除老化角质层。</description>
     	<unit>美元</unit>
     	<coupon></coupon>
     	<link></link>
@@ -679,11 +691,11 @@
 	<!-- Origins -->
   	<product>
     	<category>护肤类</category>
-    	<name>一饮而尽保湿面膜</name>
+    	<name>水润畅饮保湿面膜</name>
     	<brand>Origins</brand>
     	<size>100ml</size>
     	<price></price>
-    	<description></description>
+    	<description>迅速灌溉缺水肌肤，打开肌肤"水离子通道"，短短数分钟即刻为肌肤注入源源水分，卓效保湿，保护肌肤弹性。   </description>
     	<unit>美元</unit>
     	<coupon></coupon>
     	<link></link>
@@ -691,11 +703,11 @@
   	</product>
 	<product>
     	<category>护肤类</category>
-    	<name>泥娃娃去黑头面膜</name>
+    	<name>活性炭清透洁肤面膜</name>
     	<brand>Origins</brand>
     	<size>100ml</size>
     	<price></price>
-    	<description></description>
+    	<description>活性碳成分，如同吸铁石般深彻吸收毛孔深处的细微油质、污物和浊质，清透洁净毛孔，具有镇定功效负离子，让肌肤更舒缓放松，自在呼吸。</description>
     	<unit>美元</unit>
     	<coupon></coupon>
     	<link></link>
@@ -703,11 +715,11 @@
   	</product>
 	<product>
     	<category>护肤类</category>
-    	<name>一饮而尽夜间修护面膜</name>
+    	<name>水润畅饮夜间密集滋养面膜</name>
     	<brand>Origins</brand>
     	<size>100ml</size>
     	<price></price>
-    	<description></description>
+    	<description>免洗型睡眠面膜，肌肤的晚间滋补汤，迅速修护受损细胞，密集滋养，强化肌肤保湿屏障。肌肤含水量急升，清晨重现饱满润泽。</description>
     	<unit>美元</unit>
     	<coupon></coupon>
     	<link></link>
@@ -715,11 +727,11 @@
   	</product>
 	<product>
     	<category>护肤类</category>
-    	<name>青春无敌蘑菇水</name>
+    	<name>韦博士灵芝焕能精华水</name>
     	<brand>Origins</brand>
     	<size>200ml</size>
     	<price></price>
-    	<description></description>
+    	<description>质地清盈，舒缓水润，提升肌肤修护力。迅速焕亮并强健肌肤，帮助抵御外界侵袭，肌肤更显强健、细嫩、透亮。</description>
     	<unit>美元</unit>
     	<coupon></coupon>
     	<link></link>
@@ -731,7 +743,7 @@
     	<brand>Origins</brand>
     	<size>50ml</size>
     	<price></price>
-    	<description></description>
+    	<description>集复活草、西瓜荔枝、菱锰矿等天然植物精萃，促进肌肤深层水养循环，帮助赋活肌肤。润而不腻的轻盈质地，滋养长期缺水受损肌肤。</description>
     	<unit>美元</unit>
     	<coupon></coupon>
     	<link></link>
@@ -743,7 +755,7 @@
     	<brand>Origins</brand>
     	<size>50ml</size>
     	<price></price>
-    	<description></description>
+    	<description>集合复活草、西瓜荔枝、菱锰矿等天然植物精萃，质地丰盈润泽。蕴含阿苏果油、烛果油、芒果乳油萃取，改善干燥肌肤问题</description>
     	<unit>美元</unit>
     	<coupon></coupon>
     	<link></link>
@@ -755,7 +767,7 @@
     	<brand>Origins</brand>
     	<size>50ml</size>
     	<price></price>
-    	<description></description>
+    	<description>卓效醒肤能量，一扫肌肤暗沉疲惫，光彩活力；果冻质地，轻盈不油腻，迅速吸收，持久水润。三种天然植萃精油，怡人醒神。</description>
     	<unit>美元</unit>
     	<coupon></coupon>
     	<link></link>
@@ -765,11 +777,11 @@
   	<!-- GlamGlow -->
   	<product>
     	<category>护肤类</category>
-    	<name>白色发光面膜 - 去角质</name>
+    	<name>双重焕肤泥浆面膜</name>
     	<brand>GlamGlow</brand>
     	<size>34g</size>
     	<price></price>
-    	<description></description>
+    	<description>帮助预防及解决常见的皮肤问题以及因水油不平衡，毛孔阻塞引起的肌肤问题。</description>
     	<unit>美元</unit>
     	<coupon></coupon>
     	<link></link>
@@ -777,11 +789,11 @@
   	</product>
   	<product>
     	<category>护肤类</category>
-    	<name>黑色发光面膜 - 清洁</name>
+    	<name>亮颜去角质泥面膜</name>
     	<brand>GlamGlow</brand>
     	<size>50g</size>
     	<price></price>
-    	<description></description>
+    	<description>复合成分, 刚柔并济, 扫除倦容, 唤回青春,打造性感娇艳好莱坞上镜肤质。</description>
     	<unit>美元</unit>
     	<coupon></coupon>
     	<link></link>
@@ -789,11 +801,11 @@
   	</product>
   	<product>
     	<category>护肤类</category>
-    	<name>蓝色发光面膜 - 保湿</name>
+    	<name>补水保湿面膜</name>
     	<brand>GlamGlow</brand>
     	<size>50g</size>
     	<price></price>
-    	<description></description>
+    	<description>含天然椰子，蜂蜜，姜，维他命C、E，燕麦萃取等，融合玻尿酸和柠檬酸，深层锁水保湿。</description>
     	<unit>美元</unit>
     	<coupon></coupon>
     	<link></link>
@@ -801,11 +813,11 @@
   	</product>
 	<product>
     	<category>护肤类</category>
-    	<name>绿色发光面膜 - 保湿</name>
+    	<name>卸妆清洁面膜</name>
     	<brand>GlamGlow</brand>
     	<size>50g</size>
     	<price></price>
-    	<description></description>
+    	<description>采用特色仙人球油，松油，乳香油和没药油与新CLAYTOX™4粘土排毒系统，深层清洁皮肤。</description>
     	<unit>美元</unit>
     	<coupon></coupon>
     	<link></link>
