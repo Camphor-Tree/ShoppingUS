@@ -83,29 +83,45 @@
 		     <?php foreach($brand_product_array as $product) 
 			 {
 			 ?>
-            <div class="col-xs-6 col-lg-3">
+            <div  style="color:#424242;" class="col-xs-6 col-lg-3">
               <h3><?php print_r($product['name'])?></h3>
               <img src="<?php print_r($product['image'])?>" alt="<?php print_r($product['name'])?>" style="width:180px;height:180px;padding-bottom:10px;">
-				<div style="width:180px;word-break: break-all;">
+				<div style="color:#585858;width:180px;word-break: break-all;">
 				<!--Description-->
 				<?php if(!is_array($product['description']))print_r($product['description']); ?>
 				</div>
 				</br>
 				<div style="width:180px; word-break: break-all;">
-				规格: <b><?php if(!is_array($product['size']))print_r($product['size']); ?></b>
+				<b>规格: <?php if(!is_array($product['size']))print_r($product['size']); ?></b>
 				</div>
 				<div style="width:180px; word-break: break-all;">
-				价格: <b><?php if(!is_array($product['price']))
+				<b>官网价格:</b> <b style="color:#045FB4;"><?php if(!is_array($product['originprice']))
 								{
-									print_r($product['price']);
-									if(!is_array($product['unit']))
+									print_r($product['originprice']);
+									?>
+							</b>
+							<b> <?php if(!is_array($product['unit']))
 										print_r($product['unit']);
 								} else {
 									print_r("暂无参考价格");
 								} ?></b>
 				</div>
+				<div style="width:180px; word-break: break-all;">
+				<b>价格: </b> <b style="color:#DF0101;"><?php if(!is_array($product['price']))
+								{
+									print_r($product['price']);
+									?>
+						</b>
+						<b> <?php if(!is_array($product['unit']))
+										print_r($product['unit']);
+								} else {
+									print_r("暂无价格");
+								} ?></b>
+				</div>
             </div>
 			<?php } ?>
+			<h3>&nbsp;&nbsp;</h3>
+			<img src="image/want_more.jpg" alt="想要更多？" style="width:250px;height:250px;">
           </div>
 		  <?php } else {?>
 		    <div style="color:#FF8000">

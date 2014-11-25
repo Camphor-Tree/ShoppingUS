@@ -195,7 +195,6 @@
     	<image>image/Benefit.jpg</image>
   	</brand>
 
-	<!--
   	<brand>
 		<category>保健类</category>
     	<name_en>GNC</name_en>
@@ -203,7 +202,6 @@
     	<description></description>
     	<image>image/GNC.jpg</image>
   	</brand>
-	-->
 	
 	<brand>
 		<category>电子类</category>
