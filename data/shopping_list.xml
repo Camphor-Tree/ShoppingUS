@@ -1160,6 +1160,35 @@
     	<link></link>
     	<image>image/benefit_primer.jpg</image>
   	</product>
+	
+	<!-- GNC -->
+	
+	<product>
+    	<category>保健类</category>
+    	<name>3倍强度鱼油</name>
+    	<brand>GNC</brand>
+    	<size>60粒</size>
+		<originprice></originprice>
+    	<price>120</price>
+    	<description></description>
+    	<unit>人民币</unit>
+    	<coupon></coupon>
+    	<link></link>
+    	<image>image/gnc_triple_fish_oil.jpg</image>
+  	</product>
+	<product>
+    	<category>保健类</category>
+    	<name>葡萄籽精华100mg胶囊</name>
+    	<brand>GNC</brand>
+    	<size>100粒</size>
+		<originprice></originprice>
+    	<price>170</price>
+    	<description></description>
+    	<unit>人民币</unit>
+    	<coupon></coupon>
+    	<link></link>
+    	<image>image/gnc_grape_seed.jpg</image>
+  	</product>
 
 <!-- 电子类 -->
 
