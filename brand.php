@@ -107,7 +107,7 @@
 								} ?></b>
 				</div>
 				<div style="width:180px; word-break: break-all;">
-				<b>价格: </b> <b style="color:#DF0101;"><?php if(!is_array($product['price']))
+				<b>本店价格: </b> <b style="color:#DF0101;"><?php if(!is_array($product['price']))
 								{
 									print_r($product['price']);
 									?>
