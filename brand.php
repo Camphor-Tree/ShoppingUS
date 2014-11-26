@@ -1,5 +1,8 @@
-
 <!DOCTYPE html>
+<?php  
+   include './data/brand_product_reader.php';
+   include './data/brand_list_reader.php';
+   include './cart/cart.php';?>
 <html lang="zh-cmn-Hans">
   <head>
     <meta charset="utf-8">
@@ -22,15 +25,7 @@
       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
-	<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-  ga('create', 'UA-57014520-1', 'auto');
-  ga('send', 'pageview');
-	</script>
   </head>
 
   <body style="font-family:微软雅黑">
@@ -49,6 +44,7 @@
           <ul class="nav navbar-nav">
             <li><a href="./">主页</a></li>
             <li><a href="./about.php">联系我们</a></li>
+			 <li><a href="./order.php">购物车<sup id="count"><?php $cart = (new ShoppingCart); print_r($cart->getShoppingCartCount());?></sup></a></li>
           </ul>
         </div><!-- /.nav-collapse -->
       </div><!-- /.container -->
@@ -66,17 +62,16 @@
           </p>
           -->
           <?php
-            include './data/brand_product_reader.php';
-            include './data/brand_list_reader.php';
             $product_array = getProductsBrandArray();
-            $current_brand = $_GET["brand"];
+            $current_brand=$_GET["brand"];
+			 $cart = (new ShoppingCart);
+
            
 			 if(array_key_exists ( $current_brand , $product_array ))
 			 {
 			  $brand_product_array  = $product_array[$current_brand];
         $brand_info = getBrandByName($current_brand);
           ?>
-		  
           <div style="color:#FF8000;font-family:黑体;">
             <br/>
             <b style="font-size:22px;"> <?php print_r($current_brand); 
@@ -94,6 +89,9 @@
           <div class="row">
 		     <?php foreach($brand_product_array as $product) 
 			 {
+
+			    $cart->addProductToShoppingCart($product,2);
+				
 			 ?>
             <div  style="color:#424242;" class="col-xs-6 col-lg-3">
               <h3><?php print_r($product['name'])?></h3>
@@ -123,8 +121,16 @@
 									print_r($product['saleprice']);
 									?> </b> <?php if(!is_array($product['unit']))
 														print_r($product['unit']);
-								} else {?> <b>暂无折扣，敬请关注</b> <?php } ?>
+								} else {?> <b>暂无折扣，敬请关注</b><?php }?>
 				</div>
+				<div>
+				<div style="width:80px">
+				<input id="<?php print_r($product['name'])?>_count" class="form-control" type="number"  style="height:40px;padding-left:0px;text-align:center;" hint="数量">
+				</div>
+				<input id=<?php print_r($product['name'])?>_data" type="hidden" value="<?php print_r(json_encode($product))?>"></input>
+				<button  id="<?php print_r($product['name'])?>" class="btn btn-info btn-sm" style="height:40px;width:80px;">加入购物车</button>
+				</div>
+				
             </div>
 			<?php } ?>
 			<h3>&nbsp;&nbsp;</h3>
@@ -146,13 +152,41 @@
       </footer>
 
     </div>
-
-    <!-- Bootstrap core JavaScript
-    ================================================== -->
-    <!-- Placed at the end of the document so the pages load faster -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
     <script src="bootstrap/js/bootstrap.min.js"></script>
 
     <script src="js/offcanvas.js"></script>
+	<script> 
+	<?php foreach($brand_product_array as $product) 
+  { ?>
+	$( "#<?php print_r($product["name"]);?>" ).click(function() {
+  var nc=parseInt($("#<?php print_r($product["name"]);?>_count").val());
+  var cc=parseInt($("#count").html());
+  var parameter={"product": <?php print_r(json_encode($product))?>,
+	       "count":nc};
+  $("#count").html(nc+cc);
+  $( "#<?php print_r($product["name"]);?>_count" ).val("");
+  $.ajax({
+    type: "POST",
+    url: "cart/cart_handler.php",
+    data: parameter,
+    cache: false,
+    success: function(data)
+        {
+            alert(data);
+        }
+    });
+});
+<?php }?>
+</script>
+		<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-57014520-1', 'auto');
+  ga('send', 'pageview');
+	</script>
   </body>
 </html>

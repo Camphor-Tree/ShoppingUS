@@ -1,0 +1,29 @@
+Array
+(
+    [0] => Array
+        (
+            [category] => 保健类
+            [name] => 100mg葡萄籽精华胶囊
+            [brand] => GNC
+            [size] => 100粒
+            [price] => 155
+            [description] => 有效抗氧化，防止色斑生成，延缓人体衰老
+            [unit] => 人民币
+            [image] => image/gnc_grape_seed.jpg
+            [count] => 2
+        )
+
+    [1] => Array
+        (
+            [category] => 保健类
+            [name] => 100mg葡萄籽精华胶囊
+            [brand] => GNC
+            [size] => 100粒
+            [price] => 155
+            [description] => 有效抗氧化，防止色斑生成，延缓人体衰老
+            [unit] => 人民币
+            [image] => image/gnc_grape_seed.jpg
+            [count] => 2
+        )
+
+)
