@@ -67,17 +67,25 @@
           -->
           <?php
             include './data/brand_product_reader.php';
+            include './data/brand_list_reader.php';
             $product_array = getProductsBrandArray();
-            $current_brand=$_GET["brand"];
+            $current_brand = $_GET["brand"];
            
 			 if(array_key_exists ( $current_brand , $product_array ))
 			 {
 			  $brand_product_array  = $product_array[$current_brand];
+        $brand_info = getBrandByName($current_brand);
           ?>
 		  
           <div style="color:#FF8000">
             <br/>
-            <h2> <?php print_r($current_brand); ?></h2>  
+            <h2> <?php print_r($current_brand); 
+                if(!is_array($brand_info['name_cn']))
+                    print_r("/".$brand_info['name_cn'])?></h2> 
+            <b> &nbsp;<?php   
+                if(!is_array($banrd_info['saledate']))
+                    print_r($brand_info['saledate'])?>
+            </b>
           </div>
           <div class="row">
 		     <?php foreach($brand_product_array as $product) 

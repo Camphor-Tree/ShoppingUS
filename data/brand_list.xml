@@ -6,7 +6,7 @@
     	<name_en>Godiva</name_en>
     	<name_cn>歌帝梵</name_cn>
     	<description></description>
-		<onsale></onsale>
+		  <saledate></saledate>
     	<image>image/Godiva.jpg</image>
   	</brand>
 	
@@ -15,7 +15,7 @@
     	<name_en>Guylian</name_en>
     	<name_cn>吉利莲</name_cn>
     	<description></description>
-		<onsale></onsale>
+		  <saledate></saledate>
     	<image>image/Guylian.jpg</image>
   	</brand>
 	
@@ -24,7 +24,7 @@
     	<name_en>GNC</name_en>
     	<name_cn>健安喜</name_cn>
     	<description></description>
-		<onsale>Y</onsale>
+		  <saledate>限时时间：</saledate>
     	<image>image/GNC.jpg</image>
   	</brand>
 
@@ -33,7 +33,7 @@
     	<name_en>Fresh</name_en>
     	<name_cn>馥蕾诗</name_cn>
     	<description></description>
-		<onsale></onsale>
+		  <saledate></saledate>
     	<image>image/Fresh.jpg</image>
   	</brand>
 
@@ -42,7 +42,7 @@
     	<name_en>Kiehl's</name_en>
     	<name_cn>契尔氏</name_cn>
     	<description></description>
-		<onsale>Y</onsale>
+		  <saledate>限时时间：</saledate>
     	<image>image/Kiehls.jpg</image>
   	</brand>
 
@@ -51,7 +51,7 @@
     	<name_en>Estee Lauder</name_en>
     	<name_cn>雅诗兰黛</name_cn>
     	<description></description>
-		<onsale></onsale>
+		  <saledate></saledate>
     	<image>image/EsteeLauder.jpg</image>
   	</brand>
 
@@ -60,7 +60,7 @@
     	<name_en>La Mer</name_en>
     	<name_cn>海蓝之谜</name_cn>
     	<description></description>
-		<onsale></onsale>
+		  <saledate></saledate>
     	<image>image/LaMer.jpg</image>
   	</brand>
 
@@ -69,7 +69,7 @@
     	<name_en>Origins</name_en>
     	<name_cn>悦木之源</name_cn>
     	<description></description>
-		<onsale></onsale>
+		  <saledate></saledate>
     	<image>image/Origins.jpg</image>
   	</brand>
 
@@ -78,7 +78,7 @@
     	<name_en>Clinique</name_en>
     	<name_cn>倩碧</name_cn>
     	<description></description>
-		<onsale></onsale>
+		  <saledate></saledate>
     	<image>image/Clinique.jpg</image>
   	</brand>
 
@@ -87,45 +87,45 @@
     	<name_en>Lancome</name_en>
     	<name_cn>兰蔻</name_cn>
     	<description></description>
-		<onsale></onsale>
+		  <saledate></saledate>
     	<image>image/Lancome.jpg</image>
   	</brand>
 	
   	<brand>
-		<category>护肤类</category>
+		  <category>护肤类</category>
     	<name_en>GlamGlow</name_en>
     	<name_cn>格莱魅</name_cn>
     	<description></description>
-		<onsale></onsale>
+		  <saledate></saledate>
     	<image>image/GlamGlow.jpg</image>
   	</brand>
 	
-	<brand>
-		<category>护肤类</category>
+	 <brand>
+		  <category>护肤类</category>
     	<name_en>Philosophy</name_en>
     	<name_cn>自然哲理</name_cn>
     	<description></description>
-		<onsale>Y</onsale>
+		  <saledate>限时时间：</saledate>
     	<image>image/Philosophy.jpg</image>
   	</brand>
 	
-	    <brand>
+	 <brand>
 		<category>母婴类</category>
 		<name_en>Enfamil</name_en>
 		<name_cn>美赞臣</name_cn>
 		<description></description>
-		<onsale></onsale>
+		<saledate></saledate>
 		<image>image/Enfamil.jpg</image>
-    </brand>
+  </brand>
 
-    <brand>
+  <brand>
 		<category>母婴类</category>
 		<name_en>Similac</name_en>
 		<name_cn>雅培</name_cn>
 		<description></description>
-		<onsale></onsale>
+		<saledate></saledate>
 		<image>image/Similac.jpg</image>
-    </brand>
+  </brand>
 	
 	<!--
     <brand>
@@ -145,14 +145,14 @@
     </brand>
 	-->
 
-    <brand>
+  <brand>
 		<category>母婴类</category>
 		<name_en>L'il Critters</name_en>
 		<name_cn>小熊宝宝</name_cn>
 		<description></description>
-		<onsale></onsale>
+		<saledate></saledate>
 		<image>image/LilCritters.png</image>
-    </brand>
+  </brand>
     
 	<!--
     <brand>
@@ -169,7 +169,7 @@
 		<name_en>CK</name_en>
 		<name_cn></name_cn>
 		<description></description>
-		<onsale></onsale>
+		<saledate></saledate>
 		<image>image/CK.jpg</image>
     </brand>
 	
@@ -178,27 +178,27 @@
 		<name_en>Levi's</name_en>
 		<name_cn>李维斯</name_cn>
 		<description></description>
-		<onsale></onsale>
+		<saledate></saledate>
 		<image>image/Levis.jpg</image>
-    </brand>
+  </brand>
 	
 	<brand>
 		<category>服饰类</category>
 		<name_en>Minnetonka</name_en>
 		<name_cn>迷你唐卡那</name_cn>
 		<description></description>
-		<onsale></onsale>
+		<saledate></saledate>
 		<image>image/Minnetonka.jpg</image>
-    </brand>
+  </brand>
 	
 	<brand>
 		<category>服饰类</category>
 		<name_en>Columbia</name_en>
 		<name_cn>哥伦比亚</name_cn>
 		<description></description>
-		<onsale>Y</onsale>
+		<saledate>限时时间：</saledate>
 		<image>image/Columbia.jpg</image>
-    </brand>
+  </brand>
 	
 
 	<!--
