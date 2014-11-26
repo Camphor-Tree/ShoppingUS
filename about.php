@@ -70,6 +70,9 @@
 					<li>Email:qiaomengying03@163.com</li>
 					<li>QQ:278489810</li>
 				</p>
+        <p>新疆地区联系人：司女士
+          <li>QQ:573841150</li>
+        </p>
 				<p>美国代购联系人：许小莫
 					<li>Email:xujiahang11@gmail.com</li>
 					<li>微信:313541388</li>
