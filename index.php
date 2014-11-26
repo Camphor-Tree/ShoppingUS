@@ -33,6 +33,7 @@
     </nav>
     <div class="container">
 		<img src="image/Logo.png" class="img-responsive center-block">
+		<div style="font-size:16px;text-align:center;">网站持续更新中...</div>
 		<div class="row row-offcanvas row-offcanvas-right">
         <div class="col-xs-12 col-sm-12">
           <?php include './data/brand_list_reader.php'; $brand_array = getBrandArray();
