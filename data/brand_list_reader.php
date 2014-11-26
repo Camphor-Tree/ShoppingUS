@@ -56,9 +56,13 @@ function getBrandByName( $current_brand )
 	$brand_info = array();
 	foreach ($brand_array as $brand)
 	{
-		if(!array_key_exists($current_brand, $brand))
+		if(array_key_exists("name_en", $brand))
 		{
-			array_push($brand_info,$brand["brand"]);
+			if($brand["name_en"]==$current_brand)
+			{
+				$brand_info["name_cn"]=$brand["name_cn"];
+				$brand_info["saledate"]=$brand["saledate"];
+			}
 		}
 	}
 

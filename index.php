@@ -60,7 +60,7 @@
               <h3> <?php if(!is_array($brand['name_cn'])) 
 							{ 
 								print_r($brand['name_cn']);?>/<?php 	} print_r($brand['name_en']); 
-							if(!is_array($brand['onsale'])) 
+							if(!is_array($brand['saledate'])) 
 							{ ?>&nbsp;<img src="image/onsale.jpg"><?php
 							} ?>
 			  </h3>

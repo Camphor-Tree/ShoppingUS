@@ -167,8 +167,8 @@
     	<name>3倍强度鱼油</name>
     	<brand>GNC</brand>
     	<size>60粒</size>
-		<saleprice>88</saleprice>
-    	<price>139</price>
+		<saleprice></saleprice>
+    	<price>159</price>
     	<description>3倍的鱼油含量，降低血脂，胆固醇，增强记忆</description>
     	<unit>人民币</unit>
     	<coupon></coupon>
@@ -206,7 +206,7 @@
     	<name>100mg辅酶Q10</name>
     	<brand>GNC</brand>
     	<size>60粒</size>
-		<saleprice>88</saleprice>
+		<saleprice></saleprice>
     	<price>99</price>
     	<description>心脏保护预防心血管疾病，抗衰老</description>
     	<unit>人民币</unit>
@@ -232,7 +232,7 @@
     	<name>男士专用多维缓释片</name>
     	<brand>GNC</brand>
     	<size>60粒</size>
-		<saleprice>88</saleprice>
+		<saleprice></saleprice>
     	<price>119</price>
     	<description>补充男士所需维生素和矿物质</description>
     	<unit>人民币</unit>
@@ -245,7 +245,7 @@
     	<name>女士专用多维缓释片</name>
     	<brand>GNC</brand>
     	<size>120粒</size>
-		<saleprice>88</saleprice>
+		<saleprice></saleprice>
     	<price>119</price>
     	<description>补充女士所需维生素和矿物质</description>
     	<unit>人民币</unit>
@@ -1346,7 +1346,7 @@
         <unit>人民币</unit>
         <coupon></coupon>
         <link></link>
-        <image>image/ck_men_triangle_black.png</image>
+        <image>image/ck_men_triangle_black.jpg</image>
     </product>
     <product>
         <category>服饰类</category>
@@ -1359,7 +1359,7 @@
         <unit>人民币</unit>
         <coupon></coupon>
         <link></link>
-        <image>image/ck_men_short_black.png</image>
+        <image>image/ck_men_short_black.jpg</image>
     </product>
     <product>
         <category>服饰类</category>
@@ -1372,7 +1372,7 @@
         <unit>人民币</unit>
         <coupon></coupon>
         <link></link>
-        <image>image/ck_men_short_white.png</image>
+        <image>image/ck_men_short_white.jpg</image>
     </product>
     <product>
         <category>服饰类</category>
@@ -1385,7 +1385,7 @@
         <unit>人民币</unit>
         <coupon></coupon>
         <link></link>
-        <image>image/ck_men_long_black.png</image>
+        <image>image/ck_men_long_black.jpg</image>
     </product>
     <product>
         <category>服饰类</category>
@@ -1398,7 +1398,7 @@
         <unit>人民币</unit>
         <coupon></coupon>
         <link></link>
-        <image>image/ck_men_long_white_1.png</image>
+        <image>image/ck_men_long_white_1.jpg</image>
     </product>
     <product>
         <category>服饰类</category>
@@ -1411,7 +1411,7 @@
         <unit>人民币</unit>
         <coupon></coupon>
         <link></link>
-        <image>image/ck_men_long_white_2.png</image>
+        <image>image/ck_men_long_white_2.jpg</image>
     </product>
     <product>
         <category>服饰类</category>
@@ -1424,7 +1424,7 @@
         <unit>人民币</unit>
         <coupon></coupon>
         <link></link>
-        <image>image/ck_women_triangle_black.png</image>
+        <image>image/ck_women_triangle_black.jpg</image>
     </product>
     <product>
         <category>服饰类</category>
@@ -1437,7 +1437,7 @@
         <unit>人民币</unit>
         <coupon></coupon>
         <link></link>
-        <image>image/ck_women_triangle_white.png</image>
+        <image>image/ck_women_triangle_white.jpg</image>
     </product>
     <product>
         <category>服饰类</category>
@@ -1450,7 +1450,7 @@
         <unit>人民币</unit>
         <coupon></coupon>
         <link></link>
-        <image>image/ck_women_short_black.png</image>
+        <image>image/ck_women_short_black.jpg</image>
     </product>
     <product>
         <category>服饰类</category>
@@ -1463,7 +1463,7 @@
         <unit>人民币</unit>
         <coupon></coupon>
         <link></link>
-        <image>image/ck_women_short_white.png</image>
+        <image>image/ck_women_short_white.jpg</image>
     </product>
 
 	<!-- 

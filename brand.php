@@ -77,14 +77,18 @@
         $brand_info = getBrandByName($current_brand);
           ?>
 		  
-          <div style="color:#FF8000">
+          <div style="color:#FF8000;font-family:黑体;">
             <br/>
-            <h2> <?php print_r($current_brand); 
-                if(!is_array($brand_info['name_cn']))
-                    print_r("/".$brand_info['name_cn'])?></h2> 
-            <b> &nbsp;<?php   
-                if(!is_array($banrd_info['saledate']))
-                    print_r($brand_info['saledate'])?>
+            <b style="font-size:22px;"> <?php print_r($current_brand); 
+                if(!empty($brand_info['name_cn']))
+                {
+                  print_r("/".$brand_info["name_cn"]);
+                  if(!empty($brand_info["saledate"]))
+                  { ?> <img src="image/onsale_large.png"></b>
+            <b style="color:#DF0101;font-size:18px;"> &nbsp;<?php   
+                  print_r($brand_info["saledate"]);
+                  } 
+                } ?>
             </b>
           </div>
           <div class="row">
