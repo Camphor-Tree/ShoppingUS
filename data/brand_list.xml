@@ -6,6 +6,7 @@
     	<name_en>Godiva</name_en>
     	<name_cn>歌帝梵</name_cn>
     	<description></description>
+		<onsale></onsale>
     	<image>image/Godiva.jpg</image>
   	</brand>
 	
@@ -14,14 +15,106 @@
     	<name_en>Guylian</name_en>
     	<name_cn>吉利莲</name_cn>
     	<description></description>
+		<onsale></onsale>
     	<image>image/Guylian.jpg</image>
   	</brand>
+	
+	<brand>
+		<category>保健类</category>
+    	<name_en>GNC</name_en>
+    	<name_cn>健安喜</name_cn>
+    	<description></description>
+		<onsale>Y</onsale>
+    	<image>image/GNC.jpg</image>
+  	</brand>
 
-    <brand>
+  	<brand>
+		<category>护肤类</category>
+    	<name_en>Fresh</name_en>
+    	<name_cn>馥蕾诗</name_cn>
+    	<description></description>
+		<onsale></onsale>
+    	<image>image/Fresh.jpg</image>
+  	</brand>
+
+  	<brand>
+		<category>护肤类</category>
+    	<name_en>Kiehl's</name_en>
+    	<name_cn>契尔氏</name_cn>
+    	<description></description>
+		<onsale>Y</onsale>
+    	<image>image/Kiehls.jpg</image>
+  	</brand>
+
+  	<brand>
+		<category>护肤类</category>
+    	<name_en>Estee Lauder</name_en>
+    	<name_cn>雅诗兰黛</name_cn>
+    	<description></description>
+		<onsale></onsale>
+    	<image>image/EsteeLauder.jpg</image>
+  	</brand>
+
+  	<brand>
+		<category>护肤类</category>
+    	<name_en>La Mer</name_en>
+    	<name_cn>海蓝之谜</name_cn>
+    	<description></description>
+		<onsale></onsale>
+    	<image>image/LaMer.jpg</image>
+  	</brand>
+
+  	<brand>
+		<category>护肤类</category>
+    	<name_en>Origins</name_en>
+    	<name_cn>悦木之源</name_cn>
+    	<description></description>
+		<onsale></onsale>
+    	<image>image/Origins.jpg</image>
+  	</brand>
+
+  	<brand>
+		<category>护肤类</category>
+    	<name_en>Clinique</name_en>
+    	<name_cn>倩碧</name_cn>
+    	<description></description>
+		<onsale></onsale>
+    	<image>image/Clinique.jpg</image>
+  	</brand>
+
+  	<brand>
+		<category>护肤类</category>
+    	<name_en>Lancome</name_en>
+    	<name_cn>兰蔻</name_cn>
+    	<description></description>
+		<onsale></onsale>
+    	<image>image/Lancome.jpg</image>
+  	</brand>
+	
+  	<brand>
+		<category>护肤类</category>
+    	<name_en>GlamGlow</name_en>
+    	<name_cn>格莱魅</name_cn>
+    	<description></description>
+		<onsale></onsale>
+    	<image>image/GlamGlow.jpg</image>
+  	</brand>
+	
+	<brand>
+		<category>护肤类</category>
+    	<name_en>Philosophy</name_en>
+    	<name_cn>自然哲理</name_cn>
+    	<description></description>
+		<onsale>Y</onsale>
+    	<image>image/Philosophy.jpg</image>
+  	</brand>
+	
+	    <brand>
 		<category>母婴类</category>
 		<name_en>Enfamil</name_en>
 		<name_cn>美赞臣</name_cn>
 		<description></description>
+		<onsale></onsale>
 		<image>image/Enfamil.jpg</image>
     </brand>
 
@@ -30,9 +123,11 @@
 		<name_en>Similac</name_en>
 		<name_cn>雅培</name_cn>
 		<description></description>
+		<onsale></onsale>
 		<image>image/Similac.jpg</image>
     </brand>
-
+	
+	<!--
     <brand>
 		<category>母婴类</category>
 		<name_en>Gerber</name_en>
@@ -48,15 +143,18 @@
 		<description></description>
 		<image>image/BabysOnly.jpg</image>
     </brand>
+	-->
 
     <brand>
 		<category>母婴类</category>
 		<name_en>L'il Critters</name_en>
 		<name_cn>小熊宝宝</name_cn>
 		<description></description>
+		<onsale></onsale>
 		<image>image/LilCritters.png</image>
     </brand>
     
+	<!--
     <brand>
 		<category>母婴类</category>
 		<name_en>Philips Avent</name_en>
@@ -64,97 +162,46 @@
 		<description></description>
 		<image>image/PhilipsAvent.jpg</image>
     </brand>
-
-  	<brand>
-		<category>护肤类</category>
-    	<name_en>Fresh</name_en>
-    	<name_cn>馥蕾诗</name_cn>
-    	<description></description>
-    	<image>image/Fresh.jpg</image>
-  	</brand>
-
-  	<brand>
-		<category>护肤类</category>
-    	<name_en>Kiehl's</name_en>
-    	<name_cn>契尔氏</name_cn>
-    	<description></description>
-    	<image>image/Kiehls.jpg</image>
-  	</brand>
-
-  	<brand>
-		<category>护肤类</category>
-    	<name_en>Estee Lauder</name_en>
-    	<name_cn>雅诗兰黛</name_cn>
-    	<description></description>
-    	<image>image/EsteeLauder.jpg</image>
-  	</brand>
-
-  	<brand>
-		<category>护肤类</category>
-    	<name_en>La Mer</name_en>
-    	<name_cn>海蓝之谜</name_cn>
-    	<description></description>
-    	<image>image/LaMer.jpg</image>
-  	</brand>
-
-  	<brand>
-		<category>护肤类</category>
-    	<name_en>Origins</name_en>
-    	<name_cn>悦木之源</name_cn>
-    	<description></description>
-    	<image>image/Origins.jpg</image>
-  	</brand>
-
-  	<brand>
-		<category>护肤类</category>
-    	<name_en>Clinique</name_en>
-    	<name_cn>倩碧</name_cn>
-    	<description></description>
-    	<image>image/Clinique.jpg</image>
-  	</brand>
-
-  	<brand>
-		<category>护肤类</category>
-    	<name_en>Lancome</name_en>
-    	<name_cn>兰蔻</name_cn>
-    	<description></description>
-    	<image>image/Lancome.jpg</image>
-  	</brand>
-
-	<!--
-  	<brand>
-		<category>护肤类</category>
-    	<name_en>Caudalie</name_en>
-    	<name_cn>欧缇丽</name_cn>
-    	<description></description>
-    	<image>image/Caudalie.jpg</image>
-  	</brand>
+	-->
 	
 	<brand>
-		<category>护肤类</category>
-    	<name_en>Clarins</name_en>
-    	<name_cn>娇韵诗</name_cn>
-    	<description></description>
-    	<image>image/Clarins.jpg</image>
-  	</brand>
-	-->
+		<category>服饰类</category>
+		<name_en>CK</name_en>
+		<name_cn></name_cn>
+		<description></description>
+		<onsale></onsale>
+		<image>image/CK.jpg</image>
+    </brand>
+	
+	<brand>
+		<category>服饰类</category>
+		<name_en>Levi's</name_en>
+		<name_cn>李维斯</name_cn>
+		<description></description>
+		<onsale></onsale>
+		<image>image/Levis.jpg</image>
+    </brand>
+	
+	<brand>
+		<category>服饰类</category>
+		<name_en>Minnetonka</name_en>
+		<name_cn>迷你唐卡那</name_cn>
+		<description></description>
+		<onsale></onsale>
+		<image>image/Minnetonka.jpg</image>
+    </brand>
+	
+	<brand>
+		<category>服饰类</category>
+		<name_en>Columbia</name_en>
+		<name_cn>哥伦比亚</name_cn>
+		<description></description>
+		<onsale></onsale>
+		<image>image/Columbia.jpg</image>
+    </brand>
+	
 
-  	<brand>
-		<category>护肤类</category>
-    	<name_en>Philosophy</name_en>
-    	<name_cn>自然哲理</name_cn>
-    	<description></description>
-    	<image>image/Philosophy.jpg</image>
-  	</brand>
-
-  	<brand>
-		<category>护肤类</category>
-    	<name_en>GlamGlow</name_en>
-    	<name_cn>格莱魅</name_cn>
-    	<description></description>
-    	<image>image/GlamGlow.jpg</image>
-  	</brand>
-
+	<!--
   	<brand>
 		  <category>彩妆类</category>
     	<name_en>Urban Decay</name_en>
@@ -194,14 +241,6 @@
     	<description></description>
     	<image>image/Benefit.jpg</image>
   	</brand>
-
-  	<brand>
-		<category>保健类</category>
-    	<name_en>GNC</name_en>
-    	<name_cn>健安喜</name_cn>
-    	<description></description>
-    	<image>image/GNC.jpg</image>
-  	</brand>
 	
 	<brand>
 		<category>电子类</category>
@@ -218,6 +257,8 @@
     	<description></description>
     	<image>image/Tissot.jpg</image>
   	</brand>
+	
+	-->
 
 
 </BrandList>

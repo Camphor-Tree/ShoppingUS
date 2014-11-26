@@ -48,7 +48,7 @@
         <div id="navbar" class="collapse navbar-collapse">
           <ul class="nav navbar-nav">
             <li><a href="./">主页</a></li>
-            <li><a href="./about.php">联系方式</a></li>
+            <li><a href="./about.php">联系我们</a></li>
           </ul>
         </div><!-- /.nav-collapse -->
       </div><!-- /.container -->
@@ -92,31 +92,26 @@
 				</div>
 				</br>
 				<div style="width:180px; word-break: break-all;">
-				<b>规格: <?php if(!is_array($product['size']))print_r($product['size']); ?></b>
+				规格:&nbsp; <?php if(!is_array($product['size']))print_r($product['size']); ?>
 				</div>
 				<div style="width:180px; word-break: break-all;">
-				<b>官网价格:</b> <b style="color:#045FB4;"><?php if(!is_array($product['originprice']))
-								{
-									print_r($product['originprice']);
-									?>
-							</b>
-							<b> <?php if(!is_array($product['unit']))
-										print_r($product['unit']);
-								} else {
-									print_r("暂无参考价格");
-								} ?></b>
-				</div>
-				<div style="width:180px; word-break: break-all;">
-				<b>本店价格: </b> <b style="color:#DF0101;"><?php if(!is_array($product['price']))
+				本店价格:&nbsp; <b style="color:#045FB4;"><?php if(!is_array($product['price']))
 								{
 									print_r($product['price']);
 									?>
-						</b>
-						<b> <?php if(!is_array($product['unit']))
-										print_r($product['unit']);
+							</b> <?php if(!is_array($product['unit']))
+											print_r($product['unit']);
 								} else {
 									print_r("暂无价格");
-								} ?></b>
+								} ?>
+				</div>
+				<div style="width:180px; word-break: break-all;">
+				折扣价:&nbsp; <?php if(!is_array($product['saleprice']))
+								{ ?> <b style="color:#DF0101;"> <?php
+									print_r($product['saleprice']);
+									?> </b> <?php if(!is_array($product['unit']))
+														print_r($product['unit']);
+								} else {?> <b>暂无折扣，敬请关注</b> <?php } ?>
 				</div>
             </div>
 			<?php } ?>

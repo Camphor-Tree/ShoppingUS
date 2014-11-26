@@ -38,7 +38,7 @@
         <div id="navbar" class="collapse navbar-collapse">
           <ul class="nav navbar-nav">
             <li><a href="./">主页</a></li>
-            <li class="active"><a href="./about.html">联系方式</a></li>
+            <li class="active"><a href="./about.html">联系我们</a></li>
           </ul>
         </div><!-- /.nav-collapse -->
       </div><!-- /.container -->
@@ -54,13 +54,26 @@
             <button type="button" class="btn btn-primary btn-xs" data-toggle="offcanvas">Toggle nav</button>
           </p>
           -->
-          <div class="jumbotron">
-				<h2>苏州地区联系人：乔虾米</h2>
+		  <div class="jumbotron">
+			<h2>关于Logpie</h2>
+			</br>
+			<p>Logpie 致力于美国诚信代购。 初期阶段，只采用熟人介绍的方式。如有代购需求,请联系联络人。</p>
+			      <li><b>关于物流。</b>本店采用西雅图华人快递，商品单价已包含国际运费。如需保险，可单独购买，价格为保额的3%。运送时间大约为2-3周。</li>
+			      <li><b>关于关税。</b>购买额150美元以下不收额外关税。 如单件物品超出150美金，需额外收取10%的关税。</li>
+			      <li><b>关于诚信。</b>本店通过联络人介绍, 信誉第一。本店代购全部来自美国官网专柜，绝无假货。</li>
+			      <li><b>关于付款。</b>本店有对应的淘宝店，接受支付宝付款，或者线下交易联络人，诚信第一。</li>
+			      <li><b>关于商品。</b>初期网站例举的商品不全，如有其它需要，如其他品牌的化妆品、小型电子产品、食品、保健品等，可联系代购人员。商品只限美国。</li>
+			</br>
+			<h2>联系方式</h2>
+			</br>
+				<p>苏州地区联系人：乔虾米
 					<li>Email:qiaomengying03@163.com</li>
 					<li>QQ:278489810</li>
-				<h2>美国代购联系人：许小莫</h2>
+				</p>
+				<p>美国代购联系人：许小莫
 					<li>Email:xujiahang11@gmail.com</li>
 					<li>微信:313541388</li>
+				</p>
           </div>
       </div><!--/row-->
 

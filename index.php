@@ -26,38 +26,45 @@
         <div id="navbar" class="collapse navbar-collapse">
           <ul class="nav navbar-nav">
             <li class="active"><a href="./">主页</a></li>
-            <li><a href="./about.php">联系方式</a></li>
+            <li><a href="./about.php">联系我们</a></li>
           </ul>
         </div>
       </div>
     </nav>
     <div class="container">
-      <div class="row row-offcanvas row-offcanvas-right">
+		<img src="image/Logo.png" class="img-responsive center-block">
+		<div class="row row-offcanvas row-offcanvas-right">
         <div class="col-xs-12 col-sm-12">
-          <div class="jumbotron">
-            <h2>欢迎光临！</h2>
-            <p>Logpie 致力于美国诚信代购。 初期阶段，只采用熟人介绍的方式。如有代购需求,请联系联络人。联络方式请点击上方联系方式。</p>
-			      <li><b>关于物流。</b>本店采用西雅图华人快递，商品单价已包含国际运费。如需保险，可单独购买，价格为保额的3%。运送时间大约为2-3周。</li>
-			      <li><b>关于关税。</b>购买额150美元以下不收额外关税。 如单件物品超出150美金，需额外收取10%的关税。</li>
-			      <li><b>关于诚信。</b>本店通过联络人介绍, 信誉第一。本店代购全部来自美国官网专柜，绝无假货。</li>
-			      <li><b>关于付款。</b>本店有对应的淘宝店，接受支付宝付款，或者线下交易联络人，诚信第一。</li>
-			      <li><b>关于商品。</b>初期网站例举的商品不全，如有其它需要，如其他品牌的化妆品、小型电子产品、食品、保健品等，可联系代购人员。商品只限美国。</li>
-          </div>
           <?php include './data/brand_list_reader.php'; $brand_array = getBrandArray();
 			foreach($brand_array as $key => $category_brand_array)
 			{
 			?>
-          <div style="color:#FF8000">
-            </br>
-            <h2> <?php print_r($key); ?></h2>  
+          <div>
+				</br>
+				<div style="color:#0B3861;font-size:22px;font-family:黑体;"> <?php print_r($key); ?></div>
+				<hr class="style-hr">
+				<style>
+				hr.style-hr 
+				{ border: 0; height: 1px; 
+				background-image: -webkit-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0)); 
+				background-image:    -moz-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0)); 
+				background-image:     -ms-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0)); 
+				background-image:      -o-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0)); 
+				}</style>
           </div>
           <div class="row">
 		     <?php foreach($category_brand_array as $brand) 
 			 {
 			 ?>
-            <div class="col-xs-6 col-lg-3">
-              <h3><?php if(!is_array($brand['name_cn'])) {print_r($brand['name_cn']);?>/<?php } print_r($brand['name_en'])?></h3>
-              <img src="<?php print_r($brand['image'])?>" alt="<?php if(!is_array($brand['name_cn'])){print_r($brand['name_cn']);?>/<?php }print_r($brand['name_en'])?>" style="width:250px;height:200px;padding-bottom:15px;">
+           <div class="col-xs-6 col-lg-3">
+              <h3> <?php if(!is_array($brand['name_cn'])) 
+							{ 
+								print_r($brand['name_cn']);?>/<?php 	} print_r($brand['name_en']); 
+							if(!is_array($brand['onsale'])) 
+							{ ?>&nbsp;<img src="image/onsale.jpg"><?php
+							} ?>
+			  </h3>
+              <img src="<?php print_r($brand['image'])?>" alt="<?php if(!is_array($brand['name_cn'])){print_r($brand['name_cn']);?>/<?php }print_r($brand['name_en'])?>" style="width:180px;height:144px;padding-bottom:15px;">
 				  <div style="width:180px;word-break: break-all;">
 				  <?php if(!is_array($brand['description']))print_r($brand['description']); ?>
 			     </div>
@@ -65,9 +72,11 @@
 			     <a class="btn btn-default" href="./brand.php?brand=<?php print_r($brand['name_en']);?>" role="button">查看详情 &raquo;</a>
 			     </div>
 				 
-            </div>
+           </div>
 			<?php } ?>
           </div>
+			</br>
+			</br>
 		  <?php 
 			}
 		  ?>
