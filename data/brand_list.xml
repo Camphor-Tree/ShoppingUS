@@ -7,7 +7,7 @@
     	<name_cn>歌帝梵</name_cn>
     	<description></description>
 		  <saledate></saledate>
-    	<image>../image/Godiva.jpg</image>
+    	<image>./image/Godiva.jpg</image>
   	</brand>
 	
 	<brand>
@@ -16,7 +16,7 @@
     	<name_cn>吉利莲</name_cn>
     	<description></description>
 		  <saledate></saledate>
-    	<image>../image/Guylian.jpg</image>
+    	<image>./image/Guylian.jpg</image>
   	</brand>
 	
 	<brand>
@@ -25,7 +25,7 @@
     	<name_cn>健安喜</name_cn>
     	<description></description>
 		  <saledate></saledate>
-    	<image>../image/GNC.jpg</image>
+    	<image>./image/GNC.jpg</image>
   	</brand>
 
   	<brand>
@@ -34,7 +34,7 @@
     	<name_cn>馥蕾诗</name_cn>
     	<description></description>
 		  <saledate></saledate>
-    	<image>../image/Fresh.jpg</image>
+    	<image>./image/Fresh.jpg</image>
   	</brand>
 
   	<brand>
@@ -43,7 +43,7 @@
     	<name_cn>契尔氏</name_cn>
     	<description></description>
 		  <saledate>限时时间：2014.11.25 - 2014.12.1</saledate>
-    	<image>../image/Kiehls.jpg</image>
+    	<image>./image/Kiehls.jpg</image>
   	</brand>
 
   	<brand>
@@ -52,7 +52,7 @@
     	<name_cn>雅诗兰黛</name_cn>
     	<description></description>
 		  <saledate></saledate>
-    	<image>../image/EsteeLauder.jpg</image>
+    	<image>./image/EsteeLauder.jpg</image>
   	</brand>
 
   	<brand>
@@ -61,7 +61,7 @@
     	<name_cn>海蓝之谜</name_cn>
     	<description></description>
 		  <saledate></saledate>
-    	<image>../image/LaMer.jpg</image>
+    	<image>./image/LaMer.jpg</image>
   	</brand>
 
   	<brand>
@@ -70,7 +70,7 @@
     	<name_cn>悦木之源</name_cn>
     	<description></description>
 		  <saledate></saledate>
-    	<image>../image/Origins.jpg</image>
+    	<image>./image/Origins.jpg</image>
   	</brand>
 
   	<brand>
@@ -79,7 +79,7 @@
     	<name_cn>倩碧</name_cn>
     	<description></description>
 		  <saledate></saledate>
-    	<image>../image/Clinique.jpg</image>
+    	<image>./image/Clinique.jpg</image>
   	</brand>
 
   	<brand>
@@ -88,7 +88,7 @@
     	<name_cn>兰蔻</name_cn>
     	<description></description>
 		  <saledate></saledate>
-    	<image>../image/Lancome.jpg</image>
+    	<image>./image/Lancome.jpg</image>
   	</brand>
 	
   	<brand>
@@ -97,7 +97,7 @@
     	<name_cn>格莱魅</name_cn>
     	<description></description>
 		  <saledate></saledate>
-    	<image>../image/GlamGlow.jpg</image>
+    	<image>./image/GlamGlow.jpg</image>
   	</brand>
 	
 	 <brand>
@@ -106,7 +106,7 @@
     	<name_cn>自然哲理</name_cn>
     	<description></description>
 		  <saledate>限时时间：2014.11.25 - 2014.11.27</saledate>
-    	<image>../image/Philosophy.jpg</image>
+    	<image>./image/Philosophy.jpg</image>
   	</brand>
 	
 	 <brand>
@@ -115,7 +115,7 @@
 		<name_cn>美赞臣</name_cn>
 		<description></description>
 		<saledate></saledate>
-		<image>../image/Enfamil.jpg</image>
+		<image>./image/Enfamil.jpg</image>
   </brand>
 
   <brand>
@@ -124,7 +124,7 @@
 		<name_cn>雅培</name_cn>
 		<description></description>
 		<saledate></saledate>
-		<image>../image/Similac.jpg</image>
+		<image>./image/Similac.jpg</image>
   </brand>
 	
 	<!--
@@ -133,7 +133,7 @@
 		<name_en>Gerber</name_en>
 		<name_cn>嘉宝</name_cn>
 		<description></description>
-		<image>../image/Gerber.jpg</image>
+		<image>./image/Gerber.jpg</image>
     </brand>
 
     <brand>
@@ -141,7 +141,7 @@
 		<name_en>Baby's Only</name_en>
 		<name_cn>贝欧莱</name_cn>
 		<description></description>
-		<image>../image/BabysOnly.jpg</image>
+		<image>./image/BabysOnly.jpg</image>
     </brand>
 	-->
 
@@ -151,7 +151,7 @@
 		<name_cn>小熊宝宝</name_cn>
 		<description></description>
 		<saledate></saledate>
-		<image>../image/LilCritters.png</image>
+		<image>./image/LilCritters.png</image>
   </brand>
     
 	<!--
@@ -160,7 +160,7 @@
 		<name_en>Philips Avent</name_en>
 		<name_cn>新安怡</name_cn>
 		<description></description>
-		<image>../image/PhilipsAvent.jpg</image>
+		<image>./image/PhilipsAvent.jpg</image>
     </brand>
 	-->
 	
@@ -170,7 +170,7 @@
 		<name_cn></name_cn>
 		<description></description>
 		<saledate></saledate>
-		<image>../image/CK.jpg</image>
+		<image>./image/CK.jpg</image>
     </brand>
 	
 	<brand>
@@ -179,16 +179,16 @@
 		<name_cn>李维斯</name_cn>
 		<description></description>
 		<saledate></saledate>
-		<image>../image/Levis.jpg</image>
+		<image>./image/Levis.jpg</image>
   </brand>
 	
 	<brand>
 		<category>服饰类</category>
 		<name_en>Minnetonka</name_en>
-		<name_cn>迷你唐卡那</name_cn>
+		<name_cn>迷你唐卡</name_cn>
 		<description></description>
 		<saledate></saledate>
-		<image>../image/Minnetonka.jpg</image>
+		<image>./image/Minnetonka.jpg</image>
   </brand>
 	
 	<brand>
@@ -197,7 +197,7 @@
 		<name_cn>哥伦比亚</name_cn>
 		<description></description>
 		<saledate>限时时间：数量有限，售完为止</saledate>
-		<image>../image/Columbia.jpg</image>
+		<image>./image/Columbia.jpg</image>
   </brand>
 
   <brand>
@@ -206,7 +206,7 @@
     <name_cn>耐克</name_cn>
     <description></description>
     <saledate></saledate>
-    <image>../image/Nike.jpg</image>
+    <image>./image/Nike.jpg</image>
   </brand>
 
   <brand>
@@ -215,7 +215,7 @@
     <name_cn></name_cn>
     <description></description>
     <saledate>限时活动：数量有限，售完为止</saledate>
-    <image>../image/Jawbone.png</image>
+    <image>./image/Jawbone.png</image>
   </brand>
 
 	
@@ -226,7 +226,7 @@
     	<name_en>Urban Decay</name_en>
     	<name_cn></name_cn>
     	<description></description>
-    	<image>../image/UrbanDecay.jpg</image>
+    	<image>./image/UrbanDecay.jpg</image>
   	</brand>
 
   	<brand>
@@ -234,7 +234,7 @@
     	<name_en>Giorgio Armani</name_en>
     	<name_cn>阿玛尼</name_cn>
     	<description></description>
-    	<image>../image/GiorgioArmani.jpg</image>
+    	<image>./image/GiorgioArmani.jpg</image>
   	</brand>
 
     <brand>
@@ -242,7 +242,7 @@
       <name_en>Y.S.L.</name_en>
       <name_cn>圣罗兰</name_cn>
       <description></description>
-      <image>../image/YSL.jpg</image>
+      <image>./image/YSL.jpg</image>
     </brand>
 
   	<brand>
@@ -250,7 +250,7 @@
     	<name_en>MAC</name_en>
     	<name_cn>魅可</name_cn>
     	<description></description>
-    	<image>../image/MAC.jpg</image>
+    	<image>./image/MAC.jpg</image>
   	</brand>
 	
 	 <brand>
@@ -258,7 +258,7 @@
     	<name_en>Benefit</name_en>
     	<name_cn>贝玲妃</name_cn>
     	<description></description>
-    	<image>../image/Benefit.jpg</image>
+    	<image>./image/Benefit.jpg</image>
   	</brand>
 	
 	<brand>
@@ -266,7 +266,7 @@
     	<name_en>Philips</name_en>
     	<name_cn>飞利浦</name_cn>
     	<description></description>
-    	<image>../image/Philips.jpg</image>
+    	<image>./image/Philips.jpg</image>
   	</brand>
 	
 	<brand>
@@ -274,7 +274,7 @@
     	<name_en>Tissot</name_en>
     	<name_cn>天梭</name_cn>
     	<description></description>
-    	<image>../image/Tissot.jpg</image>
+    	<image>./image/Tissot.jpg</image>
   	</brand>
 	
 	-->
