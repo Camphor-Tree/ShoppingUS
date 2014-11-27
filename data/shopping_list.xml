@@ -830,7 +830,7 @@
     	<name>洗脸皂(干性/混合/油性)</name>
     	<brand>Clinique</brand>
     	<size>150g(带皂盒)</size>
-		<saleprice></saleprice>
+		<saleprice>109</saleprice>
     	<price>139</price>
     	<description>使肌肤保持清新，洁净，舒适，无干燥紧绷感。分为柔性、温和型和加强型，适合不同肌肤类型。  </description>
     	<unit>人民币</unit>
@@ -843,7 +843,7 @@
         <name>液体洗脸皂(干性/混合/油性)</name>
         <brand>Clinique</brand>
         <size>200ml</size>
-		 <saleprice></saleprice>
+		 <saleprice>89</saleprice>
         <price>119</price>
         <description>保护肌肤的天然水份平衡，无干燥紧绷感。分为柔性、温和型和加强型，适合不同肌肤类型。       </description>
         <unit>人民币</unit>
@@ -856,7 +856,7 @@
     	<name>倩碧润肤乳-啫喱配方</name>
     	<brand>Clinique</brand>
     	<size>50ml/125ml</size>
-		<saleprice></saleprice>
+		<saleprice>95/159</saleprice>
     	<price>119/209</price>
     	<description>有效防止肌肤水分流失及过敏现象，让肌肤变成可导入养分的湿海绵，啫哩配方满足油性皮肤的需求。</description>
     	<unit>人民币</unit>
@@ -869,7 +869,7 @@
     	<name>倩碧卓越润肤乳</name>
     	<brand>Clinique</brand>
     	<size>50ml/125ml</size>
-		<saleprice></saleprice>
+		<saleprice>95/159</saleprice>
     	<price>119/209</price>
     	<description>修护天然肌肤保护膜，弹润膜力崭新升级：由内牢牢锁住肌底源源水润，肌肤充盈饱满。          </description>
     	<unit>人民币</unit>
