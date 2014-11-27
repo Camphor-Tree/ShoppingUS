@@ -12,10 +12,10 @@
     <title>Logpie</title>
 
     <!-- Bootstrap core CSS -->
-    <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom styles for this template -->
-    <link href="css/offcanvas.css" rel="stylesheet">
+    <link href="../css/offcanvas.css" rel="stylesheet">
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
@@ -66,8 +66,8 @@
           </p>
           -->
           <?php
-            include './data/brand_product_reader.php';
-            include './data/brand_list_reader.php';
+            include './brand_product_reader.php';
+            include './brand_list_reader.php';
             $product_array = getProductsBrandArray();
             $current_brand = $_GET["brand"];
            
@@ -83,12 +83,13 @@
                 if(!empty($brand_info['name_cn']))
                 {
                   print_r("/".$brand_info["name_cn"]);
+                }
                   if(!empty($brand_info["saledate"]))
-                  { ?> <img src="image/onsale_large.png"></b>
+                  { ?> <img src="../image/onsale_large.png"></b>
             <b style="color:#DF0101;font-size:18px;"> &nbsp;<?php   
                   print_r($brand_info["saledate"]);
                   } 
-                } ?>
+                 ?>
             </b>
           </div>
           <div class="row">
@@ -128,7 +129,7 @@
             </div>
 			<?php } ?>
 			<h3>&nbsp;&nbsp;</h3>
-			<img src="image/want_more.jpg" alt="想要更多？" style="width:250px;height:250px;">
+			<img src="../image/want_more.jpg" alt="想要更多？" style="width:250px;height:250px;">
           </div>
 		  <?php } else {?>
 		    <div style="color:#FF8000">
@@ -151,8 +152,8 @@
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-    <script src="bootstrap/js/bootstrap.min.js"></script>
+    <script src="../bootstrap/js/bootstrap.min.js"></script>
 
-    <script src="js/offcanvas.js"></script>
+    <script src="../js/offcanvas.js"></script>
   </body>
 </html>

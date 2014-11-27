@@ -8,8 +8,8 @@
     <meta name="author" content="">
     <link rel="icon" href="../../favicon.ico">
     <title>Logpie</title>
-    <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
-    <link href="css/offcanvas.css" rel="stylesheet">
+    <link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="../css/offcanvas.css" rel="stylesheet">
   </head>
   <body style="font-family:微软雅黑">
     <nav class="navbar navbar-fixed-top navbar-inverse" role="navigation">
@@ -32,11 +32,10 @@
       </div>
     </nav>
     <div class="container">
-		<img src="image/Logo.png" class="img-responsive center-block">
-		<div style="font-size:16px;text-align:center;">网站持续更新中...</div>
+		<img src="../image/Logo.png" class="img-responsive center-block">
 		<div class="row row-offcanvas row-offcanvas-right">
         <div class="col-xs-12 col-sm-12">
-          <?php include './data/brand_list_reader.php'; $brand_array = getBrandArray();
+          <?php include './brand_list_reader.php'; $brand_array = getBrandArray();
 			foreach($brand_array as $key => $category_brand_array)
 			{
 			?>
@@ -62,7 +61,7 @@
 							{ 
 								print_r($brand['name_cn']);?>/<?php 	} print_r($brand['name_en']); 
 							if(!is_array($brand['saledate'])) 
-							{ ?>&nbsp;<img src="image/onsale.jpg"><?php
+							{ ?>&nbsp;<img src="../image/onsale.jpg"><?php
 							} ?>
 			  </h3>
               <img src="<?php print_r($brand['image'])?>" alt="<?php if(!is_array($brand['name_cn'])){print_r($brand['name_cn']);?>/<?php }print_r($brand['name_en'])?>" style="width:180px;height:144px;padding-bottom:15px;">
@@ -88,8 +87,8 @@
       </footer>
     </div>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-    <script src="bootstrap/js/bootstrap.min.js"></script>
-    <script src="js/offcanvas.js"></script>
+    <script src="../bootstrap/js/bootstrap.min.js"></script>
+    <script src="../js/offcanvas.js"></script>
 	<script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
