@@ -1,0 +1,19 @@
+Array
+(
+    [0] => Array
+        (
+            [category] => 护肤类
+            [name] => 玫瑰金盏花爽肤水
+            [brand] => Fresh
+            [size] => 250ml
+            [price] => 299
+            [description] => 蕴含100％纯净玫瑰花水，能有效镇静舒缓肌肤，具有保湿功能。不含酒精，金盏花成份更能收缩毛孔。
+            [unit] => 人民币
+            [image] => ./image/fresh_rose_toner.jpg
+            [count] => 3
+        )
+
+    [name] => 111
+    [contact] => 111
+    [comment] =>  
+)
