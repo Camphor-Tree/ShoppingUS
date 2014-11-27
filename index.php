@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html lang="zh-cmn-Hans">
 <?php  
-   include './cart/cart.php';?>
+   include './cart.php';
+   include './data/brand_list_reader.php';?>
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -29,7 +30,7 @@
           <ul class="nav navbar-nav">
             <li class="active"><a href="./">主页</a></li>
             <li><a href="./about.php">联系我们</a></li>
-			 <li><a href="./order.php">购物车<sup id="count"><?php $cart = (new ShoppingCart); print_r($cart->getShoppingCartCount());?></sup></a></li>
+			 <li><a href="./order.php">购物车<sup id="count"><?php  session_start();$cart = (new ShoppingCart); print_r($cart->getShoppingCartCount());?></sup></a></li>
           </ul>
         </div>
       </div>
@@ -38,7 +39,7 @@
 		<img src="image/Logo.png" class="img-responsive center-block">
 		<div class="row row-offcanvas row-offcanvas-right">
         <div class="col-xs-12 col-sm-12">
-          <?php include './data/brand_list_reader.php'; $brand_array = getBrandArray();
+          <?php $brand_array = getBrandArray();
 			foreach($brand_array as $key => $category_brand_array)
 			{
 			?>

@@ -1,0 +1,127 @@
+Array
+(
+    [0] => Array
+        (
+            [category] => 食品类
+            [name] => 夹心牛奶巧克力
+            [brand] => Godiva
+            [size] => 3*20粒
+            [price] => 309
+            [unit] => 人民币
+            [image] => image/godiva_wrapped_milk_chocolate_set.jpg
+            [count] => 2
+        )
+
+    [1] => Array
+        (
+            [category] => 食品类
+            [name] => 黑巧克力松露礼盒
+            [brand] => Godiva
+            [size] => 24粒
+            [price] => 399
+            [unit] => 人民币
+            [image] => image/godiva_dark_chocolate_truffles.jpg
+            [count] => 2
+        )
+
+    [2] => Array
+        (
+            [category] => 食品类
+            [name] => 黑巧克力松露礼盒
+            [brand] => Godiva
+            [size] => 24粒
+            [price] => 399
+            [unit] => 人民币
+            [image] => image/godiva_dark_chocolate_truffles.jpg
+            [count] => 2
+        )
+
+    [3] => Array
+        (
+            [category] => 食品类
+            [name] => 夹心牛奶巧克力
+            [brand] => Godiva
+            [size] => 3*20粒
+            [price] => 309
+            [unit] => 人民币
+            [image] => image/godiva_wrapped_milk_chocolate_set.jpg
+            [count] => 2
+        )
+
+    [4] => Array
+        (
+            [category] => 食品类
+            [name] => 黑巧克力礼盒
+            [brand] => Godiva
+            [size] => 12粒
+            [price] => 239
+            [unit] => 人民币
+            [image] => image/godiva_dark_chocolate_gift_box.jpg
+            [count] => 2
+        )
+
+    [5] => Array
+        (
+            [category] => 食品类
+            [name] => 黑巧克力礼盒
+            [brand] => Godiva
+            [size] => 12粒
+            [price] => 239
+            [unit] => 人民币
+            [image] => image/godiva_dark_chocolate_gift_box.jpg
+            [count] => 2
+        )
+
+    [6] => Array
+        (
+            [category] => 保健类
+            [name] => 1200mg三重卵磷脂
+            [brand] => GNC
+            [size] => 180粒
+            [price] => 135
+            [description] => 降低血脂，降低血压，促进大脑健康
+            [unit] => 人民币
+            [image] => image/gnc_triple_lecithin.jpg
+            [count] => 1
+        )
+
+    [7] => Array
+        (
+            [category] => 保健类
+            [name] => 1200mg三重卵磷脂
+            [brand] => GNC
+            [size] => 180粒
+            [price] => 135
+            [description] => 降低血脂，降低血压，促进大脑健康
+            [unit] => 人民币
+            [image] => image/gnc_triple_lecithin.jpg
+            [count] => 1
+        )
+
+    [8] => Array
+        (
+            [category] => 护肤类
+            [name] => 活性炭清透洁肤面膜
+            [brand] => Origins
+            [size] => 100ml
+            [price] => 209
+            [description] => 活性碳成分，如同吸铁石般深彻吸收毛孔深处的细微油质、污物和浊质，清透洁净毛孔。
+            [unit] => 人民币
+            [image] => image/origins_clear_mask.jpg
+            [count] => 1
+        )
+
+    [9] => Array
+        (
+            [category] => 护肤类
+            [name] => 活性炭清透洁肤面膜
+            [brand] => Origins
+            [size] => 100ml
+            [price] => 209
+            [description] => 活性碳成分，如同吸铁石般深彻吸收毛孔深处的细微油质、污物和浊质，清透洁净毛孔。
+            [unit] => 人民币
+            [image] => image/origins_clear_mask.jpg
+            [count] => 1
+        )
+
+)

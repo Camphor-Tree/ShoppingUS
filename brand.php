@@ -2,7 +2,7 @@
 <?php  
    include './data/brand_product_reader.php';
    include './data/brand_list_reader.php';
-   include './cart/cart.php';?>
+   include './cart.php';?>
 <html lang="zh-cmn-Hans">
   <head>
     <meta charset="utf-8">
@@ -44,7 +44,7 @@
           <ul class="nav navbar-nav">
             <li><a href="./">主页</a></li>
             <li><a href="./about.php">联系我们</a></li>
-			 <li><a href="./order.php">购物车<sup id="count"><?php $cart = (new ShoppingCart); print_r($cart->getShoppingCartCount());?></sup></a></li>
+			 <li><a href="./order.php">购物车<sup id="count"><?php session_start();$cart = (new ShoppingCart); print_r($cart->getShoppingCartCount());?></sup></a></li>
           </ul>
         </div><!-- /.nav-collapse -->
       </div><!-- /.container -->
@@ -88,10 +88,7 @@
           </div>
           <div class="row">
 		     <?php foreach($brand_product_array as $product) 
-			 {
-
-			    $cart->addProductToShoppingCart($product,2);
-				
+			 {				
 			 ?>
             <div  style="color:#424242;" class="col-xs-6 col-lg-3">
               <h3><?php print_r($product['name'])?></h3>
@@ -161,19 +158,17 @@
   { ?>
 	$( "#<?php print_r($product["name"]);?>" ).click(function() {
   var nc=parseInt($("#<?php print_r($product["name"]);?>_count").val());
-  var cc=parseInt($("#count").html());
   var parameter={"product": <?php print_r(json_encode($product))?>,
 	       "count":nc};
-  $("#count").html(nc+cc);
   $( "#<?php print_r($product["name"]);?>_count" ).val("");
   $.ajax({
     type: "POST",
-    url: "cart/cart_handler.php",
+    url: "./cart_handler.php",
     data: parameter,
     cache: false,
     success: function(data)
         {
-            alert(data);
+			location.reload();
         }
     });
 });

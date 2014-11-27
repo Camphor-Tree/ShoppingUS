@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <?php  
-   include './cart/cart.php';?>
+   include './cart.php';?>
 <html lang="zh-cmn-Hans">
   <head>
     <meta charset="utf-8">
@@ -42,36 +42,144 @@
           <ul class="nav navbar-nav">
             <li><a href="./">主页</a></li>
             <li><a href="./about.php">联系我们</a></li>
-			 <li><a href="./order.php">购物车<sup id="count"><?php $cart = (new ShoppingCart); print_r($cart->getShoppingCartCount());?></sup></a></li>
+			 <li><a href="./order.php">购物车<sup id="count"><?php  session_start();$cart = (new ShoppingCart); print_r($cart->getShoppingCartCount());?></sup></a></li>
           </ul>
         </div><!-- /.nav-collapse -->
       </div><!-- /.container -->
     </nav><!-- /.navbar -->
 
+	   <?php $cart = (new ShoppingCart);
+         $shoppingCart=$cart->getShoppingCart(); 
+		  $totalPrice=0; 
+		  if(count($shoppingCart)>0)
+		  {
+		?>
 
     <div class="container">
 
       <div class="row row-offcanvas row-offcanvas-right">
 
         <div class="col-xs-12 col-sm-12">
-		    <div style="color:#FF8000">
-            </br>
-            <h2>购物车</h2>  
-          </div>
+
 		   <div class="row">
-			<?php if(isset($_SESSION["shoppingCart"]))print_r("aa");else print_r("b");$cart = (new ShoppingCart); print_r($cart->getShoppingCart());?>
+   <table class="table">
+	   <caption><div style="color:#FF8000">
+				<h2>购物车</h2>  
+			  </div>
+	   </caption>
+	   <thead>
+		  <tr>
+			 <th>产品</th>
+			 <th>规格</th>
+			  <th>单价</th>
+			 <th>数量</th>
+			  <th>小结</th>
+		  </tr>
+	   </thead>
+	   <tbody>
+   
+   <?php 
+		  foreach($shoppingCart as $product){ ?>
+      <tr class="success">
+         <td><?php print_r($product['name']);?></td>
+         <td><?php print_r($product['size']);?></td>
+         <td><?php print_r($product['price']);?></td>
+		  <td><?php print_r($product['count']);?></td>
+		  <td><?php print_r($product['count']*$product['price']); $totalPrice+=$product['count']*$product['price']?></td>
+      </tr>
+	<?php } ?>
+   </tbody>
+</table>
 		   </div>
-		
 		</div>
       <hr>
 	  </div>
+	  
+  
+    <div class="control-group">
+
+          <!-- Text input-->
+          <label class="control-label" for="input01">姓名</label>
+          <div class="controls">
+            <input id="name" type="text" placeholder="您的名字" class="input-xlarge">
+            <p class="help-block">Supporting help text</p>
+          </div>
+        </div><div class="control-group">
+
+          <!-- Text input-->
+          <label class="control-label" for="input01">联系方式</label>
+          <div class="controls">
+            <input id="contact" type="text" placeholder="手机/微信/QQ/email" class="input-xlarge">
+            <p class="help-block">Supporting help text</p>
+          </div>
+        </div><div class="control-group">
+
+          <!-- Textarea -->
+          <label class="control-label">附加留言(可以说明一下规格尺寸之类的)</label>
+          <div class="controls">
+            <div class="textarea">
+                  <textarea id="comment" type="" class=""> </textarea>
+            </div>
+          </div>
+        </div>
+
+       <div class="control-group">
+          <label class="control-label"><h4>当前总价: <b style="color:#04B404"><?php print_r($totalPrice);?></b><h4></label>
+
+          <!-- Button -->
+          <div class="controls">
+            <button id="submitt" class="btn btn-success">提交订单</button><button id="cancel" class="btn btn-danger">清除订单</button>
+          </div>
+        </div>
+		<?php
+		}else{
+		?>
+		<div style="color:#FF8000;margin-left:auto;margin-right:auto;" class="col-xs-12">
+            <h3>您的购物车目前为空!快去<a href="./">添加商品</a>吧！</h3>  
+       </div>
+	   </br>
+	   </br>
+		
+<?php }?>
       <footer>
         <p>&copy; <b>www.logpie.com 2014</b></p>
       </footer>
-
+	
     </div>
+
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
     <script src="bootstrap/js/bootstrap.min.js"></script>
+	<script>
+	$("#submitt").click(function() {
+	var name=$("#name").val();
+	var contact=$("#contact").val();
+	var comment=$("#comment").val();
+    $.ajax({
+		type: "POST",
+		url: "./order_handler.php",
+		data: {"name":name,"contact":contact,"comment":comment},
+		cache: false,
+		success: function(data)
+			{
+				alert(data);
+				location.reload();
+			}
+
+		});
+	});
+	$("#cancel").click(function() {
+    $.ajax({
+		type: "POST",
+		url: "./clear_cart_handler.php",
+		cache: false,
+		success: function(data)
+			{
+				alert(data);
+				location.reload();
+			}
+		}); 
+	});
+</script>
 
     <script src="js/offcanvas.js"></script>
 		<script>

@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <?php  
-   include './cart/cart.php';?>
+   include './cart.php';?>
 <html lang="zh-cmn-Hans">
   <head>
     <meta charset="utf-8">
@@ -31,7 +31,7 @@
           <ul class="nav navbar-nav">
             <li><a href="./">主页</a></li>
             <li class="active"><a href="./about.html">联系我们</a></li>
-			<li><a href="./order.php">购物车<sup id="count"><?php $cart = (new ShoppingCart); print_r($cart->getShoppingCartCount());?></sup></a></li>
+			<li><a href="./order.php">购物车<sup id="count"><?php  session_start();$cart = (new ShoppingCart); print_r($cart->getShoppingCartCount());?></sup></a></li>
           </ul>
         </div><!-- /.nav-collapse -->
       </div><!-- /.container -->
