@@ -3,52 +3,52 @@
 
 <!-- 食品类 -->
 
-	<!-- Godiva -->
-  	<product>
-		<category>食品类</category>
-    	<name>牛奶巧克力经典礼盒</name>
-    	<brand>Godiva</brand>
-    	<size>22粒</size>
-		<saleprice></saleprice>
-    	<price>309</price>
-		<description></description>
-    	<unit>人民币</unit>
-    	<coupon></coupon>
-    	<link></link>
-    	<image>./image/godiva_milk_chocolate_gift_box.jpg</image>
-  	</product>
-  	<product>
-    	<category>食品类</category>
-    	<name>夹心牛奶巧克力</name>
-    	<brand>Godiva</brand>
-    	<size>3*20粒</size>
-		<saleprice></saleprice>
-    	<price>309</price>
-    	<description></description>
-    	<unit>人民币</unit>
-    	<coupon></coupon>
-    	<link></link>
-    	<image>./image/godiva_wrapped_milk_chocolate_set.jpg</image>
-  	</product>
-  	<product>
-    	<category>食品类</category>
-    	<name>黑巧克力礼盒</name>
-    	<brand>Godiva</brand>
-    	<size>12粒</size>
-		<saleprice></saleprice>
-    	<price>239</price>
-    	<description></description>
-    	<unit>人民币</unit>
-    	<coupon></coupon>
-    	<link></link>
-    	<image>./image/godiva_dark_chocolate_gift_box.jpg</image>
-  	</product>
+    <!-- Godiva -->
+    <product>
+        <category>食品类</category>
+        <name>牛奶巧克力经典礼盒</name>
+        <brand>Godiva</brand>
+        <size>22粒</size>
+        <saleprice></saleprice>
+        <price>309</price>
+        <description></description>
+        <unit>人民币</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>./image/godiva_milk_chocolate_gift_box.jpg</image>
+    </product>
+    <product>
+        <category>食品类</category>
+        <name>夹心牛奶巧克力</name>
+        <brand>Godiva</brand>
+        <size>3*20粒</size>
+        <saleprice></saleprice>
+        <price>309</price>
+        <description></description>
+        <unit>人民币</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>./image/godiva_wrapped_milk_chocolate_set.jpg</image>
+    </product>
+    <product>
+        <category>食品类</category>
+        <name>黑巧克力礼盒</name>
+        <brand>Godiva</brand>
+        <size>12粒</size>
+        <saleprice></saleprice>
+        <price>239</price>
+        <description></description>
+        <unit>人民币</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>./image/godiva_dark_chocolate_gift_box.jpg</image>
+    </product>
     <product>
         <category>食品类</category>
         <name>黑巧克力松露礼盒</name>
         <brand>Godiva</brand>
         <size>24粒</size>
-		 <saleprice></saleprice>
+         <saleprice></saleprice>
         <price>399</price>
         <description></description>
         <unit>人民币</unit>
@@ -61,7 +61,7 @@
         <name>夹心黑巧克力</name>
         <brand>Godiva</brand>
         <size>3*20粒</size>
-		<saleprice></saleprice>
+        <saleprice></saleprice>
         <price>269</price>
         <description></description>
         <unit>人民币</unit>
@@ -74,7 +74,7 @@
         <name>白巧克力经典礼盒</name>
         <brand>Godiva</brand>
         <size>24粒</size>
-		 <saleprice></saleprice>
+         <saleprice></saleprice>
         <price>309</price>
         <description></description>
         <unit>人民币</unit>
@@ -87,7 +87,7 @@
         <name>金装礼盒</name>
         <brand>Godiva</brand>
         <size>30粒</size>
-		 <saleprice></saleprice>
+         <saleprice></saleprice>
         <price>399</price>
         <description></description>
         <unit>人民币</unit>
@@ -100,7 +100,7 @@
         <name>豪华松露礼盒</name>
         <brand>Godiva</brand>
         <size>12粒</size>
-		 <saleprice></saleprice>
+         <saleprice></saleprice>
         <price>249</price>
         <description></description>
         <unit>人民币</unit>
@@ -113,7 +113,7 @@
         <name>纯手工松露巧克力礼盒</name>
         <brand>Godiva</brand>
         <size>24粒</size>
-		 <saleprice></saleprice>
+         <saleprice></saleprice>
         <price>399</price>
         <description></description>
         <unit>人民币</unit>
@@ -126,7 +126,7 @@
         <name>豪华夹心松露条形礼盒</name>
         <brand>Godiva</brand>
         <size>6粒</size>
-		 <saleprice></saleprice>
+         <saleprice></saleprice>
         <price>169</price>
         <description></description>
         <unit>人民币</unit>
@@ -139,7 +139,7 @@
         <name>豪华坚果松露条形礼盒</name>
         <brand>Godiva</brand>
         <size>6粒</size>
-		 <saleprice></saleprice>
+         <saleprice></saleprice>
         <price>169</price>
         <description></description>
         <unit>人民币</unit>
@@ -147,632 +147,632 @@
         <link></link>
         <image>./image/godiva_nut_truffle_flight.jpg</image>
     </product>
-	
-	<!-- GNC -->
-	<product>
-    	<category>保健类</category>
-    	<name>普通鱼油</name>
-    	<brand>GNC</brand>
-    	<size>90粒</size>
-		<saleprice></saleprice>
-    	<price>65</price>
-    	<description>降低血脂，胆固醇，增强记忆</description>
-    	<unit>人民币</unit>
-    	<coupon></coupon>
-    	<link></link>
-    	<image>./image/gnc_fish_oil.jpg</image>
-  	</product>
-	<product>
-    	<category>保健类</category>
-    	<name>3倍强度鱼油</name>
-    	<brand>GNC</brand>
-    	<size>60粒</size>
-		<saleprice></saleprice>
-    	<price>159</price>
-    	<description>3倍的鱼油含量，降低血脂，胆固醇，增强记忆</description>
-    	<unit>人民币</unit>
-    	<coupon></coupon>
-    	<link></link>
-    	<image>./image/gnc_triple_fish_oil.jpg</image>
-  	</product>
-	<product>
-    	<category>保健类</category>
-    	<name>100mg葡萄籽精华胶囊</name>
-    	<brand>GNC</brand>
-    	<size>100粒</size>
-		<saleprice></saleprice>
-    	<price>155</price>
-    	<description>有效抗氧化，防止色斑生成，延缓人体衰老</description>
-    	<unit>人民币</unit>
-    	<coupon></coupon>
-    	<link></link>
-    	<image>./image/gnc_grape_seed.jpg</image>
-  	</product>
-	<product>
-    	<category>保健类</category>
-    	<name>1200mg三重卵磷脂</name>
-    	<brand>GNC</brand>
-    	<size>180粒</size>
-		<saleprice></saleprice>
-    	<price>135</price>
-    	<description>降低血脂，降低血压，促进大脑健康</description>
-    	<unit>人民币</unit>
-    	<coupon></coupon>
-    	<link></link>
-    	<image>./image/gnc_triple_lecithin.jpg</image>
-  	</product>
-	<product>
-    	<category>保健类</category>
-    	<name>100mg辅酶Q10</name>
-    	<brand>GNC</brand>
-    	<size>60粒</size>
-		<saleprice></saleprice>
-    	<price>99</price>
-    	<description>心脏保护预防心血管疾病，抗衰老</description>
-    	<unit>人民币</unit>
-    	<coupon></coupon>
-    	<link></link>
-    	<image>./image/gnc_q10.jpg</image>
-  	</product>
-	<product>
-    	<category>保健类</category>
-    	<name>孕妇专用维生素(不含铁)</name>
-    	<brand>GNC</brand>
-    	<size>60粒</size>
-		<saleprice></saleprice>
-    	<price>69</price>
-    	<description>天然安全的孕妇营养补剂，含24种维生素和矿物质</description>
-    	<unit>人民币</unit>
-    	<coupon></coupon>
-    	<link></link>
-    	<image>./image/gnc_prenatal_formula.jpg</image>
-  	</product>
-	<product>
-    	<category>保健类</category>
-    	<name>男士专用多维缓释片</name>
-    	<brand>GNC</brand>
-    	<size>60粒</size>
-		<saleprice></saleprice>
-    	<price>119</price>
-    	<description>补充男士所需维生素和矿物质</description>
-    	<unit>人民币</unit>
-    	<coupon></coupon>
-    	<link></link>
-    	<image>./image/gnc_mega_men.jpg</image>
-  	</product>
-	<product>
-    	<category>保健类</category>
-    	<name>女士专用多维缓释片</name>
-    	<brand>GNC</brand>
-    	<size>120粒</size>
-		<saleprice></saleprice>
-    	<price>119</price>
-    	<description>补充女士所需维生素和矿物质</description>
-    	<unit>人民币</unit>
-    	<coupon></coupon>
-    	<link></link>
-    	<image>./image/gnc_women_mega.jpg</image>
-  	</product>
-	<product>
-    	<category>保健类</category>
-    	<name>60mg银杏精华</name>
-    	<brand>GNC</brand>
-    	<size>30粒</size>
-		<saleprice></saleprice>
-    	<price>209</price>
-    	<description>提高记忆，预防老年痴呆</description>
-    	<unit>人民币</unit>
-    	<coupon></coupon>
-    	<link></link>
-    	<image>./image/gnc_ginkgo_biloba.jpg</image>
-  	</product>
-	<product>
-    	<category>保健类</category>
-    	<name>特效维骨力(关节配方)</name>
-    	<brand>GNC</brand>
-    	<size>120粒</size>
-		<saleprice></saleprice>
-    	<price>209</price>
-    	<description>减轻关节炎，减轻坐骨神经痛</description>
-    	<unit>人民币</unit>
-    	<coupon></coupon>
-    	<link></link>
-    	<image>./image/gnc_fast_acting.jpg</image>
-  	</product>
-	<product>
-    	<category>保健类</category>
-    	<name>螺旋藻</name>
-    	<brand>GNC</brand>
-    	<size>100粒</size>
-		<saleprice></saleprice>
-    	<price>69</price>
-    	<description>夏威夷优质螺旋藻，抗疲劳，降低胆固醇，改善贫血 </description>
-    	<unit>人民币</unit>
-    	<coupon></coupon>
-    	<link></link>
-    	<image>./image/gnc_spirulina.jpg</image>
-  	</product>
-	<product>
-    	<category>保健类</category>
-    	<name>30mg番茄红素</name>
-    	<brand>GNC</brand>
-    	<size>60粒</size>
-		<saleprice></saleprice>
-    	<price>169</price>
-    	<description>专利技术萃取，抗肿瘤抗癌抗肿瘤，延缓衰老</description>
-    	<unit>人民币</unit>
-    	<coupon></coupon>
-    	<link></link>
-    	<image>./image/gnc_lycopene.jpg</image>
-  	</product>
-	<product>
-    	<category>保健类</category>
-    	<name>1300mg女性月见草油</name>
-    	<brand>GNC</brand>
-    	<size>90粒</size>
-		<saleprice></saleprice>
-    	<price>119</price>
-    	<description>减少女性经前综合症，缓解更年期症状</description>
-    	<unit>人民币</unit>
-    	<coupon></coupon>
-    	<link></link>
-    	<image>./image/gnc_evening_primrose_oil.jpg</image>
-  	</product>
-	<product>
-    	<category>保健类</category>
-    	<name>20mg纯天然叶黄素</name>
-    	<brand>GNC</brand>
-    	<size>60粒</size>
-		<saleprice></saleprice>
-    	<price>119</price>
-    	<description>超级护眼精华，防止老年青光眼，预防心脏病</description>
-    	<unit>人民币</unit>
-    	<coupon></coupon>
-    	<link></link>
-    	<image>./image/gnc_lutein.jpg</image>
-  	</product>
-	<product>
-    	<category>保健类</category>
-    	<name>600mgDHA软胶囊</name>
-    	<brand>GNC</brand>
-    	<size>60粒</size>
-		<saleprice></saleprice>
-    	<price>125</price>
-    	<description>促进大脑发育，开发智力，提高记忆</description>
-    	<unit>人民币</unit>
-    	<coupon></coupon>
-    	<link></link>
-    	<image>./image/gnc_dha.jpg</image>
-  	</product>
-	
-	<!-- 服饰类-->
-	<!-- CK -->
-	
+    
+    <!-- GNC -->
+    <product>
+        <category>保健类</category>
+        <name>普通鱼油</name>
+        <brand>GNC</brand>
+        <size>90粒</size>
+        <saleprice></saleprice>
+        <price>65</price>
+        <description>降低血脂，胆固醇，增强记忆</description>
+        <unit>人民币</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>./image/gnc_fish_oil.jpg</image>
+    </product>
+    <product>
+        <category>保健类</category>
+        <name>3倍强度鱼油</name>
+        <brand>GNC</brand>
+        <size>60粒</size>
+        <saleprice></saleprice>
+        <price>159</price>
+        <description>3倍的鱼油含量，降低血脂，胆固醇，增强记忆</description>
+        <unit>人民币</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>./image/gnc_triple_fish_oil.jpg</image>
+    </product>
+    <product>
+        <category>保健类</category>
+        <name>100mg葡萄籽精华胶囊</name>
+        <brand>GNC</brand>
+        <size>100粒</size>
+        <saleprice></saleprice>
+        <price>155</price>
+        <description>有效抗氧化，防止色斑生成，延缓人体衰老</description>
+        <unit>人民币</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>./image/gnc_grape_seed.jpg</image>
+    </product>
+    <product>
+        <category>保健类</category>
+        <name>1200mg三重卵磷脂</name>
+        <brand>GNC</brand>
+        <size>180粒</size>
+        <saleprice></saleprice>
+        <price>135</price>
+        <description>降低血脂，降低血压，促进大脑健康</description>
+        <unit>人民币</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>./image/gnc_triple_lecithin.jpg</image>
+    </product>
+    <product>
+        <category>保健类</category>
+        <name>100mg辅酶Q10</name>
+        <brand>GNC</brand>
+        <size>60粒</size>
+        <saleprice></saleprice>
+        <price>99</price>
+        <description>心脏保护预防心血管疾病，抗衰老</description>
+        <unit>人民币</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>./image/gnc_q10.jpg</image>
+    </product>
+    <product>
+        <category>保健类</category>
+        <name>孕妇专用维生素(不含铁)</name>
+        <brand>GNC</brand>
+        <size>60粒</size>
+        <saleprice></saleprice>
+        <price>69</price>
+        <description>天然安全的孕妇营养补剂，含24种维生素和矿物质</description>
+        <unit>人民币</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>./image/gnc_prenatal_formula.jpg</image>
+    </product>
+    <product>
+        <category>保健类</category>
+        <name>男士专用多维缓释片</name>
+        <brand>GNC</brand>
+        <size>60粒</size>
+        <saleprice></saleprice>
+        <price>119</price>
+        <description>补充男士所需维生素和矿物质</description>
+        <unit>人民币</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>./image/gnc_mega_men.jpg</image>
+    </product>
+    <product>
+        <category>保健类</category>
+        <name>女士专用多维缓释片</name>
+        <brand>GNC</brand>
+        <size>120粒</size>
+        <saleprice></saleprice>
+        <price>119</price>
+        <description>补充女士所需维生素和矿物质</description>
+        <unit>人民币</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>./image/gnc_women_mega.jpg</image>
+    </product>
+    <product>
+        <category>保健类</category>
+        <name>60mg银杏精华</name>
+        <brand>GNC</brand>
+        <size>30粒</size>
+        <saleprice></saleprice>
+        <price>209</price>
+        <description>提高记忆，预防老年痴呆</description>
+        <unit>人民币</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>./image/gnc_ginkgo_biloba.jpg</image>
+    </product>
+    <product>
+        <category>保健类</category>
+        <name>特效维骨力(关节配方)</name>
+        <brand>GNC</brand>
+        <size>120粒</size>
+        <saleprice></saleprice>
+        <price>209</price>
+        <description>减轻关节炎，减轻坐骨神经痛</description>
+        <unit>人民币</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>./image/gnc_fast_acting.jpg</image>
+    </product>
+    <product>
+        <category>保健类</category>
+        <name>螺旋藻</name>
+        <brand>GNC</brand>
+        <size>100粒</size>
+        <saleprice></saleprice>
+        <price>69</price>
+        <description>夏威夷优质螺旋藻，抗疲劳，降低胆固醇，改善贫血 </description>
+        <unit>人民币</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>./image/gnc_spirulina.jpg</image>
+    </product>
+    <product>
+        <category>保健类</category>
+        <name>30mg番茄红素</name>
+        <brand>GNC</brand>
+        <size>60粒</size>
+        <saleprice></saleprice>
+        <price>169</price>
+        <description>专利技术萃取，抗肿瘤抗癌抗肿瘤，延缓衰老</description>
+        <unit>人民币</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>./image/gnc_lycopene.jpg</image>
+    </product>
+    <product>
+        <category>保健类</category>
+        <name>1300mg女性月见草油</name>
+        <brand>GNC</brand>
+        <size>90粒</size>
+        <saleprice></saleprice>
+        <price>119</price>
+        <description>减少女性经前综合症，缓解更年期症状</description>
+        <unit>人民币</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>./image/gnc_evening_primrose_oil.jpg</image>
+    </product>
+    <product>
+        <category>保健类</category>
+        <name>20mg纯天然叶黄素</name>
+        <brand>GNC</brand>
+        <size>60粒</size>
+        <saleprice></saleprice>
+        <price>119</price>
+        <description>超级护眼精华，防止老年青光眼，预防心脏病</description>
+        <unit>人民币</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>./image/gnc_lutein.jpg</image>
+    </product>
+    <product>
+        <category>保健类</category>
+        <name>600mgDHA软胶囊</name>
+        <brand>GNC</brand>
+        <size>60粒</size>
+        <saleprice></saleprice>
+        <price>125</price>
+        <description>促进大脑发育，开发智力，提高记忆</description>
+        <unit>人民币</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>./image/gnc_dha.jpg</image>
+    </product>
+    
+    <!-- 服饰类-->
+    <!-- CK -->
+    
     
 
-	<!-- 母婴类 -->
-	<!-- Enfamil -->
-	<product>
-    	<category>母婴类</category>
-    	<name>初生婴儿专用奶粉</name>
-    	<brand>Enfamil</brand>
-    	<size>354g/629g</size>
-		<saleprice></saleprice>
-    	<price>160/220</price>
-    	<description>为0-3月的宝宝量身定制，含维生素D和双益生元，帮助宝宝形成自身防御能力，促进宝宝快速成长。</description>
-    	<unit>人民币</unit>
-    	<coupon></coupon>
-    	<link></link>
-    	<image>./image/enfamil_newborn.png</image>
-  	</product>
-	<product>
-    	<category>母婴类</category>
-    	<name>金樽一段婴儿奶粉</name>
-    	<brand>Enfamil</brand>
-    	<size>354g/629g</size>
-		<saleprice></saleprice>
-    	<price>160/220</price>
-    	<description>科学配方增强宝宝大脑和视力发育，为宝宝免疫系统提供所需营养，是宝宝健康成长的强大后盾。</description>
-    	<unit>人民币</unit>
-    	<coupon></coupon>
-    	<link></link>
-    	<image>./image/enfamil_infant.png</image>
-  	</product>
-	<product>
-    	<category>母婴类</category>
-    	<name>金樽二段婴儿奶粉</name>
-    	<brand>Enfamil</brand>
-    	<size>595g</size>
-		<saleprice></saleprice>
-    	<price>170</price>
-    	<description>提供成长过程中的25种营养物质，促进大脑视力的发育，含有Antioxidants抗氧化剂来支持宝宝免疫系统。</description>
-    	<unit>人民币</unit>
-    	<coupon></coupon>
-    	<link></link>
-    	<image>./image/enfagrow_transitions.png</image>
-  	</product>
-	<product>
-    	<category>母婴类</category>
-    	<name>金樽三段婴儿奶粉</name>
-    	<brand>Enfamil</brand>
-    	<size>680g</size>
-		<saleprice></saleprice>
-    	<price>170</price>
-    	<description>含DHA和铁，促进大脑发育，提升眼脑健康和免疫力，双重益生菌支持消化系统，促进宝宝快乐成长。</description>
-    	<unit>人民币</unit>
-    	<coupon></coupon>
-    	<link></link>
-    	<image>./image/enfagrow_next_step.png</image>
-  	</product>
-	
-	<!-- Similac -->
-	<product>
-    	<category>母婴类</category>
-    	<name>一段婴儿奶粉</name>
-    	<brand>Similac</brand>
-    	<size>658g</size>
-		<saleprice></saleprice>
-    	<price>200</price>
-    	<description></description>
-    	<unit>人民币</unit>
-    	<coupon></coupon>
-    	<link></link>
-    	<image>./image/similac_advance_1.png</image>
-  	</product>
-	<product>
-    	<category>母婴类</category>
-    	<name>二段婴儿奶粉</name>
-    	<brand>Similac</brand>
-    	<size>873g</size>
-		<saleprice></saleprice>
-    	<price>250</price>
-    	<description></description>
-    	<unit>人民币</unit>
-    	<coupon></coupon>
-    	<link></link>
-    	<image>./image/similac_advance_2.png</image>
-  	</product>	
-	<product>
-    	<category>母婴类</category>
-    	<name>三段婴儿奶粉</name>
-    	<brand>Similac</brand>
-    	<size>654g</size>
-		<saleprice></saleprice>
-    	<price>220</price>
-    	<description></description>
-    	<unit>人民币</unit>
-    	<coupon></coupon>
-    	<link></link>
-    	<image>./image/similac_gogrow_3.png</image>
-  	</product>
-	
-	<!-- L'il Critters -->
-	<product>
-    	<category>母婴类</category>
-    	<name>复合维生素D+钙软糖</name>
-    	<brand>L'il Critters</brand>
-    	<size>200粒</size>
-		<saleprice></saleprice>
-    	<price>100</price>
-    	<description></description>
-    	<unit>人民币</unit>
-    	<coupon></coupon>
-    	<link></link>
-    	<image>./image/lc_calcium.jpg</image>
-  	</product>
-	<product>
-    	<category>母婴类</category>
-    	<name>Omega3+DHA软糖</name>
-    	<brand>L'il Critters</brand>
-    	<size>180粒</size>
-		<saleprice></saleprice>
-    	<price>95</price>
-    	<description></description>
-    	<unit>人民币</unit>
-    	<coupon></coupon>
-    	<link></link>
-    	<image>./image/lc_omega_3.jpg</image>
-  	</product>
-	<product>
-    	<category>母婴类</category>
-    	<name>天然果蔬软糖</name>
-    	<brand>L'il Critters</brand>
-    	<size>275粒/r</size>
-		<saleprice></saleprice>
-    	<price>95</price>
-    	<description></description>
-    	<unit>人民币</unit>
-    	<coupon></coupon>
-    	<link></link>
-    	<image>./image/lc_fruit_veggie.jpg</image>
-  	</product>
+    <!-- 母婴类 -->
+    <!-- Enfamil -->
+    <product>
+        <category>母婴类</category>
+        <name>初生婴儿专用奶粉</name>
+        <brand>Enfamil</brand>
+        <size>354g/629g</size>
+        <saleprice></saleprice>
+        <price>160/220</price>
+        <description>为0-3月的宝宝量身定制，含维生素D和双益生元，帮助宝宝形成自身防御能力，促进宝宝快速成长。</description>
+        <unit>人民币</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>./image/enfamil_newborn.png</image>
+    </product>
+    <product>
+        <category>母婴类</category>
+        <name>金樽一段婴儿奶粉</name>
+        <brand>Enfamil</brand>
+        <size>354g/629g</size>
+        <saleprice></saleprice>
+        <price>160/220</price>
+        <description>科学配方增强宝宝大脑和视力发育，为宝宝免疫系统提供所需营养，是宝宝健康成长的强大后盾。</description>
+        <unit>人民币</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>./image/enfamil_infant.png</image>
+    </product>
+    <product>
+        <category>母婴类</category>
+        <name>金樽二段婴儿奶粉</name>
+        <brand>Enfamil</brand>
+        <size>595g</size>
+        <saleprice></saleprice>
+        <price>170</price>
+        <description>提供成长过程中的25种营养物质，促进大脑视力的发育，含有Antioxidants抗氧化剂来支持宝宝免疫系统。</description>
+        <unit>人民币</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>./image/enfagrow_transitions.png</image>
+    </product>
+    <product>
+        <category>母婴类</category>
+        <name>金樽三段婴儿奶粉</name>
+        <brand>Enfamil</brand>
+        <size>680g</size>
+        <saleprice></saleprice>
+        <price>170</price>
+        <description>含DHA和铁，促进大脑发育，提升眼脑健康和免疫力，双重益生菌支持消化系统，促进宝宝快乐成长。</description>
+        <unit>人民币</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>./image/enfagrow_next_step.png</image>
+    </product>
+    
+    <!-- Similac -->
+    <product>
+        <category>母婴类</category>
+        <name>一段婴儿奶粉</name>
+        <brand>Similac</brand>
+        <size>658g</size>
+        <saleprice></saleprice>
+        <price>200</price>
+        <description></description>
+        <unit>人民币</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>./image/similac_advance_1.png</image>
+    </product>
+    <product>
+        <category>母婴类</category>
+        <name>二段婴儿奶粉</name>
+        <brand>Similac</brand>
+        <size>873g</size>
+        <saleprice></saleprice>
+        <price>250</price>
+        <description></description>
+        <unit>人民币</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>./image/similac_advance_2.png</image>
+    </product>  
+    <product>
+        <category>母婴类</category>
+        <name>三段婴儿奶粉</name>
+        <brand>Similac</brand>
+        <size>654g</size>
+        <saleprice></saleprice>
+        <price>220</price>
+        <description></description>
+        <unit>人民币</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>./image/similac_gogrow_3.png</image>
+    </product>
+    
+    <!-- L'il Critters -->
+    <product>
+        <category>母婴类</category>
+        <name>复合维生素D+钙软糖</name>
+        <brand>L'il Critters</brand>
+        <size>200粒</size>
+        <saleprice></saleprice>
+        <price>100</price>
+        <description></description>
+        <unit>人民币</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>./image/lc_calcium.jpg</image>
+    </product>
+    <product>
+        <category>母婴类</category>
+        <name>Omega3+DHA软糖</name>
+        <brand>L'il Critters</brand>
+        <size>180粒</size>
+        <saleprice></saleprice>
+        <price>95</price>
+        <description></description>
+        <unit>人民币</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>./image/lc_omega_3.jpg</image>
+    </product>
+    <product>
+        <category>母婴类</category>
+        <name>天然果蔬软糖</name>
+        <brand>L'il Critters</brand>
+        <size>275粒/r</size>
+        <saleprice></saleprice>
+        <price>95</price>
+        <description></description>
+        <unit>人民币</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>./image/lc_fruit_veggie.jpg</image>
+    </product>
 
-	<!-- 护肤类 -->
-	<!-- Fresh -->
-  	<product>
-    	<category>护肤类</category>
-    	<name>大豆精华洁面啫喱</name>
-    	<brand>Fresh</brand>
-    	<size>50ml/150ml</size>
-		<saleprice></saleprice>
-    	<price>125/299</price>
-		<description>大豆和氨基酸、玫瑰花水及青瓜水等为主要成分，彻底洁净肌肤之余并锁住肌肤水份，保持肌肤弹性</description>
-		<unit>人民币</unit>
-    	<coupon></coupon>
-    	<link></link>
-    	<image>./image/fresh_soy_cleanser.png</image>
-  	</product>
-	<product>
-    	<category>护肤类</category>
-    	<name>玫瑰金盏花爽肤水</name>
-    	<brand>Fresh</brand>
-    	<size>250ml</size>
-		<saleprice></saleprice>
-    	<price>299</price>
-		<description>蕴含100％纯净玫瑰花水，能有效镇静舒缓肌肤，具有保湿功能。不含酒精，金盏花成份更能收缩毛孔。</description>
-    	<unit>人民币</unit>
-    	<coupon></coupon>
-    	<link></link>
-    	<image>./image/fresh_rose_toner.jpg</image>
-  	</product>
-	<product>
-    	<category>护肤类</category>
-    	<name>睡莲滋润活颜面霜</name>
-    	<brand>Fresh</brand>
-    	<size>50ml</size>
-		<saleprice></saleprice>
-		<price>329</price>
-		<description>含有每日抗衰老保湿配方专有的7个成分，抗衰老、保持水分对抗皱纹，保持骨胶原蛋白，增加透明质酸含量。</description>
-    	<unit>人民币</unit>
-    	<coupon></coupon>
-    	<link></link>
-    	<image>./image/fresh_lotus_youth_cream.jpg</image>
-  	</product>
-	<product>
-    	<category>护肤类</category>
-    	<name>红茶精华抗皱紧致眼霜</name>
-    	<brand>Fresh</brand>
-    	<size>15ml</size>
-		<saleprice></saleprice>
-    	<price>639</price>
-		<description>蕴含黑茶萃取，专门针对脆弱的衰老部位，从底层抚平皱纹，淡化幼纹及细纹，有效紧致眼部肌肤。</description>
-    	<unit>人民币</unit>
-    	<coupon></coupon>
-    	<link></link>
-    	<image>./image/fresh_black_tea_eye_concentrate.jpg</image>
-  	</product>
-  	<product>
-    	<category>护肤类</category>
-    	<name>黄糖亮采磨砂面膜</name>
-    	<brand>Fresh</brand>
-    	<size>125g</size>
-		<saleprice></saleprice>
-    	<price>439</price>
-    	<description>含有香甜滋润的黄糖，野生草莓及白芒花籽修护油,具有深层滋润，去角质及抗氧化的功能。</description>
-    	<unit>人民币</unit>
-    	<coupon></coupon>
-    	<link></link>
-    	<image>./image/fresh_sugar_mask.png</image>
-  	</product>  
-  	<product>
-    	<category>护肤类</category>
-    	<name>红茶抗皱紧致修护面膜</name>
-    	<brand>Fresh</brand>
-    	<size>100ml</size>
-		<saleprice></saleprice>
-    	<price>649</price>
-    	<description>蕴含精选俄罗斯及亚洲极品黑茶，配合荔枝仔精华，抗氧化，紧致肌肤，抚平细纹，肌肤会变得柔软光滑。</description>
-    	<unit>人民币</unit>
-    	<coupon></coupon>
-    	<link></link>
-    	<image>./image/fresh_black_tea_mask.jpg</image>
-  	</product>
-  	<product>
-    	<category>护肤类</category>
-    	<name>玫瑰润泽保湿面膜</name>
-    	<brand>Fresh</brand>
-    	<size>100ml</size>
-		<saleprice></saleprice>
-    	<price>439</price>
-    	<description>采用极品的保加利亚玫瑰，及顶级大马士革玫瑰精萃而成，集高效保湿及修护功效一体，使肌肤水嫩透亮。</description>
-    	<unit>人民币</unit>
-    	<coupon></coupon>
-    	<link></link>
-    	<image>./image/fresh_rose_mask.png</image>
-  	</product>
+    <!-- 护肤类 -->
+    <!-- Fresh -->
+    <product>
+        <category>护肤类</category>
+        <name>大豆精华洁面啫喱</name>
+        <brand>Fresh</brand>
+        <size>50ml/150ml</size>
+        <saleprice></saleprice>
+        <price>125/299</price>
+        <description>大豆和氨基酸、玫瑰花水及青瓜水等为主要成分，彻底洁净肌肤之余并锁住肌肤水份，保持肌肤弹性</description>
+        <unit>人民币</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>./image/fresh_soy_cleanser.png</image>
+    </product>
+    <product>
+        <category>护肤类</category>
+        <name>玫瑰金盏花爽肤水</name>
+        <brand>Fresh</brand>
+        <size>250ml</size>
+        <saleprice></saleprice>
+        <price>299</price>
+        <description>蕴含100％纯净玫瑰花水，能有效镇静舒缓肌肤，具有保湿功能。不含酒精，金盏花成份更能收缩毛孔。</description>
+        <unit>人民币</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>./image/fresh_rose_toner.jpg</image>
+    </product>
+    <product>
+        <category>护肤类</category>
+        <name>睡莲滋润活颜面霜</name>
+        <brand>Fresh</brand>
+        <size>50ml</size>
+        <saleprice></saleprice>
+        <price>329</price>
+        <description>含有每日抗衰老保湿配方专有的7个成分，抗衰老、保持水分对抗皱纹，保持骨胶原蛋白，增加透明质酸含量。</description>
+        <unit>人民币</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>./image/fresh_lotus_youth_cream.jpg</image>
+    </product>
+    <product>
+        <category>护肤类</category>
+        <name>红茶精华抗皱紧致眼霜</name>
+        <brand>Fresh</brand>
+        <size>15ml</size>
+        <saleprice></saleprice>
+        <price>639</price>
+        <description>蕴含黑茶萃取，专门针对脆弱的衰老部位，从底层抚平皱纹，淡化幼纹及细纹，有效紧致眼部肌肤。</description>
+        <unit>人民币</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>./image/fresh_black_tea_eye_concentrate.jpg</image>
+    </product>
+    <product>
+        <category>护肤类</category>
+        <name>黄糖亮采磨砂面膜</name>
+        <brand>Fresh</brand>
+        <size>125g</size>
+        <saleprice></saleprice>
+        <price>439</price>
+        <description>含有香甜滋润的黄糖，野生草莓及白芒花籽修护油,具有深层滋润，去角质及抗氧化的功能。</description>
+        <unit>人民币</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>./image/fresh_sugar_mask.png</image>
+    </product>  
+    <product>
+        <category>护肤类</category>
+        <name>红茶抗皱紧致修护面膜</name>
+        <brand>Fresh</brand>
+        <size>100ml</size>
+        <saleprice></saleprice>
+        <price>649</price>
+        <description>蕴含精选俄罗斯及亚洲极品黑茶，配合荔枝仔精华，抗氧化，紧致肌肤，抚平细纹，肌肤会变得柔软光滑。</description>
+        <unit>人民币</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>./image/fresh_black_tea_mask.jpg</image>
+    </product>
+    <product>
+        <category>护肤类</category>
+        <name>玫瑰润泽保湿面膜</name>
+        <brand>Fresh</brand>
+        <size>100ml</size>
+        <saleprice></saleprice>
+        <price>439</price>
+        <description>采用极品的保加利亚玫瑰，及顶级大马士革玫瑰精萃而成，集高效保湿及修护功效一体，使肌肤水嫩透亮。</description>
+        <unit>人民币</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>./image/fresh_rose_mask.png</image>
+    </product>
 
-  	<!-- Kiehl's -->
-  	<product>
-    	<category>护肤类</category>
-    	<name>高保湿面霜</name>
-    	<brand>Kiehl's</brand>
-    	<size>50ml/125ml</size>
-		<saleprice>169/279</saleprice>
-    	<price>240/350</price>
-		<description>萃取南极的冷冻保护蛋白，具有防冻、抗干燥，强效的保湿功效。锁住肌肤表面水分达到全天的保湿效果。</description>
-    	<unit>人民币</unit>
-    	<coupon></coupon>
-    	<link></link>
-    	<image>./image/kiehls_ultra_facial_cream.jpg</image>
-  	</product>
-  	<product>
-    	<category>护肤类</category>
-    	<name>牛油果保湿眼霜</name>
-    	<brand>Kiehl's</brand>
-    	<size>14/28g</size>
-		<saleprice>179/279</saleprice>
-    	<price>229/359</price>
-    	<description>含有牛油果油的丰润配方，能给娇嫩的眼部肌肤足够的保湿。                                      </description>
-    	<unit>人民币</unit>
-    	<coupon></coupon>
-    	<link></link>
-    	<image>./image/kiehls_eye_treatment.jpg</image>
-  	</product>
-	<product>
-    	<category>护肤类</category>
-    	<name>亚马逊白泥净致面膜</name>
-    	<brand>Kiehl's</brand>
-    	<size>150ml</size>
-		<saleprice>149</saleprice>
-    	<price>199</price>
-    	<description>内含亚马逊白泥、翠叶芦荟萃取、皂土、燕麦粉等高效肌肤净致成分，帮助肌肤排毒、净化毛孔、深层清洁。</description>
-    	<unit>人民币</unit>
-    	<coupon></coupon>
-    	<link></link>
-    	<image>./image/kiehls_rare_earth_mask.jpg</image>
-  	</product>
-  	<product>
-    	<category>护肤类</category>
-    	<name>金盏花植物爽肤水</name>
-    	<brand>Kiehl's</brand>
-    	<size>125ml/250ml</size>
-		<saleprice>129/209</saleprice>
-    	<price>179/279</price>
-    	<description>添加天然金盏花成分，不含酒精，能温和清洁和舒缓中偏油性肌肤、均衡调理肌肤的油脂。                 </description>
-    	<unit>人民币</unit>
-    	<coupon></coupon>
-    	<link></link>
-    	<image>./image/kiehls_calendula_toner.jpg</image>
-  	</product>
-  	<product>
-    	<category>护肤类</category>
-    	<name>集焕白均衡亮肤淡斑精华液</name>
-    	<brand>Kiehl's</brand>
-    	<size>30ml/50ml</size>
-		<saleprice>289/439</saleprice>
-    	<price>399/579</price>
-    	<description>含活力维C、白桦、牡丹萃取精华，深层修护亮白，有效淡化班点，预防斑点生成，均匀肤色，肌肤更显无瑕润白。</description>
-    	<unit>人民币</unit>
-    	<coupon></coupon>
-    	<link></link>
-    	<image>./image/kiehls_dark_spot_serum.png</image>
-  	</product>
-	<product>
-    	<category>护肤类</category>
-    	<name>夜间修护精华液</name>
-    	<brand>Kiehl's</brand>
-    	<size>30ml/50ml</size>
-		<saleprice>279/409</saleprice>
-    	<price>359/539</price>
-    	<description>100%天然萃取的植物精油，集合角鲨烷，月见草油，向日葵籽油，于夜间改善受损的肌肤，增加肌肤细胞活力。</description>
-    	<unit>人民币</unit>
-    	<coupon></coupon>
-    	<link></link>
-    	<image>./image/kiehls_midnight_recovery_serum.jpg</image>
-  	</product>
-  	<product>
-    	<category>护肤类</category>
-    	<name>氨基椰香洗发啫喱</name>
-    	<brand>Kiehl's</brand>
-    	<size>75ml/250ml/500ml</size>
-		<saleprice>49/119/179</saleprice>
-    	<price>69/149/239</price>
-    	<description>蕴含小麦氨基酸类、椰子油、水解小麦蛋白及水解小麦淀粉，帮助清洁秀发的同时，滋养、柔顺秀发。       </description>
-    	<unit>人民币</unit>
-    	<coupon></coupon>
-    	<link></link>
-    	<image>./image/kiehls_amino_acid_shampoo.jpg</image>
-  	</product>
-	<product>
-    	<category>护肤类</category>
-    	<name>氨基椰香护发乳液</name>
-    	<brand>Kiehl's</brand>
-    	<size>75ml/200ml/250ml</size>
-		<saleprice>49/119/179</saleprice>
-    	<price>69/159/269</price>
-    	<description>蕴含水解小麦蛋白、小麦氨基酸等，质地清新温和，为头发带来健康光彩。帮助呵护头发、强化发质，易于打理。</description>
-    	<unit>人民币</unit>
-    	<coupon></coupon>
-    	<link></link>
-    	<image>./image/kiehls_amino_acid_conditioner.jpg</image>
-  	</product>
+    <!-- Kiehl's -->
+    <product>
+        <category>护肤类</category>
+        <name>高保湿面霜</name>
+        <brand>Kiehl's</brand>
+        <size>50ml/125ml</size>
+        <saleprice></saleprice>
+        <price>224/408</price>
+        <description>萃取南极的冷冻保护蛋白，具有防冻、抗干燥，强效的保湿功效。锁住肌肤表面水分达到全天的保湿效果。</description>
+        <unit>人民币</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>./image/kiehls_ultra_facial_cream.jpg</image>
+    </product>
+    <product>
+        <category>护肤类</category>
+        <name>牛油果保湿眼霜</name>
+        <brand>Kiehl's</brand>
+        <size>14/28g</size>
+        <saleprice></saleprice>
+        <price>228/371</price>
+        <description>含有牛油果油的丰润配方，能给娇嫩的眼部肌肤足够的保湿。                                      </description>
+        <unit>人民币</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>./image/kiehls_eye_treatment.jpg</image>
+    </product>
+    <product>
+        <category>护肤类</category>
+        <name>亚马逊白泥净致面膜</name>
+        <brand>Kiehl's</brand>
+        <size>150ml</size>
+        <saleprice></saleprice>
+        <price>203</price>
+        <description>内含亚马逊白泥、翠叶芦荟萃取、皂土、燕麦粉等高效肌肤净致成分，帮助肌肤排毒、净化毛孔、深层清洁。</description>
+        <unit>人民币</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>./image/kiehls_rare_earth_mask.jpg</image>
+    </product>
+    <product>
+        <category>护肤类</category>
+        <name>金盏花植物爽肤水</name>
+        <brand>Kiehl's</brand>
+        <size>125ml/250ml</size>
+        <saleprice></saleprice>
+        <price>186/311</price>
+        <description>添加天然金盏花成分，不含酒精，能温和清洁和舒缓中偏油性肌肤、均衡调理肌肤的油脂。                 </description>
+        <unit>人民币</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>./image/kiehls_calendula_toner.jpg</image>
+    </product>
+    <product>
+        <category>护肤类</category>
+        <name>集焕白均衡亮肤淡斑精华液</name>
+        <brand>Kiehl's</brand>
+        <size>30ml/50ml</size>
+        <saleprice></saleprice>
+        <price>402/620</price>
+        <description>含活力维C、白桦、牡丹萃取精华，深层修护亮白，有效淡化班点，预防斑点生成，均匀肤色，肌肤更显无瑕润白。</description>
+        <unit>人民币</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>./image/kiehls_dark_spot_serum.png</image>
+    </product>
+    <product>
+        <category>护肤类</category>
+        <name>夜间修护精华液</name>
+        <brand>Kiehl's</brand>
+        <size>30ml/50ml</size>
+        <saleprice></saleprice>
+        <price>375/574</price>
+        <description>100%天然萃取的植物精油，集合角鲨烷，月见草油，向日葵籽油，于夜间改善受损的肌肤，增加肌肤细胞活力。</description>
+        <unit>人民币</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>./image/kiehls_midnight_recovery_serum.jpg</image>
+    </product>
+    <product>
+        <category>护肤类</category>
+        <name>氨基椰香洗发啫喱</name>
+        <brand>Kiehl's</brand>
+        <size>75ml/250ml/500ml</size>
+        <saleprice></saleprice>
+        <price>70/187/304</price>
+        <description>蕴含小麦氨基酸类、椰子油、水解小麦蛋白及水解小麦淀粉，帮助清洁秀发的同时，滋养、柔顺秀发。       </description>
+        <unit>人民币</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>./image/kiehls_amino_acid_shampoo.jpg</image>
+    </product>
+    <product>
+        <category>护肤类</category>
+        <name>氨基椰香护发乳液</name>
+        <brand>Kiehl's</brand>
+        <size>75ml/200ml/250ml</size>
+        <saleprice></saleprice>
+        <price>70/195/320</price>
+        <description>蕴含水解小麦蛋白、小麦氨基酸等，质地清新温和，为头发带来健康光彩。帮助呵护头发、强化发质，易于打理。</description>
+        <unit>人民币</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>./image/kiehls_amino_acid_conditioner.jpg</image>
+    </product>
 
-  	<!-- Estee Lauder -->
-  	<product>
-    	<category>护肤类</category>
-    	<name>特润修护肌透精华露</name>
-    	<brand>Estee Lauder</brand>
-    	<size>30ml/50ml</size>
-		<saleprice></saleprice>
-    	<price>489/719</price>
-    	<description>全新ChronoluxCB™ 科技，净化、清空累积损伤，激发自身修护能力，帮助肌肤在夜间抵达修护巅峰。      </description>
-    	<unit>人民币</unit>
-    	<coupon></coupon>
-    	<link></link>
-    	<image>./image/estee_lauder_serum.jpg</image>
-  	</product>
-  	<product>
-    	<category>护肤类</category>
-    	<name>肌透修护眼部精华霜</name>
-    	<brand>Estee Lauder</brand>
-    	<size>15ml</size>
-		<saleprice></saleprice>
-    	<price>449</price>
-    	<description>修护多屏引起的干燥、黯沉、细纹、黑眼圈、浮肿等眼周问题。只见平滑柔嫩、明净莹亮，击褪时光之痕。</description>
-    	<unit>人民币</unit>
-    	<coupon></coupon>
-    	<link></link>
-    	<image>./image/estee_lauder_eye.jpg</image>
-  	</product>
-  	<product>
-    	<category>护肤类</category>
-    	<name>肌透修护眼部密集精华</name>
-    	<brand>Estee Lauder</brand>
-    	<size>15ml</size>
-		<saleprice></saleprice>
-    	<price>510</price>
-    	<description>独蕴ChronoluxCBTM肌因生物钟同步修护科技，深透眼部肌底，抵御并防护光污染对眼周肌底的损伤。       </description>
-    	<unit>人民币</unit>
-    	<coupon></coupon>
-    	<link></link>
-    	<image>./image/estee_lauder_eye_serum.jpg</image>
-  	</product>
-	<product>
-    	<category>护肤类</category>
-    	<name>鲜亮焕采泡沫洁面乳</name>
-    	<brand>Estee Lauder</brand>
-    	<size>125ml</size>
-		<saleprice></saleprice>
-    	<price>249</price>
-    	<description>全新红石榴果莓复合精粹，汲4大抗氧化植物精华，含强吸附力"磁性粘土"，深入清洁肌肤，肌肤透现鲜亮光采。</description>
-    	<unit>人民币</unit>
-    	<coupon></coupon>
-    	<link></link>
-    	<image>./image/estee_lauder_nutritious_cleanser.jpg</image>
-  	</product>
-	<product>
-    	<category>护肤类</category>
-    	<name>鲜亮焕采精粹水</name>
-    	<brand>Estee Lauder</brand>
-    	<size>200ml</size>
-		<saleprice></saleprice>
-    	<price>409</price>
-    	<description>滋宠每一寸干渴肌肤，倾注多重抗氧排浊能量，自内驱散干燥、疲惫、黯沉，肌肤满注水盈，迸发鲜活亮采。  </description>
-    	<unit>人民币</unit>
-    	<coupon></coupon>
-    	<link></link>
-    	<image>./image/estee_lauder_nutritious_toner.jpg</image>
-  	</product>
-	<product>
-    	<category>护肤类</category>
-    	<name>红石榴日霜</name>
-    	<brand>Estee Lauder</brand>
-    	<size>50ml</size>
-		<saleprice></saleprice>
-    	<price>459</price>
-    	<description>幼滑的凝霜质地，添加更多天然矿物质及抗氧化成分，日间为肌肤注入水分与光彩，远离浊质与黯沉烦恼。</description>
-    	<unit>人民币</unit>
-    	<coupon></coupon>
-    	<link></link>
-    	<image>./image/estee_lauder_nutritious_cream.jpg</image>
-  	</product>
+    <!-- Estee Lauder -->
+    <product>
+        <category>护肤类</category>
+        <name>特润修护肌透精华露</name>
+        <brand>Estee Lauder</brand>
+        <size>30ml/50ml</size>
+        <saleprice></saleprice>
+        <price>489/719</price>
+        <description>全新ChronoluxCB™ 科技，净化、清空累积损伤，激发自身修护能力，帮助肌肤在夜间抵达修护巅峰。      </description>
+        <unit>人民币</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>./image/estee_lauder_serum.jpg</image>
+    </product>
+    <product>
+        <category>护肤类</category>
+        <name>肌透修护眼部精华霜</name>
+        <brand>Estee Lauder</brand>
+        <size>15ml</size>
+        <saleprice></saleprice>
+        <price>449</price>
+        <description>修护多屏引起的干燥、黯沉、细纹、黑眼圈、浮肿等眼周问题。只见平滑柔嫩、明净莹亮，击褪时光之痕。</description>
+        <unit>人民币</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>./image/estee_lauder_eye.jpg</image>
+    </product>
+    <product>
+        <category>护肤类</category>
+        <name>肌透修护眼部密集精华</name>
+        <brand>Estee Lauder</brand>
+        <size>15ml</size>
+        <saleprice></saleprice>
+        <price>510</price>
+        <description>独蕴ChronoluxCBTM肌因生物钟同步修护科技，深透眼部肌底，抵御并防护光污染对眼周肌底的损伤。       </description>
+        <unit>人民币</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>./image/estee_lauder_eye_serum.jpg</image>
+    </product>
+    <product>
+        <category>护肤类</category>
+        <name>鲜亮焕采泡沫洁面乳</name>
+        <brand>Estee Lauder</brand>
+        <size>125ml</size>
+        <saleprice></saleprice>
+        <price>249</price>
+        <description>全新红石榴果莓复合精粹，汲4大抗氧化植物精华，含强吸附力"磁性粘土"，深入清洁肌肤，肌肤透现鲜亮光采。</description>
+        <unit>人民币</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>./image/estee_lauder_nutritious_cleanser.jpg</image>
+    </product>
+    <product>
+        <category>护肤类</category>
+        <name>鲜亮焕采精粹水</name>
+        <brand>Estee Lauder</brand>
+        <size>200ml</size>
+        <saleprice></saleprice>
+        <price>409</price>
+        <description>滋宠每一寸干渴肌肤，倾注多重抗氧排浊能量，自内驱散干燥、疲惫、黯沉，肌肤满注水盈，迸发鲜活亮采。  </description>
+        <unit>人民币</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>./image/estee_lauder_nutritious_toner.jpg</image>
+    </product>
+    <product>
+        <category>护肤类</category>
+        <name>红石榴日霜</name>
+        <brand>Estee Lauder</brand>
+        <size>50ml</size>
+        <saleprice></saleprice>
+        <price>459</price>
+        <description>幼滑的凝霜质地，添加更多天然矿物质及抗氧化成分，日间为肌肤注入水分与光彩，远离浊质与黯沉烦恼。</description>
+        <unit>人民币</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>./image/estee_lauder_nutritious_cream.jpg</image>
+    </product>
     <!--
     <product>
         <category>护肤类</category>
         <name>红石榴晚霜</name>
         <brand>Estee Lauder</brand>
         <size>50ml</size>
-		<saleprice></saleprice>
+        <saleprice></saleprice>
         <price></price>
         <description>"排浊圣品"红石榴，含石榴多酚和花青素抗氧化成分，清除污染产生的自由基，使肌肤免受外界刺激的伤害。</description>
         <unit>人民币</unit>
@@ -782,346 +782,346 @@
     </product>
     -->
 
-  	<!-- La Mer -->
-  	<product>
-    	<category>护肤类</category>
-    	<name>经典面霜</name>
-    	<brand>La Mer</brand>
-    	<size>60ml</size>
-		<saleprice></saleprice>
-    	<price>2199</price>
-    	<description>具卓越的修护能力，滋润保湿肌肤，坚持使用，令肌肤紧实、柔嫩、有光泽。</description>
-    	<unit>人民币</unit>
-    	<coupon></coupon>
-    	<link></link>
-    	<image>./image/lamer_cream.jpg</image>
-  	</product>
-  	<product>
-    	<category>护肤类</category>
-    	<name>精华乳霜</name>
-    	<brand>La Mer</brand>
-    	<size>60ml</size>
-		<saleprice></saleprice>
-    	<price>2199</price>
-    	<description>触手即化的奢华质地，能渗透肌底，滋养并强韧肌肤，见证焕变青春光采。</description>
-    	<unit>人民币</unit>
-    	<coupon></coupon>
-    	<link></link>
-    	<image>./image/lamer_soft_cream.jpg</image>
-  	</product>
-  	<product>
-    	<category>护肤类</category>
-    	<name>精华凝霜</name>
-    	<brand>La Mer</brand>
-    	<size>60ml</size>
-		<saleprice></saleprice>
-    	<price>2199</price>
-    	<description>结合了精华面霜的原始配方和深海巨藻独特的啫哩结构，能在接触肌肤时，带来强大保湿和滋润。</description>
-    	<unit>人民币</unit>
-    	<coupon></coupon>
-    	<link></link>
-    	<image>./image/lamer_gel_cream.jpg</image>
-  	</product>
+    <!-- La Mer -->
+    <product>
+        <category>护肤类</category>
+        <name>经典面霜</name>
+        <brand>La Mer</brand>
+        <size>60ml</size>
+        <saleprice></saleprice>
+        <price>2199</price>
+        <description>具卓越的修护能力，滋润保湿肌肤，坚持使用，令肌肤紧实、柔嫩、有光泽。</description>
+        <unit>人民币</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>./image/lamer_cream.jpg</image>
+    </product>
+    <product>
+        <category>护肤类</category>
+        <name>精华乳霜</name>
+        <brand>La Mer</brand>
+        <size>60ml</size>
+        <saleprice></saleprice>
+        <price>2199</price>
+        <description>触手即化的奢华质地，能渗透肌底，滋养并强韧肌肤，见证焕变青春光采。</description>
+        <unit>人民币</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>./image/lamer_soft_cream.jpg</image>
+    </product>
+    <product>
+        <category>护肤类</category>
+        <name>精华凝霜</name>
+        <brand>La Mer</brand>
+        <size>60ml</size>
+        <saleprice></saleprice>
+        <price>2199</price>
+        <description>结合了精华面霜的原始配方和深海巨藻独特的啫哩结构，能在接触肌肤时，带来强大保湿和滋润。</description>
+        <unit>人民币</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>./image/lamer_gel_cream.jpg</image>
+    </product>
 
 
-  	<!-- Clinique -->
-	<product>
-    	<category>护肤类</category>
-    	<name>洗脸皂(干性/混合/油性)</name>
-    	<brand>Clinique</brand>
-    	<size>150g(带皂盒)</size>
-		<saleprice>109</saleprice>
-    	<price>139</price>
-    	<description>使肌肤保持清新，洁净，舒适，无干燥紧绷感。分为柔性、温和型和加强型，适合不同肌肤类型。  </description>
-    	<unit>人民币</unit>
-    	<coupon></coupon>
-    	<link></link>
-    	<image>./image/clinique_soap.jpg</image>
-  	</product>
+    <!-- Clinique -->
+    <product>
+        <category>护肤类</category>
+        <name>洗脸皂(干性/混合/油性)</name>
+        <brand>Clinique</brand>
+        <size>150g(带皂盒)</size>
+        <saleprice></saleprice>
+        <price>171</price>
+        <description>使肌肤保持清新，洁净，舒适，无干燥紧绷感。分为柔性、温和型和加强型，适合不同肌肤类型。  </description>
+        <unit>人民币</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>./image/clinique_soap.jpg</image>
+    </product>
     <product>
         <category>护肤类</category>
         <name>液体洗脸皂(干性/混合/油性)</name>
         <brand>Clinique</brand>
         <size>200ml</size>
-		 <saleprice>89</saleprice>
-        <price>119</price>
+         <saleprice></saleprice>
+        <price>140</price>
         <description>保护肌肤的天然水份平衡，无干燥紧绷感。分为柔性、温和型和加强型，适合不同肌肤类型。       </description>
         <unit>人民币</unit>
         <coupon></coupon>
         <link></link>
         <image>./image/clinique_liquid_soap.jpg</image>
     </product>
-  	<product>
-    	<category>护肤类</category>
-    	<name>倩碧润肤乳-啫喱配方</name>
-    	<brand>Clinique</brand>
-    	<size>50ml/125ml</size>
-		<saleprice>95/159</saleprice>
-    	<price>119/209</price>
-    	<description>有效防止肌肤水分流失及过敏现象，让肌肤变成可导入养分的湿海绵，啫哩配方满足油性皮肤的需求。</description>
-    	<unit>人民币</unit>
-    	<coupon></coupon>
-    	<link></link>
-    	<image>./image/clinique_moisturizing_lotion.jpg</image>
-  	</product>
-  	<product>
-    	<category>护肤类</category>
-    	<name>倩碧卓越润肤乳</name>
-    	<brand>Clinique</brand>
-    	<size>50ml/125ml</size>
-		<saleprice>95/159</saleprice>
-    	<price>119/209</price>
-    	<description>修护天然肌肤保护膜，弹润膜力崭新升级：由内牢牢锁住肌底源源水润，肌肤充盈饱满。          </description>
-    	<unit>人民币</unit>
-    	<coupon></coupon>
-    	<link></link>
-    	<image>./image/clinique_moisturizing_lotion.jpg</image>
-  	</product>
+    <product>
+        <category>护肤类</category>
+        <name>倩碧润肤乳-啫喱配方</name>
+        <brand>Clinique</brand>
+        <size>50ml/125ml</size>
+        <saleprice></saleprice>
+        <price>128/241</price>
+        <description>有效防止肌肤水分流失及过敏现象，让肌肤变成可导入养分的湿海绵，啫哩配方满足油性皮肤的需求。</description>
+        <unit>人民币</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>./image/clinique_moisturizing_lotion.jpg</image>
+    </product>
+    <product>
+        <category>护肤类</category>
+        <name>倩碧卓越润肤乳</name>
+        <brand>Clinique</brand>
+        <size>50ml/125ml</size>
+        <saleprice></saleprice>
+        <price>128/241</price>
+        <description>修护天然肌肤保护膜，弹润膜力崭新升级：由内牢牢锁住肌底源源水润，肌肤充盈饱满。          </description>
+        <unit>人民币</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>./image/clinique_moisturizing_lotion.jpg</image>
+    </product>
 
-  	<!-- Lancome -->
-	<product>
-    	<category>护肤类</category>
-    	<name>清莹洁面洁沫</name>
-    	<brand>Lancome</brand>
-    	<size>125/200ml</size>
-		<saleprice></saleprice>
-    	<price>229/279</price>
-    	<description>丰富的泡沫，深层清理肌肤中的杂质。富含抗氧化成分及白莲与法国玫瑰精华，达到深层洁净的效果。</description>
-    	<unit>人民币</unit>
-    	<coupon></coupon>
-    	<link></link>
-    	<image>./image/lancome_cleanser.jpg</image>
-  	</product>
-	<product>
-    	<category>护肤类</category>
-    	<name>清莹柔肤水(干性)</name>
-    	<brand>Lancome</brand>
-    	<size>200ml</size>
-		<saleprice></saleprice>
-    	<price>329</price>
-    	<description>乳状的化妆水徹底清洁却不刺激脆弱敏感的肌肤。同时给予肌肤滋润，帮助后续保养品的吸收。    </description>
-    	<unit>人民币</unit>
-    	<coupon></coupon>
-    	<link></link>
-    	<image>./image/lancome_toner.jpg</image>
-  	</product>
-	<product>
-    	<category>护肤类</category>
-    	<name>精华肌底眼部凝霜</name>
-    	<brand>Lancome</brand>
-    	<size>15ml</size>
-		<saleprice></saleprice>
-    	<price>479</price>
-    	<description>秉承“小黑瓶”家族独一无二高科技萃取物，28天让眼部肌肤拥有更多“年轻蛋白质”，柔嫩明亮。   </description>
-    	<unit>人民币</unit>
-    	<coupon></coupon>
-    	<link></link>
-    	<image>./image/lancome_youth_activating_eye_concentrate.jpg</image>
-  	</product>
-  	<product>
-    	<category>护肤类</category>
-    	<name>新精华肌底液</name>
-    	<brand>Lancome</brand>
-    	<size>30/50ml</size>
-		<saleprice></saleprice>
-    	<price>639/769</price>
-    	<description>全新升级配方，蕴含生物科技获取的活性成份，日夜深度修护激活10种年轻标记。              </description>
-    	<unit>人民币</unit>
-    	<coupon></coupon>
-    	<link></link>
-    	<image>./image/lancome_youth_activating_concentrate.jpg</image>
-  	</product>
-	
+    <!-- Lancome -->
+    <product>
+        <category>护肤类</category>
+        <name>清莹洁面洁沫</name>
+        <brand>Lancome</brand>
+        <size>125/200ml</size>
+        <saleprice></saleprice>
+        <price>229/279</price>
+        <description>丰富的泡沫，深层清理肌肤中的杂质。富含抗氧化成分及白莲与法国玫瑰精华，达到深层洁净的效果。</description>
+        <unit>人民币</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>./image/lancome_cleanser.jpg</image>
+    </product>
+    <product>
+        <category>护肤类</category>
+        <name>清莹柔肤水(干性)</name>
+        <brand>Lancome</brand>
+        <size>200ml</size>
+        <saleprice></saleprice>
+        <price>329</price>
+        <description>乳状的化妆水徹底清洁却不刺激脆弱敏感的肌肤。同时给予肌肤滋润，帮助后续保养品的吸收。    </description>
+        <unit>人民币</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>./image/lancome_toner.jpg</image>
+    </product>
+    <product>
+        <category>护肤类</category>
+        <name>精华肌底眼部凝霜</name>
+        <brand>Lancome</brand>
+        <size>15ml</size>
+        <saleprice></saleprice>
+        <price>479</price>
+        <description>秉承“小黑瓶”家族独一无二高科技萃取物，28天让眼部肌肤拥有更多“年轻蛋白质”，柔嫩明亮。   </description>
+        <unit>人民币</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>./image/lancome_youth_activating_eye_concentrate.jpg</image>
+    </product>
+    <product>
+        <category>护肤类</category>
+        <name>新精华肌底液</name>
+        <brand>Lancome</brand>
+        <size>30/50ml</size>
+        <saleprice></saleprice>
+        <price>639/769</price>
+        <description>全新升级配方，蕴含生物科技获取的活性成份，日夜深度修护激活10种年轻标记。              </description>
+        <unit>人民币</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>./image/lancome_youth_activating_concentrate.jpg</image>
+    </product>
+    
     <!--
-	<product>
-    	<category>护肤类</category>
-    	<name>清滢眼部卸妆水</name>
-    	<brand>Lancome</brand>
-    	<size>125/200ml</size>
-		<saleprice></saleprice>
-    	<price></price>
-    	<description>含有挥发性油脂（不含酒精）和温和的清洁因子。卸除眼部防水彩妆，不油腻，适合敏感的眼部肌肤。</description>
-    	<unit>人民币</unit>
-    	<coupon></coupon>
-    	<link></link>
-    	<image>./image/lancome_eye_remover.jpg</image>
-  	</product>
+    <product>
+        <category>护肤类</category>
+        <name>清滢眼部卸妆水</name>
+        <brand>Lancome</brand>
+        <size>125/200ml</size>
+        <saleprice></saleprice>
+        <price></price>
+        <description>含有挥发性油脂（不含酒精）和温和的清洁因子。卸除眼部防水彩妆，不油腻，适合敏感的眼部肌肤。</description>
+        <unit>人民币</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>./image/lancome_eye_remover.jpg</image>
+    </product>
     -->
-	
-  	<product>
-    	<category>护肤类</category>
-    	<name>4合1草本精华洁面乳</name>
-    	<brand>Philosophy</brand>
-    	<size>90ml/240ml</size>
-		<saleprice>79/159</saleprice>
-    	<price>89/189</price>
-    	<description>配方温和，含天竺葵、花梨木、肉桂等多重植物成分，一次性清洁污垢和化妆残渍，平衡酸碱值，收敛毛孔。</description>
-    	<unit>人民币</unit>
-    	<coupon></coupon>
-    	<link></link>
-    	<image>./image/philosophy_cleanser.jpg</image>
-  	</product>
-  	<product>
-    	<category>护肤类</category>
-    	<name>酸乳酪希望面霜</name>
-    	<brand>Philosophy</brand>
-    	<size>30ml/60ml</size>
-		<saleprice>205/279</saleprice>
-    	<price>239/329</price>
-    	<description>有效对抗皱纹、斑点、粗糙、干燥。含提升肌肤免疫力的葡聚糖，抗氧化。温和乳酸成份可去除老化角质层。</description>
-    	<unit>人民币</unit>
-    	<coupon></coupon>
-    	<link></link>
-    	<image>./image/philosophy_hope_in_jar.jpg</image>
-  	</product>
+    
+    <product>
+        <category>护肤类</category>
+        <name>4合1草本精华洁面乳</name>
+        <brand>Philosophy</brand>
+        <size>90ml/240ml</size>
+        <saleprice></saleprice>
+        <price>89/189</price>
+        <description>配方温和，含天竺葵、花梨木、肉桂等多重植物成分，一次性清洁污垢和化妆残渍，平衡酸碱值，收敛毛孔。</description>
+        <unit>人民币</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>./image/philosophy_cleanser.jpg</image>
+    </product>
+    <product>
+        <category>护肤类</category>
+        <name>酸乳酪希望面霜</name>
+        <brand>Philosophy</brand>
+        <size>30ml/60ml</size>
+        <saleprice></saleprice>
+        <price>239/329</price>
+        <description>有效对抗皱纹、斑点、粗糙、干燥。含提升肌肤免疫力的葡聚糖，抗氧化。温和乳酸成份可去除老化角质层。</description>
+        <unit>人民币</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>./image/philosophy_hope_in_jar.jpg</image>
+    </product>
 
-	
-	<!-- Origins -->
-  	<product>
-    	<category>护肤类</category>
-    	<name>水润畅饮保湿面膜</name>
-    	<brand>Origins</brand>
-    	<size>100ml</size>
-		<saleprice></saleprice>
-    	<price>209</price>
-    	<description>迅速灌溉缺水肌肤，打开肌肤"水离子通道"，短短数分钟即刻为肌肤注入源源水分，卓效保湿，保护肌肤弹性。</description>
-    	<unit>人民币</unit>
-    	<coupon></coupon>
-    	<link></link>
-    	<image>./image/origins_drink_up_mask.jpg</image>
-  	</product>
-	<product>
-    	<category>护肤类</category>
-    	<name>活性炭清透洁肤面膜</name>
-    	<brand>Origins</brand>
-    	<size>100ml</size>
-		<saleprice></saleprice>
-    	<price>209</price>
-    	<description>活性碳成分，如同吸铁石般深彻吸收毛孔深处的细微油质、污物和浊质，清透洁净毛孔。</description>
-    	<unit>人民币</unit>
-    	<coupon></coupon>
-    	<link></link>
-    	<image>./image/origins_clear_mask.jpg</image>
-  	</product>
-	<product>
-    	<category>护肤类</category>
-    	<name>水润畅饮夜间滋养面膜</name>
-    	<brand>Origins</brand>
-    	<size>100ml</size>
-		<saleprice></saleprice>
-    	<price>209</price>
-    	<description>免洗型睡眠面膜，肌肤的晚间滋补汤，迅速修护受损细胞，密集滋养，强化肌肤保湿屏障。肌肤含水量急升，清晨重现饱满润泽。</description>
-    	<unit>人民币</unit>
-    	<coupon></coupon>
-    	<link></link>
-    	<image>./image/origins_drink_up_overnight_mask.jpg</image>
-  	</product>
-	<product>
-    	<category>护肤类</category>
-    	<name>韦博士灵芝焕能精华水</name>
-    	<brand>Origins</brand>
-    	<size>200ml</size>
-		<saleprice></saleprice>
-    	<price>249</price>
-    	<description>质地清盈，舒缓水润，提升肌肤修护力。迅速焕亮并强健肌肤，帮助抵御外界侵袭，肌肤更显强健、细嫩、透亮。</description>
-    	<unit>人民币</unit>
-    	<coupon></coupon>
-    	<link></link>
-    	<image>./image/origins_wei_toner.jpg</image>
-  	</product>
-	<product>
-    	<category>护肤类</category>
-    	<name>储水赋活凝乳</name>
-    	<brand>Origins</brand>
-    	<size>50ml</size>
-		<saleprice></saleprice>
-    	<price>329</price>
-    	<description>集复活草、西瓜荔枝、菱锰矿等天然植物精萃，促进肌肤深层水养循环，帮助赋活肌肤。润而不腻的轻盈质地，滋养长期缺水受损肌肤。</description>
-    	<unit>人民币</unit>
-    	<coupon></coupon>
-    	<link></link>
-    	<image>./image/origins_treatment.jpg</image>
-  	</product>
-	<product>
-    	<category>护肤类</category>
-    	<name>储水赋活面霜</name>
-    	<brand>Origins</brand>
-    	<size>50ml</size>
-		<saleprice></saleprice>
-    	<price>329</price>
-    	<description>集合复活草、西瓜荔枝、菱锰矿等天然植物精萃，质地丰盈润泽。蕴含阿苏果油、烛果油、芒果乳油萃取，改善干燥肌肤问题</description>
-    	<unit>人民币</unit>
-    	<coupon></coupon>
-    	<link></link>
-    	<image>./image/origins_moisturizer.jpg</image>
-  	</product>
-	<product>
-    	<category>护肤类</category>
-    	<name>活力唤亮醒肤凝乳</name>
-    	<brand>Origins</brand>
-    	<size>50ml</size>
-		<saleprice></saleprice>
-    	<price>219</price>
-    	<description>卓效醒肤能量，一扫肌肤暗沉疲惫，光彩活力；果冻质地，轻盈不油腻，迅速吸收，持久水润。三种天然植萃精油，怡人醒神。</description>
-    	<unit>人民币</unit>
-    	<coupon></coupon>
-    	<link></link>
-    	<image>./image/origins_hydratant_moisturizer.jpg</image>
-  	</product>
+    
+    <!-- Origins -->
+    <product>
+        <category>护肤类</category>
+        <name>水润畅饮保湿面膜</name>
+        <brand>Origins</brand>
+        <size>100ml</size>
+        <saleprice></saleprice>
+        <price>209</price>
+        <description>迅速灌溉缺水肌肤，打开肌肤"水离子通道"，短短数分钟即刻为肌肤注入源源水分，卓效保湿，保护肌肤弹性。</description>
+        <unit>人民币</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>./image/origins_drink_up_mask.jpg</image>
+    </product>
+    <product>
+        <category>护肤类</category>
+        <name>活性炭清透洁肤面膜</name>
+        <brand>Origins</brand>
+        <size>100ml</size>
+        <saleprice></saleprice>
+        <price>209</price>
+        <description>活性碳成分，如同吸铁石般深彻吸收毛孔深处的细微油质、污物和浊质，清透洁净毛孔。</description>
+        <unit>人民币</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>./image/origins_clear_mask.jpg</image>
+    </product>
+    <product>
+        <category>护肤类</category>
+        <name>水润畅饮夜间滋养面膜</name>
+        <brand>Origins</brand>
+        <size>100ml</size>
+        <saleprice></saleprice>
+        <price>209</price>
+        <description>免洗型睡眠面膜，肌肤的晚间滋补汤，迅速修护受损细胞，密集滋养，强化肌肤保湿屏障。肌肤含水量急升，清晨重现饱满润泽。</description>
+        <unit>人民币</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>./image/origins_drink_up_overnight_mask.jpg</image>
+    </product>
+    <product>
+        <category>护肤类</category>
+        <name>韦博士灵芝焕能精华水</name>
+        <brand>Origins</brand>
+        <size>200ml</size>
+        <saleprice></saleprice>
+        <price>249</price>
+        <description>质地清盈，舒缓水润，提升肌肤修护力。迅速焕亮并强健肌肤，帮助抵御外界侵袭，肌肤更显强健、细嫩、透亮。</description>
+        <unit>人民币</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>./image/origins_wei_toner.jpg</image>
+    </product>
+    <product>
+        <category>护肤类</category>
+        <name>储水赋活凝乳</name>
+        <brand>Origins</brand>
+        <size>50ml</size>
+        <saleprice></saleprice>
+        <price>329</price>
+        <description>集复活草、西瓜荔枝、菱锰矿等天然植物精萃，促进肌肤深层水养循环，帮助赋活肌肤。润而不腻的轻盈质地，滋养长期缺水受损肌肤。</description>
+        <unit>人民币</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>./image/origins_treatment.jpg</image>
+    </product>
+    <product>
+        <category>护肤类</category>
+        <name>储水赋活面霜</name>
+        <brand>Origins</brand>
+        <size>50ml</size>
+        <saleprice></saleprice>
+        <price>329</price>
+        <description>集合复活草、西瓜荔枝、菱锰矿等天然植物精萃，质地丰盈润泽。蕴含阿苏果油、烛果油、芒果乳油萃取，改善干燥肌肤问题</description>
+        <unit>人民币</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>./image/origins_moisturizer.jpg</image>
+    </product>
+    <product>
+        <category>护肤类</category>
+        <name>活力唤亮醒肤凝乳</name>
+        <brand>Origins</brand>
+        <size>50ml</size>
+        <saleprice></saleprice>
+        <price>219</price>
+        <description>卓效醒肤能量，一扫肌肤暗沉疲惫，光彩活力；果冻质地，轻盈不油腻，迅速吸收，持久水润。三种天然植萃精油，怡人醒神。</description>
+        <unit>人民币</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>./image/origins_hydratant_moisturizer.jpg</image>
+    </product>
 
-  	<!-- GlamGlow -->
-  	<product>
-    	<category>护肤类</category>
-    	<name>双重焕肤泥浆面膜</name>
-    	<brand>GlamGlow</brand>
-    	<size>34g</size>
-		<saleprice></saleprice>
-    	<price>539</price>
-    	<description>帮助预防及解决常见的皮肤问题以及因水油不平衡，毛孔阻塞引起的肌肤问题。</description>
-    	<unit>人民币</unit>
-    	<coupon></coupon>
-    	<link></link>
-    	<image>./image/glamglow_white.jpg</image>
-  	</product>
-  	<product>
-    	<category>护肤类</category>
-    	<name>亮颜去角质泥面膜</name>
-    	<brand>GlamGlow</brand>
-    	<size>50g</size>
-		<saleprice></saleprice>
-    	<price>539</price>
-    	<description>复合成分, 刚柔并济, 扫除倦容, 唤回青春,打造性感娇艳好莱坞上镜肤质。</description>
-    	<unit>人民币</unit>
-    	<coupon></coupon>
-    	<link></link>
-    	<image>./image/glamglow_black.jpg</image>
-  	</product>
-  	<product>
-    	<category>护肤类</category>
-    	<name>天然补水舒缓海泥面膜</name>
-    	<brand>GlamGlow</brand>
-    	<size>50g</size>
-		<saleprice></saleprice>
-    	<price>539</price>
-    	<description>含天然椰子，蜂蜜，姜，维他命C、E，燕麦萃取等，融合玻尿酸和柠檬酸，深层锁水保湿。</description>
-    	<unit>人民币</unit>
-    	<coupon></coupon>
-    	<link></link>
-    	<image>./image/glamglow_blue.jpg</image>
-  	</product>
-	<product>
-    	<category>护肤类</category>
-    	<name>卸妆清洁面膜</name>
-    	<brand>GlamGlow</brand>
-    	<size>50g</size>
-		<saleprice></saleprice>
-    	<price>539</price>
-    	<description>采用特色仙人球油，松油，乳香油和没药油与新CLAYTOX™4粘土排毒系统，深层清洁皮肤。</description>
-    	<unit>人民币</unit>
-    	<coupon></coupon>
-    	<link></link>
-    	<image>./image/glamglow_green.jpg</image>
-  	</product>
+    <!-- GlamGlow -->
+    <product>
+        <category>护肤类</category>
+        <name>双重焕肤泥浆面膜</name>
+        <brand>GlamGlow</brand>
+        <size>34g</size>
+        <saleprice></saleprice>
+        <price>539</price>
+        <description>帮助预防及解决常见的皮肤问题以及因水油不平衡，毛孔阻塞引起的肌肤问题。</description>
+        <unit>人民币</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>./image/glamglow_white.jpg</image>
+    </product>
+    <product>
+        <category>护肤类</category>
+        <name>亮颜去角质泥面膜</name>
+        <brand>GlamGlow</brand>
+        <size>50g</size>
+        <saleprice></saleprice>
+        <price>539</price>
+        <description>复合成分, 刚柔并济, 扫除倦容, 唤回青春,打造性感娇艳好莱坞上镜肤质。</description>
+        <unit>人民币</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>./image/glamglow_black.jpg</image>
+    </product>
+    <product>
+        <category>护肤类</category>
+        <name>天然补水舒缓海泥面膜</name>
+        <brand>GlamGlow</brand>
+        <size>50g</size>
+        <saleprice></saleprice>
+        <price>539</price>
+        <description>含天然椰子，蜂蜜，姜，维他命C、E，燕麦萃取等，融合玻尿酸和柠檬酸，深层锁水保湿。</description>
+        <unit>人民币</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>./image/glamglow_blue.jpg</image>
+    </product>
+    <product>
+        <category>护肤类</category>
+        <name>卸妆清洁面膜</name>
+        <brand>GlamGlow</brand>
+        <size>50g</size>
+        <saleprice></saleprice>
+        <price>539</price>
+        <description>采用特色仙人球油，松油，乳香油和没药油与新CLAYTOX™4粘土排毒系统，深层清洁皮肤。</description>
+        <unit>人民币</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>./image/glamglow_green.jpg</image>
+    </product>
 
     <!-- 服饰类 -->
     <!-- Columbia -->
@@ -1221,7 +1221,7 @@
         <name>男士防雨防风冲锋衣-灰色</name>
         <brand>Columbia</brand>
         <size>M/L</size>
-        <saleprice>499</saleprice>
+        <saleprice></saleprice>
         <price>709</price>
         <description></description>
         <unit>人民币</unit>
@@ -1234,7 +1234,7 @@
         <name>男士防雨防风冲锋衣-亮红</name>
         <brand>Columbia</brand>
         <size>S/M/L/XL</size>
-        <saleprice>499</saleprice>
+        <saleprice></saleprice>
         <price>709</price>
         <description></description>
         <unit>人民币</unit>
@@ -1247,7 +1247,7 @@
         <name>男士柔软内绒外套-深蓝</name>
         <brand>Columbia</brand>
         <size>S/M/L/XL</size>
-        <saleprice>699</saleprice>
+        <saleprice></saleprice>
         <price>1099</price>
         <description></description>
         <unit>人民币</unit>
@@ -1260,7 +1260,7 @@
         <name>男士柔软内绒外套-灰色</name>
         <brand>Columbia</brand>
         <size>S/M</size>
-        <saleprice>699</saleprice>
+        <saleprice></saleprice>
         <price>1099</price>
         <description></description>
         <unit>人民币</unit>
@@ -1286,7 +1286,7 @@
         <name>女士防雨防风冲锋衣-玫红</name>
         <brand>Columbia</brand>
         <size>XS/S/M/L</size>
-        <saleprice>499</saleprice>
+        <saleprice></saleprice>
         <price>699</price>
         <description></description>
         <unit>人民币</unit>
@@ -1299,7 +1299,7 @@
         <name>女士防雨防风冲锋衣-红色</name>
         <brand>Columbia</brand>
         <size>XS/S/M/L</size>
-        <saleprice>499</saleprice>
+        <saleprice></saleprice>
         <price>699</price>
         <description></description>
         <unit>人民币</unit>
@@ -1312,7 +1312,7 @@
         <name>女士防雨防风冲锋衣-蓝色</name>
         <brand>Columbia</brand>
         <size>XS/S/M/L</size>
-        <saleprice>499</saleprice>
+        <saleprice></saleprice>
         <price>699</price>
         <description></description>
         <unit>人民币</unit>
@@ -1643,7 +1643,7 @@
         <name>运动手环-黑</name>
         <brand>Jawbone</brand>
         <size>S/M/L</size>
-        <saleprice>459</saleprice>
+        <saleprice></saleprice>
         <price>619</price>
         <description></description>
         <unit>人民币</unit>
@@ -1656,7 +1656,7 @@
         <name>运动手环-红</name>
         <brand>Jawbone</brand>
         <size>S/M/L</size>
-        <saleprice>459</saleprice>
+        <saleprice></saleprice>
         <price>619</price>
         <description></description>
         <unit>人民币</unit>
@@ -1669,7 +1669,7 @@
         <name>运动手环-蓝</name>
         <brand>Jawbone</brand>
         <size>S/M/L</size>
-        <saleprice>459</saleprice>
+        <saleprice></saleprice>
         <price>619</price>
         <description></description>
         <unit>人民币</unit>
@@ -1682,7 +1682,7 @@
         <name>运动手环-银</name>
         <brand>Jawbone</brand>
         <size>S/M/L</size>
-        <saleprice>459</saleprice>
+        <saleprice></saleprice>
         <price>619</price>
         <description></description>
         <unit>人民币</unit>
@@ -1850,152 +1850,152 @@
     </product>
     
 
-	<!-- 
-  	<product>
-    	<category>彩妆类</category>
-    	<name>Naked眼影盘1号</name>
-    	<brand>Urban Decay</brand>
-    	<size>12*1.5g</size>
-		<saleprice></saleprice>
-    	<price></price>
-    	<description></description>
-    	<unit>人民币</unit>
-    	<coupon></coupon>
-    	<link></link>
-    	<image>./image/naked_1.jpg</image>
-  	</product>
-  	<product>
-    	<category>彩妆类</category>
-    	<name>Naked眼影盘2号</name>
-    	<brand>Urban Decay</brand>
-    	<size>12*1.5g</size>
-		<saleprice></saleprice>
-    	<price></price>
-    	<description></description>
-    	<unit>人民币</unit>
-    	<coupon></coupon>
-    	<link></link>
-    	<image>./image/naked_2.jpg</image>
-  	</product>
-  	<product>
-    	<category>彩妆类</category>
-    	<name>Naked眼影盘3号</name>
-    	<brand>Urban Decay</brand>
-    	<size>12*1.5g</size>
-		<saleprice></saleprice>
-    	<price></price>
-    	<description></description>
-    	<unit>人民币</unit>
-    	<coupon></coupon>
-    	<link></link>
-    	<image>./image/naked_3.jpg</image>
-  	</product>
-	<product>
-    	<category>彩妆类</category>
-    	<name>UD妆前乳</name>
-    	<brand>Urban Decay</brand>
-    	<size>11ml</size>
-		<saleprice></saleprice>
-    	<price></price>
-    	<description></description>
-    	<unit>人民币</unit>
-    	<coupon></coupon>
-    	<link></link>
-    	<image>./image/ud_prime.jpg</image>
-  	</product>
+    <!-- 
+    <product>
+        <category>彩妆类</category>
+        <name>Naked眼影盘1号</name>
+        <brand>Urban Decay</brand>
+        <size>12*1.5g</size>
+        <saleprice></saleprice>
+        <price></price>
+        <description></description>
+        <unit>人民币</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>./image/naked_1.jpg</image>
+    </product>
+    <product>
+        <category>彩妆类</category>
+        <name>Naked眼影盘2号</name>
+        <brand>Urban Decay</brand>
+        <size>12*1.5g</size>
+        <saleprice></saleprice>
+        <price></price>
+        <description></description>
+        <unit>人民币</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>./image/naked_2.jpg</image>
+    </product>
+    <product>
+        <category>彩妆类</category>
+        <name>Naked眼影盘3号</name>
+        <brand>Urban Decay</brand>
+        <size>12*1.5g</size>
+        <saleprice></saleprice>
+        <price></price>
+        <description></description>
+        <unit>人民币</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>./image/naked_3.jpg</image>
+    </product>
+    <product>
+        <category>彩妆类</category>
+        <name>UD妆前乳</name>
+        <brand>Urban Decay</brand>
+        <size>11ml</size>
+        <saleprice></saleprice>
+        <price></price>
+        <description></description>
+        <unit>人民币</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>./image/ud_prime.jpg</image>
+    </product>
 
-	
-  	<product>
-    	<category>彩妆类</category>
-    	<name>反孔精英脸部底霜</name>
-    	<brand>Benefit</brand>
-    	<size>22ml</size>
-		<originprice>310</originprice>
-    	<price>240</price>
-    	<description></description>
-    	<unit>人民币</unit>
-    	<coupon></coupon>
-    	<link></link>
-    	<image>./image/benefit_pore_fessional.jpg</image>
-  	</product>
-  	<product>
-    	<category>彩妆类</category>
-    	<name>好无油虑打底霜</name>
-    	<brand>Benefit</brand>
-    	<size>24g</size>
-		<originprice>330</originprice>
-    	<price>230</price>
-    	<description></description>
-    	<unit>人民币</unit>
-    	<coupon></coupon>
-    	<link></link>
-    	<image>./image/benefit_dr_feelgood.jpg</image>
-  	</product>
-  	<product>
-    	<category>彩妆类</category>
-    	<name>胭脂水</name>
-    	<brand>Benefit</brand>
-    	<size>12.5ml</size>
-		<originprice>330</originprice>
-    	<price>230</price>
-    	<description></description>
-    	<unit>人民币</unit>
-    	<coupon></coupon>
-    	<link></link>
-    	<image>./image/benefit_tint.jpg</image>
-  	</product>
-  	<product>
-    	<category>彩妆类</category>
-    	<name>花样胭脂水</name>
-    	<brand>Benefit</brand>
-    	<size>12.5ml</size>
-		<originprice>330</originprice>
-    	<price>230</price>
-    	<description></description>
-    	<unit>人民币</unit>
-    	<coupon></coupon>
-    	<link></link>
-    	<image>./image/benefit_posie_tint.jpg</image>
-  	</product>
-  	<product>
-    	<category>彩妆类</category>
-    	<name>蒲公英蜜粉</name>
-    	<brand>Benefit</brand>
-    	<size>7g</size>
-		<originprice>290</originprice>
-    	<price>220</price>
-    	<description></description>
-    	<unit>人民币</unit>
-    	<coupon></coupon>
-    	<link></link>
-    	<image>./image/benefit_dandelion.jpg</image>
-  	</product>
-  	<product>
-    	<category>彩妆类</category>
-    	<name>超模粉红光影液</name>
-    	<brand>Benefit</brand>
-    	<size>13ml</size>
-		<originprice>250</originprice>
-    	<price>220</price>
-    	<description></description>
-    	<unit>人民币</unit>
-    	<coupon></coupon>
-    	<link></link>
-    	<image>./image/benefit_high_beam.jpg</image>
-  	</product>
-  	<product>
-    	<category>彩妆类</category>
-    	<name>那个女孩光亮面霜</name>
-    	<brand>Benefit</brand>
-    	<size>11ml</size>
-		<originprice>310</originprice>
-    	<price>220</price>
-    	<description></description>
-    	<unit>人民币</unit>
-    	<coupon></coupon>
-    	<link></link>
-    	<image>./image/benefit_primer.jpg</image>
-  	</product>
-	-->
+    
+    <product>
+        <category>彩妆类</category>
+        <name>反孔精英脸部底霜</name>
+        <brand>Benefit</brand>
+        <size>22ml</size>
+        <originprice>310</originprice>
+        <price>240</price>
+        <description></description>
+        <unit>人民币</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>./image/benefit_pore_fessional.jpg</image>
+    </product>
+    <product>
+        <category>彩妆类</category>
+        <name>好无油虑打底霜</name>
+        <brand>Benefit</brand>
+        <size>24g</size>
+        <originprice>330</originprice>
+        <price>230</price>
+        <description></description>
+        <unit>人民币</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>./image/benefit_dr_feelgood.jpg</image>
+    </product>
+    <product>
+        <category>彩妆类</category>
+        <name>胭脂水</name>
+        <brand>Benefit</brand>
+        <size>12.5ml</size>
+        <originprice>330</originprice>
+        <price>230</price>
+        <description></description>
+        <unit>人民币</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>./image/benefit_tint.jpg</image>
+    </product>
+    <product>
+        <category>彩妆类</category>
+        <name>花样胭脂水</name>
+        <brand>Benefit</brand>
+        <size>12.5ml</size>
+        <originprice>330</originprice>
+        <price>230</price>
+        <description></description>
+        <unit>人民币</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>./image/benefit_posie_tint.jpg</image>
+    </product>
+    <product>
+        <category>彩妆类</category>
+        <name>蒲公英蜜粉</name>
+        <brand>Benefit</brand>
+        <size>7g</size>
+        <originprice>290</originprice>
+        <price>220</price>
+        <description></description>
+        <unit>人民币</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>./image/benefit_dandelion.jpg</image>
+    </product>
+    <product>
+        <category>彩妆类</category>
+        <name>超模粉红光影液</name>
+        <brand>Benefit</brand>
+        <size>13ml</size>
+        <originprice>250</originprice>
+        <price>220</price>
+        <description></description>
+        <unit>人民币</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>./image/benefit_high_beam.jpg</image>
+    </product>
+    <product>
+        <category>彩妆类</category>
+        <name>那个女孩光亮面霜</name>
+        <brand>Benefit</brand>
+        <size>11ml</size>
+        <originprice>310</originprice>
+        <price>220</price>
+        <description></description>
+        <unit>人民币</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>./image/benefit_primer.jpg</image>
+    </product>
+    -->
 
 </ShoppingList>

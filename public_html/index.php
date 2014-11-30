@@ -11,7 +11,7 @@
     <meta name="author" content="">
     <link rel="icon" href="../../favicon.ico">
     <title>Logpie</title>
-    <link href="./bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="http://libs.baidu.com/bootstrap/3.0.3/css/bootstrap.min.css" rel="stylesheet">
     <link href="./css/offcanvas.css" rel="stylesheet">
   </head>
   <body style="font-family:微软雅黑">
@@ -91,7 +91,7 @@
       </footer>
     </div>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-    <script src="./bootstrap/js/bootstrap.min.js"></script>
+    <script src="http://libs.baidu.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
     <script src="./js/offcanvas.js"></script>
 	<script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){

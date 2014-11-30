@@ -42,7 +42,8 @@
     	<name_en>Kiehl's</name_en>
     	<name_cn>契尔氏</name_cn>
     	<description></description>
-		  <saledate>感恩节限时时间：2014.11.25 - 2014.12.1</saledate>
+		<saledate></saledate>
+		<!--<saledate>感恩节限时时间：2014.11.25 - 2014.12.1</saledate>-->
     	<image>./image/Kiehls.jpg</image>
   	</brand>
 
@@ -78,7 +79,8 @@
     	<name_en>Clinique</name_en>
     	<name_cn>倩碧</name_cn>
     	<description></description>
-		  <saledate>感恩节限时活动：2014.11.26 - 2014.12.1</saledate>
+		<saledate></saledate>
+		 <!--<saledate>感恩节限时活动：2014.11.26 - 2014.12.1</saledate>-->
     	<image>./image/Clinique.jpg</image>
   	</brand>
 
@@ -105,7 +107,8 @@
     	<name_en>Philosophy</name_en>
     	<name_cn>自然哲理</name_cn>
     	<description></description>
-		  <saledate>感恩节限时时间：2014.11.25 - 2014.11.27</saledate>
+		<saledate></saledate>
+		<!--<saledate>感恩节限时时间：2014.11.25 - 2014.11.27</saledate>-->
     	<image>./image/Philosophy.jpg</image>
   	</brand>
 	
