@@ -216,7 +216,7 @@
     </product>
     <product>
         <category>保健类</category>
-        <name>孕妇专用维生素(不含铁)</name>
+        <name>孕妇专用维生素-不含铁</name>
         <brand>GNC</brand>
         <size>60粒</size>
         <saleprice></saleprice>
@@ -268,7 +268,7 @@
     </product>
     <product>
         <category>保健类</category>
-        <name>特效维骨力(关节配方)</name>
+        <name>特效维骨力-关节配方</name>
         <brand>GNC</brand>
         <size>120粒</size>
         <saleprice></saleprice>
@@ -827,9 +827,9 @@
     <!-- Clinique -->
     <product>
         <category>护肤类</category>
-        <name>洗脸皂(干性/混合/油性)</name>
+        <name>洗脸皂-干性/混合/油性</name>
         <brand>Clinique</brand>
-        <size>150g(带皂盒)</size>
+        <size>150g-带皂盒</size>
         <saleprice></saleprice>
         <price>171</price>
         <description>使肌肤保持清新，洁净，舒适，无干燥紧绷感。分为柔性、温和型和加强型，适合不同肌肤类型。  </description>
@@ -840,7 +840,7 @@
     </product>
     <product>
         <category>护肤类</category>
-        <name>液体洗脸皂(干性/混合/油性)</name>
+        <name>液体洗脸皂-干性/混合/油性</name>
         <brand>Clinique</brand>
         <size>200ml</size>
          <saleprice></saleprice>
@@ -894,7 +894,7 @@
     </product>
     <product>
         <category>护肤类</category>
-        <name>清莹柔肤水(干性)</name>
+        <name>清莹柔肤水-干性</name>
         <brand>Lancome</brand>
         <size>200ml</size>
         <saleprice></saleprice>
@@ -940,7 +940,7 @@
         <size>125/200ml</size>
         <saleprice></saleprice>
         <price></price>
-        <description>含有挥发性油脂（不含酒精）和温和的清洁因子。卸除眼部防水彩妆，不油腻，适合敏感的眼部肌肤。</description>
+        <description>含有挥发性油脂-不含酒精）和温和的清洁因子。卸除眼部防水彩妆，不油腻，适合敏感的眼部肌肤。</description>
         <unit>人民币</unit>
         <coupon></coupon>
         <link></link>
@@ -1337,7 +1337,7 @@
     <!-- CK -->
     <product>
         <category>服饰类</category>
-        <name>男士黑色三角内裤(3件装)</name>
+        <name>男士黑色三角内裤-3件装</name>
         <brand>CK</brand>
         <size>L/XL</size>
         <saleprice></saleprice>
@@ -1350,7 +1350,7 @@
     </product>
     <product>
         <category>服饰类</category>
-        <name>男士黑色平角内裤(3件装)</name>
+        <name>男士黑色平角内裤-3件装</name>
         <brand>CK</brand>
         <size>S/M/L/XL</size>
         <saleprice></saleprice>
@@ -1363,7 +1363,7 @@
     </product>
     <product>
         <category>服饰类</category>
-        <name>男士白色平角内裤(3件装)</name>
+        <name>男士白色平角内裤-3件装</name>
         <brand>CK</brand>
         <size>S/M/L/XL</size>
         <saleprice></saleprice>
@@ -1376,7 +1376,7 @@
     </product>
     <product>
         <category>服饰类</category>
-        <name>男士黑色长款内裤(3件装)</name>
+        <name>男士黑色长款内裤-3件装</name>
         <brand>CK</brand>
         <size>S/M/L/XL</size>
         <saleprice></saleprice>
@@ -1389,7 +1389,7 @@
     </product>
     <product>
         <category>服饰类</category>
-        <name>男士红边白色长款内裤(3件装)</name>
+        <name>男士红边白色长款内裤-3件装</name>
         <brand>CK</brand>
         <size>S/M/L/XL</size>
         <saleprice></saleprice>
@@ -1402,7 +1402,7 @@
     </product>
     <product>
         <category>服饰类</category>
-        <name>男士蓝边白色长款内裤(3件装)</name>
+        <name>男士蓝边白色长款内裤-3件装</name>
         <brand>CK</brand>
         <size>L/XL</size>
         <saleprice></saleprice>
@@ -1415,7 +1415,7 @@
     </product>
     <product>
         <category>服饰类</category>
-        <name>女士黑色三角内裤(3件装)</name>
+        <name>女士黑色三角内裤-3件装</name>
         <brand>CK</brand>
         <size>L</size>
         <saleprice></saleprice>
@@ -1428,7 +1428,7 @@
     </product>
     <product>
         <category>服饰类</category>
-        <name>女士白色三角内裤(3件装)</name>
+        <name>女士白色三角内裤-3件装</name>
         <brand>CK</brand>
         <size>L</size>
         <saleprice></saleprice>
@@ -1441,7 +1441,7 @@
     </product>
     <product>
         <category>服饰类</category>
-        <name>女士黑色平角内裤(3件装)</name>
+        <name>女士黑色平角内裤-3件装</name>
         <brand>CK</brand>
         <size>L</size>
         <saleprice></saleprice>
@@ -1454,7 +1454,7 @@
     </product>
     <product>
         <category>服饰类</category>
-        <name>女士白色三角内裤(3件装)</name>
+        <name>女士白色三角内裤-3件装</name>
         <brand>CK</brand>
         <size>L</size>
         <saleprice></saleprice>
@@ -1586,7 +1586,7 @@
     </product>
     <product>
         <category>服饰类</category>
-        <name>软底平底鞋(宽版)</name>
+        <name>软底平底鞋-宽版</name>
         <brand>Minnetonka</brand>
         <size>5/5.5/6/6.5/7/7.5/8</size>
         <saleprice></saleprice>
