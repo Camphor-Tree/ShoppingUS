@@ -453,7 +453,7 @@
         <brand>L'il Critters</brand>
         <size>200粒</size>
         <saleprice></saleprice>
-        <price>100</price>
+        <price>150</price>
         <description></description>
         <unit>人民币</unit>
         <coupon></coupon>
@@ -466,7 +466,7 @@
         <brand>L'il Critters</brand>
         <size>180粒</size>
         <saleprice></saleprice>
-        <price>95</price>
+        <price>150</price>
         <description></description>
         <unit>人民币</unit>
         <coupon></coupon>
@@ -479,7 +479,7 @@
         <brand>L'il Critters</brand>
         <size>275粒/r</size>
         <saleprice></saleprice>
-        <price>95</price>
+        <price>150</price>
         <description></description>
         <unit>人民币</unit>
         <coupon></coupon>
@@ -495,7 +495,7 @@
         <brand>Fresh</brand>
         <size>50ml/150ml</size>
         <saleprice></saleprice>
-        <price>125/299</price>
+        <price>123/315</price>
         <description>大豆和氨基酸、玫瑰花水及青瓜水等为主要成分，彻底洁净肌肤之余并锁住肌肤水份，保持肌肤弹性</description>
         <unit>人民币</unit>
         <coupon></coupon>
@@ -508,7 +508,7 @@
         <brand>Fresh</brand>
         <size>250ml</size>
         <saleprice></saleprice>
-        <price>299</price>
+        <price>336</price>
         <description>蕴含100％纯净玫瑰花水，能有效镇静舒缓肌肤，具有保湿功能。不含酒精，金盏花成份更能收缩毛孔。</description>
         <unit>人民币</unit>
         <coupon></coupon>
@@ -521,7 +521,7 @@
         <brand>Fresh</brand>
         <size>50ml</size>
         <saleprice></saleprice>
-        <price>329</price>
+        <price>339</price>
         <description>含有每日抗衰老保湿配方专有的7个成分，抗衰老、保持水分对抗皱纹，保持骨胶原蛋白，增加透明质酸含量。</description>
         <unit>人民币</unit>
         <coupon></coupon>
@@ -534,7 +534,7 @@
         <brand>Fresh</brand>
         <size>15ml</size>
         <saleprice></saleprice>
-        <price>639</price>
+        <price>665</price>
         <description>蕴含黑茶萃取，专门针对脆弱的衰老部位，从底层抚平皱纹，淡化幼纹及细纹，有效紧致眼部肌肤。</description>
         <unit>人民币</unit>
         <coupon></coupon>
@@ -547,7 +547,7 @@
         <brand>Fresh</brand>
         <size>125g</size>
         <saleprice></saleprice>
-        <price>439</price>
+        <price>529</price>
         <description>含有香甜滋润的黄糖，野生草莓及白芒花籽修护油,具有深层滋润，去角质及抗氧化的功能。</description>
         <unit>人民币</unit>
         <coupon></coupon>
@@ -560,7 +560,7 @@
         <brand>Fresh</brand>
         <size>100ml</size>
         <saleprice></saleprice>
-        <price>649</price>
+        <price>748</price>
         <description>蕴含精选俄罗斯及亚洲极品黑茶，配合荔枝仔精华，抗氧化，紧致肌肤，抚平细纹，肌肤会变得柔软光滑。</description>
         <unit>人民币</unit>
         <coupon></coupon>
@@ -573,7 +573,7 @@
         <brand>Fresh</brand>
         <size>100ml</size>
         <saleprice></saleprice>
-        <price>439</price>
+        <price>516</price>
         <description>采用极品的保加利亚玫瑰，及顶级大马士革玫瑰精萃而成，集高效保湿及修护功效一体，使肌肤水嫩透亮。</description>
         <unit>人民币</unit>
         <coupon></coupon>
@@ -588,7 +588,7 @@
         <brand>Kiehl's</brand>
         <size>50ml/125ml</size>
         <saleprice></saleprice>
-        <price>224/408</price>
+        <price>222/380</price>
         <description>萃取南极的冷冻保护蛋白，具有防冻、抗干燥，强效的保湿功效。锁住肌肤表面水分达到全天的保湿效果。</description>
         <unit>人民币</unit>
         <coupon></coupon>
@@ -601,7 +601,7 @@
         <brand>Kiehl's</brand>
         <size>14/28g</size>
         <saleprice></saleprice>
-        <price>228/371</price>
+        <price>227/350</price>
         <description>含有牛油果油的丰润配方，能给娇嫩的眼部肌肤足够的保湿。                                      </description>
         <unit>人民币</unit>
         <coupon></coupon>
@@ -614,7 +614,7 @@
         <brand>Kiehl's</brand>
         <size>150ml</size>
         <saleprice></saleprice>
-        <price>203</price>
+        <price>200</price>
         <description>内含亚马逊白泥、翠叶芦荟萃取、皂土、燕麦粉等高效肌肤净致成分，帮助肌肤排毒、净化毛孔、深层清洁。</description>
         <unit>人民币</unit>
         <coupon></coupon>
@@ -627,7 +627,7 @@
         <brand>Kiehl's</brand>
         <size>125ml/250ml</size>
         <saleprice></saleprice>
-        <price>186/311</price>
+        <price>183/290</price>
         <description>添加天然金盏花成分，不含酒精，能温和清洁和舒缓中偏油性肌肤、均衡调理肌肤的油脂。                 </description>
         <unit>人民币</unit>
         <coupon></coupon>
@@ -636,11 +636,11 @@
     </product>
     <product>
         <category>护肤类</category>
-        <name>集焕白均衡亮肤淡斑精华液</name>
+        <name>集焕白亮肤淡斑精华液</name>
         <brand>Kiehl's</brand>
         <size>30ml/50ml</size>
         <saleprice></saleprice>
-        <price>402/620</price>
+        <price>380/580</price>
         <description>含活力维C、白桦、牡丹萃取精华，深层修护亮白，有效淡化班点，预防斑点生成，均匀肤色，肌肤更显无瑕润白。</description>
         <unit>人民币</unit>
         <coupon></coupon>
@@ -653,7 +653,7 @@
         <brand>Kiehl's</brand>
         <size>30ml/50ml</size>
         <saleprice></saleprice>
-        <price>375/574</price>
+        <price>360/540</price>
         <description>100%天然萃取的植物精油，集合角鲨烷，月见草油，向日葵籽油，于夜间改善受损的肌肤，增加肌肤细胞活力。</description>
         <unit>人民币</unit>
         <coupon></coupon>
@@ -666,7 +666,7 @@
         <brand>Kiehl's</brand>
         <size>75ml/250ml/500ml</size>
         <saleprice></saleprice>
-        <price>70/187/304</price>
+        <price>75/170/280</price>
         <description>蕴含小麦氨基酸类、椰子油、水解小麦蛋白及水解小麦淀粉，帮助清洁秀发的同时，滋养、柔顺秀发。       </description>
         <unit>人民币</unit>
         <coupon></coupon>
@@ -679,12 +679,142 @@
         <brand>Kiehl's</brand>
         <size>75ml/200ml/250ml</size>
         <saleprice></saleprice>
-        <price>70/195/320</price>
+        <price>75/189/309</price>
         <description>蕴含水解小麦蛋白、小麦氨基酸等，质地清新温和，为头发带来健康光彩。帮助呵护头发、强化发质，易于打理。</description>
         <unit>人民币</unit>
         <coupon></coupon>
         <link></link>
         <image>./image/kiehls_amino_acid_conditioner.jpg</image>
+    </product>
+    <product>
+        <category>护肤类</category>
+        <name>节日礼包A</name>
+        <brand>Kiehl's</brand>
+        <size>6件装</size>
+        <saleprice></saleprice>
+        <price>571</price>
+        <description>包含：身体乳250ml，蜂蜜身体磨砂200ml，高保湿霜7ml，细润美手霜30ml，夜间修护精华4ml，1号唇膏15ml</description>
+        <unit>人民币</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>./image/kiehls_valueset_1218.jpg</image>
+    </product>
+    <product>
+        <category>护肤类</category>
+        <name>节日礼包B</name>
+        <brand>Kiehl's</brand>
+        <size>6件装</size>
+        <saleprice></saleprice>
+        <price>540</price>
+        <description>包含：男士活力重现精华乳液75ml，男士洁面者哩250ml，男士燕麦磨砂皂90g，男士紧致面霜7ml</description>
+        <unit>人民币</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>./image/kiehls_valueset_1219.jpg</image>
+    </product>
+    <product>
+        <category>护肤类</category>
+        <name>节日礼包C</name>
+        <brand>Kiehl's</brand>
+        <size>4件装</size>
+        <saleprice></saleprice>
+        <price>710</price>
+        <description>包含：维生素C紧肤精华乳液50ml，高保湿霜50ml，牛油果保湿眼霜14g，夜间修护精华液4ml</description>
+        <unit>人民币</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>./image/kiehls_valueset_1220.jpg</image>
+    </product>
+    <product>
+        <category>护肤类</category>
+        <name>节日礼包D</name>
+        <brand>Kiehl's</brand>
+        <size>4件装</size>
+        <saleprice></saleprice>
+        <price>622</price>
+        <description>包含：夜间修护精华液30ml，夜间修护眼霜15ml，高保湿霜7ml，高保湿洁面啫喱30ml</description>
+        <unit>人民币</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>./image/kiehls_valueset_1221.jpg</image>
+    </product>
+    <product>
+        <category>护肤类</category>
+        <name>节日礼包E</name>
+        <brand>Kiehl's</brand>
+        <size>4件装</size>
+        <saleprice></saleprice>
+        <price>274</price>
+        <description>包含：4只1号唇膏45ml（原味，芒果，蔓越莓，薄荷）</description>
+        <unit>人民币</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>./image/kiehls_valueset_1222.jpg</image>
+    </product>
+    <product>
+        <category>护肤类</category>
+        <name>节日礼包F</name>
+        <brand>Kiehl's</brand>
+        <size>5件装</size>
+        <saleprice></saleprice>
+        <price>806</price>
+        <description>包含：维C紧肤精华乳50ml，夜间修护精华30ml，细润美手霜30ml，集焕白亮肤淡斑精华4ml，紧致面霜7ml</description>
+        <unit>人民币</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>./image/kiehls_valueset_1223.jpg</image>
+    </product>
+    <product>
+        <category>护肤类</category>
+        <name>节日礼包G</name>
+        <brand>Kiehl's</brand>
+        <size>3件装</size>
+        <saleprice></saleprice>
+        <price>288</price>
+        <description>包含：3只细润美手霜70ml</description>
+        <unit>人民币</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>./image/kiehls_valueset_1224.jpg</image>
+    </product>
+    <product>
+        <category>护肤类</category>
+        <name>节日礼包H</name>
+        <brand>Kiehl's</brand>
+        <size>5件装</size>
+        <saleprice></saleprice>
+        <price>287</price>
+        <description>包含：全身保湿护肤乳70ml，高保湿霜7ml，高保湿洁面啫喱70ml，细润美手霜30ml，1号唇膏15ml</description>
+        <unit>人民币</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>./image/kiehls_valueset_1225.jpg</image>
+    </product>
+    <product>
+        <category>护肤类</category>
+        <name>节日礼包I</name>
+        <brand>Kiehl's</brand>
+        <size>5件装</size>
+        <saleprice></saleprice>
+        <price>404</price>
+        <description>包含：高保湿霜50ml，高保湿精华爽肤水70ml，高保湿洁面啫喱70ml，高保湿面膜7ml，夜间修护精华液4ml</description>
+        <unit>人民币</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>./image/kiehls_valueset_1226.jpg</image>
+    </product>
+    <product>
+        <category>护肤类</category>
+        <name>节日礼包J</name>
+        <brand>Kiehl's</brand>
+        <size>2件装</size>
+        <saleprice></saleprice>
+        <price>174</price>
+        <description>包含：1号唇膏45ml，细润美手霜30ml</description>
+        <unit>人民币</unit>
+        <coupon></coupon>
+        <link></link>
+        <image>./image/kiehls_valueset_1227.jpg</image>
     </product>
 
     <!-- Estee Lauder -->
@@ -831,7 +961,7 @@
         <brand>Clinique</brand>
         <size>150g-带皂盒</size>
         <saleprice></saleprice>
-        <price>171</price>
+        <price>155</price>
         <description>使肌肤保持清新，洁净，舒适，无干燥紧绷感。分为柔性、温和型和加强型，适合不同肌肤类型。  </description>
         <unit>人民币</unit>
         <coupon></coupon>
@@ -844,7 +974,7 @@
         <brand>Clinique</brand>
         <size>200ml</size>
          <saleprice></saleprice>
-        <price>140</price>
+        <price>131</price>
         <description>保护肌肤的天然水份平衡，无干燥紧绷感。分为柔性、温和型和加强型，适合不同肌肤类型。       </description>
         <unit>人民币</unit>
         <coupon></coupon>
@@ -857,7 +987,7 @@
         <brand>Clinique</brand>
         <size>50ml/125ml</size>
         <saleprice></saleprice>
-        <price>128/241</price>
+        <price>126/239</price>
         <description>有效防止肌肤水分流失及过敏现象，让肌肤变成可导入养分的湿海绵，啫哩配方满足油性皮肤的需求。</description>
         <unit>人民币</unit>
         <coupon></coupon>
@@ -870,7 +1000,7 @@
         <brand>Clinique</brand>
         <size>50ml/125ml</size>
         <saleprice></saleprice>
-        <price>128/241</price>
+        <price>126/239</price>
         <description>修护天然肌肤保护膜，弹润膜力崭新升级：由内牢牢锁住肌底源源水润，肌肤充盈饱满。          </description>
         <unit>人民币</unit>
         <coupon></coupon>
@@ -954,7 +1084,7 @@
         <brand>Philosophy</brand>
         <size>90ml/240ml</size>
         <saleprice></saleprice>
-        <price>89/189</price>
+        <price>99/234</price>
         <description>配方温和，含天竺葵、花梨木、肉桂等多重植物成分，一次性清洁污垢和化妆残渍，平衡酸碱值，收敛毛孔。</description>
         <unit>人民币</unit>
         <coupon></coupon>
@@ -967,7 +1097,7 @@
         <brand>Philosophy</brand>
         <size>30ml/60ml</size>
         <saleprice></saleprice>
-        <price>239/329</price>
+        <price>243/343</price>
         <description>有效对抗皱纹、斑点、粗糙、干燥。含提升肌肤免疫力的葡聚糖，抗氧化。温和乳酸成份可去除老化角质层。</description>
         <unit>人民币</unit>
         <coupon></coupon>
@@ -983,7 +1113,7 @@
         <brand>Origins</brand>
         <size>100ml</size>
         <saleprice></saleprice>
-        <price>209</price>
+        <price>221</price>
         <description>迅速灌溉缺水肌肤，打开肌肤"水离子通道"，短短数分钟即刻为肌肤注入源源水分，卓效保湿，保护肌肤弹性。</description>
         <unit>人民币</unit>
         <coupon></coupon>
@@ -996,7 +1126,7 @@
         <brand>Origins</brand>
         <size>100ml</size>
         <saleprice></saleprice>
-        <price>209</price>
+        <price>221</price>
         <description>活性碳成分，如同吸铁石般深彻吸收毛孔深处的细微油质、污物和浊质，清透洁净毛孔。</description>
         <unit>人民币</unit>
         <coupon></coupon>
@@ -1009,7 +1139,7 @@
         <brand>Origins</brand>
         <size>100ml</size>
         <saleprice></saleprice>
-        <price>209</price>
+        <price>221</price>
         <description>免洗型睡眠面膜，肌肤的晚间滋补汤，迅速修护受损细胞，密集滋养，强化肌肤保湿屏障。肌肤含水量急升，清晨重现饱满润泽。</description>
         <unit>人民币</unit>
         <coupon></coupon>
@@ -1022,7 +1152,7 @@
         <brand>Origins</brand>
         <size>200ml</size>
         <saleprice></saleprice>
-        <price>249</price>
+        <price>259</price>
         <description>质地清盈，舒缓水润，提升肌肤修护力。迅速焕亮并强健肌肤，帮助抵御外界侵袭，肌肤更显强健、细嫩、透亮。</description>
         <unit>人民币</unit>
         <coupon></coupon>
@@ -1035,7 +1165,7 @@
         <brand>Origins</brand>
         <size>50ml</size>
         <saleprice></saleprice>
-        <price>329</price>
+        <price>319</price>
         <description>集复活草、西瓜荔枝、菱锰矿等天然植物精萃，促进肌肤深层水养循环，帮助赋活肌肤。润而不腻的轻盈质地，滋养长期缺水受损肌肤。</description>
         <unit>人民币</unit>
         <coupon></coupon>
@@ -1048,7 +1178,7 @@
         <brand>Origins</brand>
         <size>50ml</size>
         <saleprice></saleprice>
-        <price>329</price>
+        <price>319</price>
         <description>集合复活草、西瓜荔枝、菱锰矿等天然植物精萃，质地丰盈润泽。蕴含阿苏果油、烛果油、芒果乳油萃取，改善干燥肌肤问题</description>
         <unit>人民币</unit>
         <coupon></coupon>
@@ -1076,7 +1206,7 @@
         <brand>GlamGlow</brand>
         <size>34g</size>
         <saleprice></saleprice>
-        <price>539</price>
+        <price>519</price>
         <description>帮助预防及解决常见的皮肤问题以及因水油不平衡，毛孔阻塞引起的肌肤问题。</description>
         <unit>人民币</unit>
         <coupon></coupon>
@@ -1089,7 +1219,7 @@
         <brand>GlamGlow</brand>
         <size>50g</size>
         <saleprice></saleprice>
-        <price>539</price>
+        <price>519</price>
         <description>复合成分, 刚柔并济, 扫除倦容, 唤回青春,打造性感娇艳好莱坞上镜肤质。</description>
         <unit>人民币</unit>
         <coupon></coupon>
@@ -1102,7 +1232,7 @@
         <brand>GlamGlow</brand>
         <size>50g</size>
         <saleprice></saleprice>
-        <price>539</price>
+        <price>519</price>
         <description>含天然椰子，蜂蜜，姜，维他命C、E，燕麦萃取等，融合玻尿酸和柠檬酸，深层锁水保湿。</description>
         <unit>人民币</unit>
         <coupon></coupon>
@@ -1115,7 +1245,7 @@
         <brand>GlamGlow</brand>
         <size>50g</size>
         <saleprice></saleprice>
-        <price>539</price>
+        <price>519</price>
         <description>采用特色仙人球油，松油，乳香油和没药油与新CLAYTOX™4粘土排毒系统，深层清洁皮肤。</description>
         <unit>人民币</unit>
         <coupon></coupon>

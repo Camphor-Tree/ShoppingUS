@@ -47,6 +47,7 @@
     	<image>./image/Kiehls.jpg</image>
   	</brand>
 
+<!--
   	<brand>
 		<category>护肤类</category>
     	<name_en>Estee Lauder</name_en>
@@ -55,6 +56,7 @@
 		  <saledate></saledate>
     	<image>./image/EsteeLauder.jpg</image>
   	</brand>
+-->
 
   	<brand>
 		<category>护肤类</category>
@@ -84,6 +86,7 @@
     	<image>./image/Clinique.jpg</image>
   	</brand>
 
+<!--
   	<brand>
 		<category>护肤类</category>
     	<name_en>Lancome</name_en>
@@ -101,6 +104,7 @@
 		  <saledate></saledate>
     	<image>./image/GlamGlow.jpg</image>
   	</brand>
+-->
 	
 	 <brand>
 		  <category>护肤类</category>
@@ -217,7 +221,7 @@
     <name_en>Jawbone</name_en>
     <name_cn></name_cn>
     <description></description>
-    <saledate>限时活动：数量有限，售完为止</saledate>
+    <saledate></saledate>
     <image>./image/Jawbone.png</image>
   </brand>
 
