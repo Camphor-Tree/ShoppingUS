@@ -38,18 +38,9 @@
         </div>
       </div>
     </nav>
-
-
     <div class="container">
-
       <div class="row row-offcanvas row-offcanvas-right">
-
         <div class="col-xs-12 col-sm-12">
-          <!--
-          <p class="pull-right visible-xs">
-            <button type="button" class="btn btn-primary btn-xs" data-toggle="offcanvas">Toggle nav</button>
-          </p>
-          -->
           <?php
             $product_array = getProductsBrandArray();
             $current_brand = $_GET["brand"];
@@ -110,10 +101,10 @@
 								} else {?> <b>暂无折扣，敬请关注</b> <?php } ?>
 				</div>
 				<div style="padding-top:10px">
-				<input id="<?php print_r($product['name'])?>_count" class="form-control" type="number"  style="float:left;width:90px;height:32px;padding-left:0px;text-align:center;" hint="数量">
+				<input id="<?php print_r($product['id'])?>_count" class="form-control" type="number"  style="float:left;width:90px;height:32px;padding-left:0px;text-align:center;" hint="数量">
 				
-				<input id=<?php print_r($product['name'])?>_data" type="hidden" value="<?php print_r(json_encode($product))?>"></input>
-				<button  id="<?php print_r($product['name'])?>" class="btn btn-info btn-sm" style="float:left;height:32px;width:90px;">加入购物车</button>
+				<input id=<?php print_r($product['id'])?>_data" type="hidden" value="<?php print_r(json_encode($product))?>"></input>
+				<button  id="<?php print_r($product['id'])?>" class="btn btn-info btn-sm" style="float:left;height:32px;width:90px;">加入购物车</button>
 				</div>
             </div>
 			<?php } ?>
@@ -128,13 +119,11 @@
 		  <?php } ?>
 
       </div>
-
       <hr>
 	  </div>
       <footer>
         <p>&copy; <b>www.logpie.com 2014</b></p>
       </footer>
-
     </div>
 
     <!-- Bootstrap core JavaScript
@@ -142,13 +131,12 @@
     <!-- Placed at the end of the document so the pages load faster -->
     <script src="http://libs.baidu.com/jquery/2.0.0/jquery.min.js"></script>
     <script src="http://libs.baidu.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
-
     <script src="./js/offcanvas.js"></script>
 		<script> 
 	<?php foreach($brand_product_array as $product) 
   { ?>
-	$( "#<?php print_r($product["name"]);?>" ).click(function() {
-  var nc=parseInt($("#<?php print_r($product["name"]);?>_count").val());
+	$( "#<?php print_r($product["id"]);?>" ).click(function() {
+  var nc=parseInt($("#<?php print_r($product["id"]);?>_count").val());
   var parameter={"product": <?php print_r(json_encode($product))?>,
 	       "count":nc};
   if(isNaN(nc)||nc<=0)
@@ -156,7 +144,7 @@
 	alert("请输入合法的数量");
 	return;
   }
-  $( "#<?php print_r($product["name"]);?>_count" ).val("");
+  $( "#<?php print_r($product["id"]);?>_count" ).val("");
   $.ajax({
     type: "POST",
     url: "./cart_handler.php",
