@@ -37,6 +37,9 @@
     </nav>
     <div class="container">
 		<img src="./image/Logo.png" class="img-responsive center-block">
+		<br/>
+		<div style="color:#FF0000;font-size:18px; text-align:center;">**更多限时折扣，请前往Logpie官方微信(logpiezxqy)查看！**</div>
+		<br/>
 		<div class="row row-offcanvas row-offcanvas-right">
         <div class="col-xs-12 col-sm-12">
           <?php  $brand_array = getBrandArray();

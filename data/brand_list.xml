@@ -86,6 +86,15 @@
     	<image>./image/Clinique.jpg</image>
   	</brand>
 
+  	<brand>
+		<category>护肤类</category>
+    	<name_en>The Body Shop</name_en>
+    	<name_cn>美体小铺</name_cn>
+    	<description></description>
+		<saledate></saledate>
+		 <!--<saledate>感恩节限时活动：2014.11.26 - 2014.12.1</saledate>-->
+    	<image>./image/TheBodyShop.jpg</image>
+  	</brand>
 <!--
   	<brand>
 		<category>护肤类</category>
