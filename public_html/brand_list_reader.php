@@ -2,7 +2,7 @@
 
 function getBrandArray()
 {
-	header('Content-Type: text/html; charset=utf-8');
+	//header('Content-Type: text/html; charset=utf-8');
 	//Read the shopping list into array
 	$xmlPath="../data/brand_list.xml";
 	$xml = simplexml_load_file($xmlPath);

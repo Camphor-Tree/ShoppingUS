@@ -13,6 +13,27 @@
     <title>Logpie</title>
     <link href="http://libs.baidu.com/bootstrap/3.0.3/css/bootstrap.min.css" rel="stylesheet">
     <link href="./css/offcanvas.css" rel="stylesheet">
+	<style type="text/css">
+h2{
+    margin: 0;     
+    color: #666;
+    padding-top: 90px;
+    font-size: 52px;
+    font-family: "trebuchet ms", sans-serif;    
+}
+.item{
+    background: #CFCFCF;    
+    text-align: center;
+    height: 300px !important;
+}
+.carousel{
+    margin-top: 20px;
+}
+.bs-example{
+	margin: 20px;
+}
+
+</style>
   </head>
   <body style="font-family:微软雅黑">
     <nav class="navbar navbar-fixed-top navbar-inverse" role="navigation">
@@ -36,10 +57,57 @@
       </div>
     </nav>
     <div class="container">
-		<img src="./image/Logo.png" class="img-responsive center-block">
-		<br/>
-		<div style="color:#FF0000;font-size:18px; text-align:center;">**更多限时折扣，请前往Logpie官方微信(logpiezxqy)查看！**</div>
-		<br/>
+
+
+<div class="bs-example">
+	                   	<img src="./image/Logo.png" class="img-responsive center-block">
+    <div id="myCarousel" class="carousel slide" data-interval="3000" data-ride="carousel">
+    	<!-- Carousel indicators -->
+        <ol class="carousel-indicators">
+            <li data-target="#myCarousel" data-slide-to="0" class="active" style="background-color:#606060"></li>
+            <li data-target="#myCarousel" data-slide-to="1" style="background-color:#606060"></li>
+            <li data-target="#myCarousel" data-slide-to="2" style="background-color:#606060"></li>
+        </ol>   
+       <!-- Carousel items -->
+
+        <div class="carousel-inner">
+            <div class="active item">
+                <div class="carousel-caption"  style="color:#FE2E2E;font-size:18px; text-align:center;">
+                  <h3><b>更多限时折扣，请前往Logpie官方微信(logpiezxqy)查看！</b></h3>
+				  	<div style="text-align:left;">
+				    <li><p>实时报告北美<b>盛大</b>购物节日</p></li>
+					<li><p>实时关注北美日常给力<b>折扣</b></p></li>
+					<li><p>实时程序计算<b>最优</b>定价和运费，为客户节约每一分钱。</p></li>
+					</div>
+                </div>
+            </div>
+            <div class="item">
+                <div class="carousel-caption" style="color:#FE2E2E;font-size:18px;text-align:left;">
+					<h3>购物车功能火热上线! <b>免登陆、全匿名</b> 购物体验! </h3>
+				  <div >
+				    <li><p>添加商品至购物车: 选择商品,填写数量,加入购物车</p></li>
+					<li><p>访问购物车：点击上方导航栏 "购物车"</p></li>
+					<li><p>提交购物车：核对订单，填写联系方式和备注，点击提交</p></li>
+					</div>
+                </div>
+            </div>
+            <div class="item">
+			<div class="carousel-caption" style="color:#FE2E2E;font-size:18px;text-align:left;">
+					<h3>网站持续更新中... 欢迎各种意见建议。</h3>
+                  <h4>联系方式: 微信号 logpiezxqy</h4>
+				  </div>
+                
+            </div>
+        </div>
+        <!-- Carousel nav -->
+        <a class="carousel-control left" href="#myCarousel" data-slide="prev">
+            <span class="glyphicon glyphicon-chevron-left"></span>
+        </a>
+        <a class="carousel-control right" href="#myCarousel" data-slide="next">
+            <span class="glyphicon glyphicon-chevron-right"></span>
+        </a>
+    </div>
+</div>
 		<div class="row row-offcanvas row-offcanvas-right">
         <div class="col-xs-12 col-sm-12">
           <?php  $brand_array = getBrandArray();
