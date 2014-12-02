@@ -33,7 +33,7 @@
     	<name_en>Fresh</name_en>
     	<name_cn>馥蕾诗</name_cn>
     	<description></description>
-		  <saledate></saledate>
+		  <saledate>限时折扣：截止中国12月3日16点，部分产品8折优惠</saledate>
     	<image>./image/Fresh.jpg</image>
   	</brand>
 
@@ -72,7 +72,7 @@
     	<name_en>Origins</name_en>
     	<name_cn>悦木之源</name_cn>
     	<description></description>
-		  <saledate></saledate>
+		  <saledate>优惠促销：买150立减60</saledate>
     	<image>./image/Origins.jpg</image>
   	</brand>
 
@@ -86,25 +86,48 @@
     	<image>./image/Clinique.jpg</image>
   	</brand>
 
+    <brand>
+      <category>护肤类</category>
+      <name_en>Lancome</name_en>
+      <name_cn>兰蔻</name_cn>
+      <description></description>
+      <saledate>限时促销：截止中国12月7日，全场8折</saledate>
+      <image>./image/Lancome.jpg</image>
+    </brand>
+
+    <brand>
+      <category>护肤类</category>
+      <name_en>Philosophy</name_en>
+      <name_cn>自然哲理</name_cn>
+      <description></description>
+    <saledate></saledate>
+    <!--<saledate>感恩节限时时间：2014.11.25 - 2014.11.27</saledate>-->
+      <image>./image/Philosophy.jpg</image>
+    </brand>
+
   	<brand>
 		<category>护肤类</category>
     	<name_en>The Body Shop</name_en>
     	<name_cn>美体小铺</name_cn>
     	<description></description>
-		<saledate></saledate>
+		  <saledate></saledate>
 		 <!--<saledate>感恩节限时活动：2014.11.26 - 2014.12.1</saledate>-->
     	<image>./image/TheBodyShop.jpg</image>
   	</brand>
-<!--
+  	
   	<brand>
 		<category>护肤类</category>
-    	<name_en>Lancome</name_en>
-    	<name_cn>兰蔻</name_cn>
+    	<name_en>Erno Laszlo</name_en>
+    	<name_cn>奥伦纳素</name_cn>
     	<description></description>
-		  <saledate></saledate>
-    	<image>./image/Lancome.jpg</image>
+		  <saledate>优惠促销：全场8折</saledate>
+		 <!--<saledate>感恩节限时活动：2014.11.26 - 2014.12.1</saledate>-->
+    	<image>./image/ErnoLaszlo.jpg</image>
   	</brand>
-	
+
+  	
+
+<!--
   	<brand>
 		  <category>护肤类</category>
     	<name_en>GlamGlow</name_en>
@@ -115,15 +138,7 @@
   	</brand>
 -->
 	
-	 <brand>
-		  <category>护肤类</category>
-    	<name_en>Philosophy</name_en>
-    	<name_cn>自然哲理</name_cn>
-    	<description></description>
-		<saledate></saledate>
-		<!--<saledate>感恩节限时时间：2014.11.25 - 2014.11.27</saledate>-->
-    	<image>./image/Philosophy.jpg</image>
-  	</brand>
+	 
 	
 	 <brand>
 		<category>母婴类</category>
