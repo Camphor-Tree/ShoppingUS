@@ -51,59 +51,55 @@
 
         <div class="col-xs-12 col-sm-12">
 
-		   <div class="row">
-   <table class="table">
-	   <caption><div style="color:#FF8000">
-				<h2>购物车</h2>  
-			  </div>
-	   </caption>
-	   <thead>
-		  <tr>
-			 <th>产品</th>
-			 <th>规格</th>
-			  <th>单价</th>
-			 <th>数量</th>
-			  <th>小结</th>
-		  </tr>
-	   </thead>
-	   <tbody>
-   
-   <?php 
-		  foreach($shoppingCart as $product){ ?>
-      <tr class="success">
-         <td><?php print_r($product['name']);?></td>
-         <td><?php print_r($product['size']);?></td>
-         <td><?php print_r($product['price']);?></td>
-		  <td><?php print_r($product['count']);?></td>
-		  <td><?php print_r($product['count']*$product['price']); $totalPrice+=$product['count']*$product['price']?></td>
-      </tr>
-	<?php } ?>
-   </tbody>
-</table>
-		   </div>
-		</div>
+		      <div class="row">
+          <table class="table">
+	         <caption><div style="color:#FF8000">
+				    <h2>购物车</h2>  
+			       </div></caption>
+	           <thead>
+		          <tr>
+			           <th>产品</th>
+			           <th>规格</th>
+			           <th>单价</th>
+			           <th>数量</th>
+			           <th>小结</th>
+		          </tr>
+	           </thead>
+	         <tbody>  
+            <?php foreach($shoppingCart as $product){ ?>
+              <tr class="success">
+                <td><?php print_r($product['name']);?></td>
+                <td><?php print_r($product['size']);?></td>
+                <td><?php print_r($product['price']);?></td>
+		            <td><?php print_r($product['count']);?></td>
+		            <td><?php print_r($product['count']*$product['price']); $totalPrice+=$product['count']*$product['price']?></td>
+                </tr>
+	         <?php } ?>
+          </tbody>
+          </table>
+		      </div>
+		    </div>
       <hr>
-	  </div>
+	    </div>
 	  
   
-    <div class="control-group">
-
+        <div class="control-group">
           <!-- Text input-->
           <label class="control-label" for="input01">姓名</label>
           <div class="controls">
             <input id="name" type="text" placeholder="您的名字" class="input-xlarge" value="<?php if(isset($_SESSION["name"])) echo $_SESSION["name"];?>">
             <p class="help-block">Supporting help text</p>
           </div>
-        </div><div class="control-group">
-
+        </div>
+        <div class="control-group">
           <!-- Text input-->
           <label class="control-label" for="input01">联系方式</label>
           <div class="controls">
             <input id="contact" type="text" placeholder="手机/微信/QQ/email" class="input-xlarge">
             <p class="help-block">Supporting help text</p>
           </div>
-        </div><div class="control-group">
-
+        </div>
+        <div class="control-group">
           <!-- Textarea -->
           <label class="control-label">附加留言(可以说明一下规格尺寸之类的)</label>
           <div class="controls">
@@ -112,30 +108,37 @@
             </div>
           </div>
         </div>
-
        <div class="control-group">
           <label class="control-label"><h4>当前总价: <b style="color:#04B404"><?php print_r($totalPrice);?></b><h4></label>
-
           <!-- Button -->
-          <div class="controls">
+            <div class="controls">
             <button id="submit" class="btn btn-success">提交订单</button><button id="cancel" class="btn btn-danger">清除订单</button>
-          </div>
+            </div>
         </div>
 		<?php
 		}else{
 		?>
-		<div  align="center" style="color:#FE9A2E;margin-left:auto;margin-right:auto;" class="col-xs-12">
+		      <div  align="center" style="color:#FE9A2E;margin-left:auto;margin-right:auto;" class="col-xs-12">
             <h3>您的购物车目前为空!快去<a href="./">添加商品</a>吧！</h3>  
-       </div>
+          </div>
 	   </br>
 	   </br>
 		
 <?php }?>
-      <footer>
+  <style type="text/css">
+  .logpiefooter {
+    position : absolute;
+    bottom : 0;
+    height : 40px;
+    margin-top : 40px;
+    margin-left: 40px;
+    margin-right: auto;
+  }
+  </style>
+      <footer class="logpiefooter">
         <p>&copy; <b>www.logpie.com 2014</b></p>
-      </footer>
-	
-    </div>
+      </footer>	
+</div>
 
     <script src="http://libs.baidu.com/jquery/2.0.0/jquery.min.js"></script>
     <script src="http://libs.baidu.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
