@@ -33,7 +33,8 @@
           <ul class="nav navbar-nav">
             <li><a href="./">主页</a></li>
             <li><a href="./about.php">联系我们</a></li>
-			<li><a href="./order.php">购物车<sup id="count"><?php session_start();$cart = (new ShoppingCart); print_r($cart->getShoppingCartCount());?></sup></a></li>
+			 <li><a href="./order.php">购物车<sup id="count"><?php session_start();$cart = (new ShoppingCart); print_r($cart->getShoppingCartCount());?></sup></a></li>
+			 <li><a href="./message.php">给我留言</a></li>
           </ul>
         </div>
       </div>
@@ -51,7 +52,7 @@
         $brand_info = getBrandByName($current_brand);
           ?>
 		  
-          <div style="color:#FF8000;font-family:黑体;">
+          <div style="color:#FE9A2E;font-family:黑体;">
             <br/>
             <b style="font-size:22px;"> <?php print_r($current_brand); 
                 if(!empty($brand_info['name_cn']))

@@ -5,9 +5,21 @@ if (isset($_POST["name"])&&isset($_POST["contact"])) {
    $name=$_POST["name"];
    $contact=$_POST["contact"];
    $comment="无";
-   if($name==""||$contact=="")
+   if($name=="")
    {
-	print_r("姓名和联系方式不能为空!");
+		if(isset($_SESSION["name"]))
+		{
+			$name = $_SESSION["name"];
+		}
+		else
+		{
+			print_r("姓名不能为空!");
+			return;
+		}
+   }
+   if($contact=="")
+   {
+	print_r("我们需要联系方式来联系您 :)");
 	return;
    }
    

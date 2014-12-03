@@ -31,7 +31,8 @@
           <ul class="nav navbar-nav">
             <li><a href="./">主页</a></li>
             <li><a href="./about.php">联系我们</a></li>
-			 <li><a href="./order.php">购物车<sup id="count"><?php  session_start();$cart = (new ShoppingCart); print_r($cart->getShoppingCartCount());?></sup></a></li>
+			  <li class="active"><a href="./order.php">购物车<sup id="count"><?php  session_start();$cart = (new ShoppingCart); print_r($cart->getShoppingCartCount());?></sup></a></li>
+			 <li><a href="./message.php">给我留言</a></li>
           </ul>
         </div><!-- /.nav-collapse -->
       </div><!-- /.container -->
@@ -90,7 +91,7 @@
           <!-- Text input-->
           <label class="control-label" for="input01">姓名</label>
           <div class="controls">
-            <input id="name" type="text" placeholder="您的名字" class="input-xlarge">
+            <input id="name" type="text" placeholder="您的名字" class="input-xlarge" value="<?php if(isset($_SESSION["name"])) echo $_SESSION["name"];?>">
             <p class="help-block">Supporting help text</p>
           </div>
         </div><div class="control-group">
@@ -117,13 +118,13 @@
 
           <!-- Button -->
           <div class="controls">
-            <button id="submitt" class="btn btn-success">提交订单</button><button id="cancel" class="btn btn-danger">清除订单</button>
+            <button id="submit" class="btn btn-success">提交订单</button><button id="cancel" class="btn btn-danger">清除订单</button>
           </div>
         </div>
 		<?php
 		}else{
 		?>
-		<div  align="center" style="color:#FF8000;margin-left:auto;margin-right:auto;" class="col-xs-12">
+		<div  align="center" style="color:#FE9A2E;margin-left:auto;margin-right:auto;" class="col-xs-12">
             <h3>您的购物车目前为空!快去<a href="./">添加商品</a>吧！</h3>  
        </div>
 	   </br>
@@ -139,7 +140,7 @@
     <script src="http://libs.baidu.com/jquery/2.0.0/jquery.min.js"></script>
     <script src="http://libs.baidu.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
 	<script>
-	$("#submitt").click(function() {
+	$("#submit").click(function() {
 	var name=$("#name").val();
 	var contact=$("#contact").val();
 	var comment=$("#comment").val();

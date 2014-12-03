@@ -52,6 +52,7 @@ h2{
             <li class="active"><a href="./">主页</a></li>
             <li><a href="./about.php">联系我们</a></li>
 			<li><a href="./order.php">购物车<sup id="count"><?php  session_start();$cart = (new ShoppingCart); print_r($cart->getShoppingCartCount());?></sup></a></li>
+			<li><a href="./message.php">给我留言</a></li>
           </ul>
         </div>
       </div>

@@ -72,12 +72,12 @@
 		public function clearShoppingCart()
 		{
 			// remove all session variables
-			
 			if(isset($_SESSION['shoppingCart']))
 			{
+				//just clear the shopping cart, won't clear the session for name
 			    unset($_SESSION['shoppingCart']);
-				session_unset(); 
-				session_destroy();
+				//session_unset(); 
+				//session_destroy();
 			}
 		}
 		

@@ -30,7 +30,8 @@
           <ul class="nav navbar-nav">
             <li><a href="./">主页</a></li>
             <li class="active"><a href="./about.html">联系我们</a></li>
-			<li><a href="./order.php">购物车<sup id="count"><?php  session_start();$cart = (new ShoppingCart); print_r($cart->getShoppingCartCount());?></sup></a></li>
+			 <li><a href="./order.php">购物车<sup id="count"><?php  session_start();$cart = (new ShoppingCart); print_r($cart->getShoppingCartCount());?></sup></a></li>
+			 <li><a href="./message.php">给我留言</a></li>
           </ul>
         </div><!-- /.nav-collapse -->
       </div><!-- /.container -->
