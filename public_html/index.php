@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
     <meta name="author" content="">
-    <link rel="icon" href="../../favicon.ico">
+    <link rel="icon" href="./image/weblogo.png">
     <title>Logpie</title>
     <link href="http://libs.baidu.com/bootstrap/3.0.3/css/bootstrap.min.css" rel="stylesheet">
     <link href="./css/offcanvas.css" rel="stylesheet">
@@ -72,31 +72,13 @@ h2{
 
         <div class="carousel-inner">
             <div class="active item">
-                <div class="carousel-caption"  style="color:#FE2E2E;font-size:18px; text-align:center;">
-                  <h3><b>更多限时折扣，请前往Logpie官方微信(logpiezxqy)查看！</b></h3>
-				  	<div style="text-align:left;">
-				    <li><p>实时报告北美<b>盛大</b>购物节日</p></li>
-					<li><p>实时关注北美日常给力<b>折扣</b></p></li>
-					<li><p>实时程序计算<b>最优</b>定价和运费，为客户节约每一分钱。</p></li>
-					</div>
-                </div>
+                <img src="./image/salewindow_1.png">
             </div>
             <div class="item">
-                <div class="carousel-caption" style="color:#FE2E2E;font-size:18px;text-align:left;">
-					<h3>购物车功能火热上线! <b>免登陆、全匿名</b> 购物体验! </h3>
-				  <div >
-				    <li><p>添加商品至购物车: 选择商品,填写数量,加入购物车</p></li>
-					<li><p>访问购物车：点击上方导航栏 "购物车"</p></li>
-					<li><p>提交购物车：核对订单，填写联系方式和备注，点击提交</p></li>
-					</div>
-                </div>
+                <img src="./image/salewindow_2.png">
             </div>
             <div class="item">
-			<div class="carousel-caption" style="color:#FE2E2E;font-size:18px;text-align:left;">
-					<h3>网站持续更新中... 欢迎各种意见建议。</h3>
-                  <h4>联系方式: 微信号 logpiezxqy</h4>
-				  </div>
-                
+			          <img src="./image/salewindow_3.png">
             </div>
         </div>
         <!-- Carousel nav -->
