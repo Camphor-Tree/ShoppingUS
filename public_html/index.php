@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
     <meta name="author" content="">
-    <link rel="icon" href="./image/weblogo.png">
+    <link rel="icon" href="http://logpieimage.oss-cn-qingdao.aliyuncs.com/weblogo.png">
     <title>Logpie</title>
     <link href="http://libs.baidu.com/bootstrap/3.0.3/css/bootstrap.min.css" rel="stylesheet">
     <link href="./css/offcanvas.css" rel="stylesheet">
@@ -61,7 +61,7 @@ h2{
 
 
 <div class="bs-example">
-	                   	<img src="./image/Logo.png" class="img-responsive center-block">
+	                   	<img src="http://logpieimage.oss-cn-qingdao.aliyuncs.com/Logo.png" class="img-responsive center-block">
     <div id="myCarousel" class="carousel slide" data-interval="3000" data-ride="carousel">
     	<!-- Carousel indicators -->
         <ol class="carousel-indicators">
@@ -73,13 +73,13 @@ h2{
 
         <div class="carousel-inner">
             <div class="active item">
-                <img src="./image/salewindow_1.png">
+                <img src="http://logpieimage.oss-cn-qingdao.aliyuncs.com/salewindow_1.png">
             </div>
             <div class="item">
-                <img src="./image/salewindow_2.png">
+                <img src="http://logpieimage.oss-cn-qingdao.aliyuncs.com/salewindow_2.png">
             </div>
             <div class="item">
-			          <img src="./image/salewindow_3.png">
+			          <img src="http://logpieimage.oss-cn-qingdao.aliyuncs.com/salewindow_3.png">
             </div>
         </div>
         <!-- Carousel nav -->
@@ -119,7 +119,7 @@ h2{
 							{ 
 								print_r($brand['name_cn']);?>/<?php 	} print_r($brand['name_en']); 
 							if(!is_array($brand['saledate'])) 
-							{ ?>&nbsp;<img src="./image/onsale.jpg"><?php
+							{ ?>&nbsp;<img src="http://logpieimage.oss-cn-qingdao.aliyuncs.com/onsale.jpg"><?php
 							} ?>
 			  </h3>
               <img src="<?php print_r($brand['image'])?>" alt="<?php if(!is_array($brand['name_cn'])){print_r($brand['name_cn']);?>/<?php }print_r($brand['name_en'])?>" style="width:180px;height:144px;padding-bottom:15px;">
