@@ -42,13 +42,7 @@
       <div class="row row-offcanvas row-offcanvas-right">
 
         <div class="col-xs-12 col-sm-12">
-          <!--
-          <p class="pull-right visible-xs">
-            <button type="button" class="btn btn-primary btn-xs" data-toggle="offcanvas">Toggle nav</button>
-          </p>
-          -->
 		  <div class="jumbotron">
-      <br/>
 			<h2 style="color:#FE9A2E;">Logpie条款与细则</h2>
 			<p style="font-size:14px">* Logpie 致力于美国诚信代购。 初期阶段，只采用熟人介绍的方式。如有代购需求,请联系联络人。</p>
       <br/>
