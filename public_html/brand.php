@@ -55,17 +55,19 @@
           <div style="color:#FE9A2E;font-family:黑体;">
             <br/>
             <b style="font-size:22px;"> <?php print_r($current_brand); 
-                if(!empty($brand_info['name_cn']))
+                if(!empty($brand_info["name_cn"]))
                 {
                   print_r("/".$brand_info["name_cn"]);
                 }
                   if(!empty($brand_info["saledate"]))
-                  { ?> <img src="./image/onsale_large.png"></b>
+                  { ?> <img src="http://logpieimage.oss-cn-qingdao.aliyuncs.com/onsale_large.png"></b>
             <b style="color:#DF0101;font-size:18px;"> &nbsp;<?php   
                   print_r($brand_info["saledate"]);
                   } 
                  ?>
             </b>
+            <br/>
+            <?php if(!empty($brand_info['chart'])) { ?> <div style="font-size:18px;color:grey;font-family:黑体;">尺码参照表：<img src="<?php print_r($brand_info['chart'])?>"> <?php } ?>
           </div>
           <div class="row">
 		     <?php foreach($brand_product_array as $product) 

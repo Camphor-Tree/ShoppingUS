@@ -62,6 +62,7 @@ function getBrandByName( $current_brand )
 			{
 				$brand_info["name_cn"]=$brand["name_cn"];
 				$brand_info["saledate"]=$brand["saledate"];
+				$brand_info["chart"]=$brand["chart"];
 			}
 		}
 	}
