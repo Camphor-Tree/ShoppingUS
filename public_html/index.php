@@ -63,7 +63,6 @@ h2{
 <div class="bs-example">
 	 <img src="http://logpieimage.oss-cn-qingdao.aliyuncs.com/Logo.png" class="img-responsive center-block">
 	 </br>
-	 <div align="center" style="font-size:20px;color:#FE9A2E;"><b>Logpie官方微信：logpiezxqy</b></div>
     <div id="myCarousel" class="carousel slide" data-interval="3000" data-ride="carousel">
     	<!-- Carousel indicators -->
         <ol class="carousel-indicators">

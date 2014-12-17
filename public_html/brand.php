@@ -85,7 +85,7 @@
 				规格:&nbsp; <?php if(!is_array($product['size']))print_r($product['size']); ?>
 				</div>
 				<div style="width:180px; word-break: break-all;">
-				本店价格:&nbsp; <b style="color:#045FB4;"><?php if(!is_array($product['price']))
+				本店参考价:&nbsp; <b style="color:#045FB4;"><?php if(!is_array($product['price']))
 								{
 									print_r($product['price']);
 									?>
@@ -95,15 +95,7 @@
 									print_r("暂无价格");
 								} ?>
 				</div>
-				<div style="width:180px; word-break: break-all;">
-				折扣价:&nbsp; <?php if(!is_array($product['saleprice']))
-								{ ?> <b style="color:#DF0101;"> <?php
-									print_r($product['saleprice']);
-									?> </b> <?php if(!is_array($product['unit']))
-														print_r($product['unit']);
-								} else {?> <b>暂无折扣，敬请关注</b> <?php } ?>
-				</div>
-				<div style="padding-top:10px">
+                <div style="padding-top:10px">
 				<input id="<?php print_r($product['id'])?>_count" class="form-control" type="number"  style="float:left;width:90px;height:32px;padding-left:0px;text-align:center;" hint="数量">
 				
 				<input id=<?php print_r($product['id'])?>_data" type="hidden" value="<?php print_r(json_encode($product))?>"></input>
