@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <BrandList>
+    
+    <brand>
+        <category>首饰类</category>
+        <name_en>Tiffany</name_en>
+        <name_cn>蒂芙尼</name_cn>
+        <description></description>
+        <saledate></saledate>
+        <chart></chart>
+        <image>http://logpieimage.oss-cn-qingdao.aliyuncs.com/Tiffany.jpg</image>
+    </brand>
+    
+    <brand>
+        <category>首饰类</category>
+        <name_en>Dogeared</name_en>
+        <name_cn></name_cn>
+        <description></description>
+        <saledate></saledate>
+        <chart></chart>
+        <image>http://logpieimage.oss-cn-qingdao.aliyuncs.com/Dogeared.jpg</image>
+    </brand>
 
   <brand>
 		<category>护肤类</category>
@@ -31,7 +51,6 @@
 		  <saledate></saledate>
     	<image>http://logpieimage.oss-cn-qingdao.aliyuncs.com/EsteeLauder.jpg</image>
   	</brand>
--->
 
   	<brand>
 		<category>护肤类</category>
@@ -42,6 +61,7 @@
       <chart></chart>
     	<image>http://logpieimage.oss-cn-qingdao.aliyuncs.com/LaMer.jpg</image>
   	</brand>
+-->
 
   	<brand>
 		<category>护肤类</category>
@@ -120,17 +140,7 @@
   	</brand>
 -->
 	
-	<brand>
-    <category>首饰类</category>
-    <name_en>Tiffany</name_en>
-    <name_cn>蒂芙尼</name_cn>
-    <description></description>
-    <saledate></saledate>
-    <chart></chart>
-    <image>http://logpieimage.oss-cn-qingdao.aliyuncs.com/Tiffany.jpg</image>
-  </brand> 
-  
-  <brand>
+    <brand>
     <category>保健类</category>
       <name_en>GNC</name_en>
       <name_cn>健安喜</name_cn>
